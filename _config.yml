@@ -1,0 +1,14 @@
+theme: jekyll-theme-cayman
+# theme: jekyll-theme-minima
+
+title: Pwxn.xyz
+email: pwxn@pwxn.xyz
+description: About me and my personal development projects
+baseurl: ""
+url: ""
+github_username: pwxn
+show_downloads: false
+
+#markdown: gfm
+
+repository: pwxn/pwxnxyz
