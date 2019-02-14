@@ -2,7 +2,7 @@
 # theme: jekyll-theme-minima
 theme: jekyll-theme-modernist
 
-title: Pwxn.xyz
+title: Paul Landers at pwxn.xyz
 email: pwxn@pwxn.xyz
 description: About me and my personal development projects
 baseurl: ""
@@ -10,6 +10,6 @@ url: ""
 github_username: pwxn
 show_downloads: false
 
-#markdown: gfm
+markdown: kramdown
 
 repository: pwxn/pwxnxyz
