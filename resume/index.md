@@ -30,3 +30,4 @@ permalink: /resume/
   * Ely, MN
 
 [pdf version](resume.pdf)
+[linkedin](http://www.linkedin.com/in/paullanders-pwxnxyz)

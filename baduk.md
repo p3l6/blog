@@ -4,4 +4,4 @@ title: Go
 permalink: /baduk/
 ---
 
-Stuff about playing go.
+I enjoy playing Go. I am currently around an 8kyu rating.
