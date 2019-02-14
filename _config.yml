@@ -1,5 +1,6 @@
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
 # theme: jekyll-theme-minima
+theme: jekyll-theme-modernist
 
 title: Pwxn.xyz
 email: pwxn@pwxn.xyz
