@@ -4,9 +4,9 @@ theme: jekyll-theme-modernist
 
 title: Paul Landers at pwxn.xyz
 email: pwxn@pwxn.xyz
-description: About me and my personal development projects
+description: A site for my hobbies and development projects
 baseurl: ""
-url: ""
+url: "pwxn.xyz"
 github_username: pwxn
 show_downloads: false
 

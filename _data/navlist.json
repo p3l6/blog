@@ -1,14 +1,18 @@
 { "topnav": [
   { "title": "Home", "url": "/"},
-  { "title": "About", "url": "/", "subitems":[
-    { "title": "Resume", "url": "/resume/"}]},
-  { "title": "Hobbies", "url": "/", "subitems":[
-    { "title": "baduk", "url": "/baduk/"},
+  { "title": "About", "url": "", "subitems":[
+    { "title": "Resume", "url": "/resume/"},
+    ]},
+  { "title": "Hobbies", "url": "", "subitems":[
+    { "title": "Go", "url": "/baduk/"},
     { "title": "Keyboards", "url": "/keyboards/"},
-    { "title": "Bagpipes", "url": "/bagpipes/"}]},
+    { "title": "Bagpipes", "url": "/bagpipes/"},
+    ]},
+  { "title": "Projects", "url": "", "subitems":[
+    { "title": "TuneMinder", "url": "/projects/tuneminder/"},
+    ]},
+]},
+{ "future":[
+  { "title": "TicTacCubed", "url": "/notfound/"},
   { "title": "Blog", "url": "/posts/"},
-  { "title": "projects", "url": "/", "subitems":[
-    { "title": "TicTacCubed", "url": "/"},
-    { "title": "TuneMinder", "url": "/projects/tuneminder/"}]},
-]
-}
+]}
