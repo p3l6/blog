@@ -1,0 +1,14 @@
+{ "topnav": [
+  { "title": "Home", "url": "/"},
+  { "title": "About", "url": "/", "subitems":[
+    { "title": "Resume", "url": "/resume/"}]},
+  { "title": "Hobbies", "url": "/", "subitems":[
+    { "title": "baduk", "url": "/baduk/"},
+    { "title": "Keyboards", "url": "/keyboards/"},
+    { "title": "Bagpipes", "url": "/bagpipes/"}]},
+  { "title": "Blog", "url": "/posts/"},
+  { "title": "projects", "url": "/", "subitems":[
+    { "title": "TicTacCubed", "url": "/"},
+    { "title": "TuneMinder", "url": "/projects/tuneminder/"}]},
+]
+}
