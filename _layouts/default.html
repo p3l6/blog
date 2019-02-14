@@ -19,24 +19,7 @@
           <p>{{ site.description | default: site.github.project_tagline }}</p>
         {% endif %}
       </header>
-      <nav class="nav">
-        <ul>
-        {% for item in site.data.navlist.topnav %}
-          <li class="dropdown {% if item.url == page.url %}active{% endif %}">
-          {% if item.subitems[0] %}
-            <a class="dropbtn">{{ item.title }}</a>
-            <div class="dropdown-content">
-            {% for subentry in item.subitems %}
-              <a href="{{ subentry.url }}">{{ subentry.title }}</a>
-            {% endfor %}
-            </div>
-          {% else %}
-            <a class="dropbtn" href="{{ item.url }}">{{ item.title }}</a>
-          {% endif %}
-          </li>
-        {% endfor %}
-        </ul>
-      </nav>
+      {% include navigation.html %}
       <section>
       {{ content }}
       </section>
