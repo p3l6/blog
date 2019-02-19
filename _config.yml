@@ -13,3 +13,6 @@ show_downloads: false
 markdown: kramdown
 
 repository: pwxn/pwxnxyz
+
+plugins:
+  - jekyll-feed
