@@ -16,3 +16,6 @@ repository: pwxn/pwxnxyz
 
 plugins:
   - jekyll-feed
+
+timezone: America/Denver
+
