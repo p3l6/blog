@@ -6,7 +6,7 @@ permalink: /resume/
 
 ## Skills
 * Swift, Objective-C, Python
-* C++, C, Java, LaTeX, Php, Markdown
+* C++, C, Java, LaTeX, Markdown
 * Bash, Git, Svn, make, CMake, Redmine, Jira, Jenkins, Gitlab
 * OpenGL, Cocoa, GNUstep, iOS, Docker
 * Matlab, Vapor
