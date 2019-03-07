@@ -7,6 +7,7 @@
     { "title": "Go", "url": "/baduk/"},
     { "title": "Keyboards", "url": "/keyboards/"},
     { "title": "Bagpipes", "url": "/bagpipes/"},
+    { "title": "Brewing", "url": "/brewing/"},
     ]},
   { "title": "Projects", "url": "", "subitems":[
     { "title": "TuneMinder", "url": "/projects/tuneminder/"},
@@ -15,4 +16,5 @@
 ]},
 { "future":[
   { "title": "TicTacCubed", "url": "/projects/tictaccubed/"},
+  { "title": "Accounts", "url": "/accounts/"},
 ]}
