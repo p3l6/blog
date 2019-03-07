@@ -2,11 +2,11 @@
 # theme: jekyll-theme-minima
 theme: jekyll-theme-modernist
 
-title: Paul Landers at pwxn.xyz
-email: pwxn@pwxn.xyz
+title: Paul Landers at pwxn.dev
+email: pwxn@pwxn.dev
 description: A site for my hobbies and development projects
 baseurl: ""
-url: "pwxn.xyz"
+url: "pwxn.dev"
 github_username: pwxn
 show_downloads: false
 
