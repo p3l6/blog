@@ -19,3 +19,4 @@ plugins:
 
 timezone: America/Denver
 
+permalink: pretty

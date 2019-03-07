@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Tune Minder
-permalink: /projects/tuneminder/
 ---
 
 This project is still under development, but the basic concept is this:

@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Tic Tac Cubed
-permalink: /projects/tictaccubed/
 ---
 
 Tic Tac Cubed is a game for iOS developed by Paul Landers.
