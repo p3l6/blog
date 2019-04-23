@@ -1,20 +1,20 @@
 { "topnav": [
   { "title": "Home", "url": "/"},
   { "title": "About", "url": "", "subitems":[
-    { "title": "Resume", "url": "/resume/"},
+    { "title": "Resume", "url": "/resume/"}
     ]},
   { "title": "Hobbies", "url": "", "subitems":[
     { "title": "Go", "url": "/baduk/"},
     { "title": "Keyboards", "url": "/keyboards/"},
     { "title": "Bagpipes", "url": "/bagpipes/"},
-    { "title": "Brewing", "url": "/brewing/"},
+    { "title": "Brewing", "url": "/brewing/"}
     ]},
   { "title": "Projects", "url": "", "subitems":[
-    { "title": "TuneMinder", "url": "/projects/tuneminder/"},
+    { "title": "TuneMinder", "url": "/projects/tuneminder/"}
     ]},
-  { "title": "Blog", "url": "/blog/"},
-]},
-{ "future":[
+  { "title": "Blog", "url": "/blog/"}
+],
+"future":[
   { "title": "TicTacCubed", "url": "/projects/tictaccubed/"},
-  { "title": "Accounts", "url": "/accounts/"},
+  { "title": "Accounts", "url": "/accounts/"}
 ]}
