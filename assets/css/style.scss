@@ -3,6 +3,14 @@
 
 @import "{{ site.theme }}";
 
+.wrapper {
+  width: 840px;
+}
+
+footer {
+  width: 840px;
+}
+
 nav {
   ul {
     list-style-type: none;
