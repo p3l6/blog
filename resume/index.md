@@ -28,6 +28,5 @@ title: Resume
   * Summer: 2009,2010
   * Ely, MN
 
-[pdf version](resume.pdf)
-
+[Full Resume](resume.pdf)
 [linkedin](http://www.linkedin.com/in/paullanders-pwxnxyz)
