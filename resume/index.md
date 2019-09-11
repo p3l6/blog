@@ -11,9 +11,13 @@ title: Resume
 * Matlab, Vapor
 
 ## Employment
+* Senior Software Engineer
+  * States Title
+  * Sept 2019 - Present
+  * Durham, NC
 * Senior Software Developer
   * Eggplant (formerly Testplant)
-  * Aug 2014 - Present
+  * Aug 2014 - Sept 2019
   * Boulder, CO
 * Software Engineer
   * QiG Group, Greatbatch Medical
