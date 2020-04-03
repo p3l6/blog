@@ -18,4 +18,4 @@ As for keycaps, I am slowly aquiring more options. Below are some sets that I ha
 * XDA Middle Earth. 
 * SA Grab bag set. A random assortment of grab bag keys, but with the proper sculpting!
 * G20 Blanks. I used these on my first keyboard that had a really bizzare layout. 
-* (coming soon!) MT3 Godspeed.
+* MT3 Godspeed.
