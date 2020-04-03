@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: Paul Landers
 ---
 
 My name is Paul Landers, I live in Apex, NC.
