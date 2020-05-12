@@ -1,6 +1,7 @@
 ---
 layout: post
 author: Paul
+title: ABC Music Library
 ---
 
 Recently, I decided that personally typesetting all my bagpipe band music would be a good memory aid.

@@ -1,6 +1,7 @@
 ---
 layout: post
 author: Paul
+title: Initial Commit
 ---
 
 This is the first post to a new blog!
