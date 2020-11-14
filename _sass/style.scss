@@ -44,3 +44,10 @@ nav {
     clear: both;
   }
 }
+
+// Fix margin for nested bullets
+ul {
+  ul {
+    margin:0 0 0;
+  }
+}
