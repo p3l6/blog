@@ -11,7 +11,7 @@
     { "title": "Brewing", "url": "/brewing/"}
     ]},
   { "title": "Projects", "url": "", "subitems":[
-    { "title": "Quiz Tracker", "url": "/projects/quiztracker/"},
+    { "title": "Trivia Tracker", "url": "/projects/triviatracker/"},
     { "title": "TicTacCubed", "url": "/projects/tictaccubed/"}
     ]},
   { "title": "Blog", "url": "/blog/"}

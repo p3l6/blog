@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Quiz Tracker
+title: Trivia Tracker
 ---
 
 ::App store badge::
 
-Quiz Tracker is an app for iPhone and iPad developed by Paul Landers.
+Trivia Tracker is an app for iPhone and iPad developed by Paul Landers.
 
-It is a score tracker; as you watch a quiz episode[^1] and call out answers, you can use the app to mark whether or not you were correct. Then, at the end you can compare your score to your friends and family, or the contestants themselves!
+It is a score tracker; as you watch a trivia episode[^1] and call out answers, you can use the app to mark whether or not you were correct. Then, at the end you can compare your score to your friends and family, or the contestants themselves!
 
 ### Features:
 * Individual clues can be marked "Correct", "Wrong", or "Skipped"
@@ -28,8 +28,8 @@ For support or help with this app, contact the [developer](paul@thelanders.famil
 
 - - -
 
-[usage]: /assets/images/quiztracker/usage.png "Example of standard usasge"
-[categories]: /assets/images/quiztracker/categories.png "The category entry screen"
-[settings]: /assets/images/quiztracker/settings.png "The settings screen"
+[usage]: /assets/images/triviatracker/usage.png "Example of standard usasge"
+[categories]: /assets/images/triviatracker/categories.png "The category entry screen"
+[settings]: /assets/images/triviatracker/settings.png "The settings screen"
 
 [^1]: The creator of this app is not affiliated with any game shows in any capacity. 
