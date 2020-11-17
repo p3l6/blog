@@ -15,7 +15,5 @@
     { "title": "TicTacCubed", "url": "/projects/tictaccubed/"}
     ]},
   { "title": "Blog", "url": "/blog/"}
-],
-"future":[
-  { "title": "TuneMinder", "url": "/projects/tuneminder/"}
-]}
+]
+}
