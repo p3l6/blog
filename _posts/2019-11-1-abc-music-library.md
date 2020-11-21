@@ -12,7 +12,7 @@ In the rest of this article, I will go over various parts of my system.
 
 The high level view of the project is a number of `.abc` files stored in a git repository with a makefile to generate pdfs.
 This has the obvious advantages of source control and versioning that I have come to expect as given in my programming career.
-It also has reproducability: I prefer not to be at the mercy of WYSIWYG typesetting programs.
+It also has reproducibility: I prefer not to be at the mercy of WYSIWYG typesetting programs.
 
 I used a makefile to keep things simple, and generate all the pdfs from source with only one command: `make`. There's nothing terribly clever about it, but that's the simplicity of make.
 
@@ -54,6 +54,6 @@ Another aspect of this project was creating a formatting file to give a similar 
 
 In order to accomplish this, I did end up digging into the abc library, [abcm2ps](https://github.com/leesavide/abcm2ps). I added two parameters on my fork of this repo that I use in my format file.
 
-One, `nowrap` disables all automatic line wrapping. Normally, the program will try to break lines on measures when they get too full, but that wasn't working for me. Bagpipe line density quickly filled up the lines and would not leave the standard 4 measures per line. However, the implementation for this turned into a bit of a hack and I am not confident that it will always work, or produce readable results. So it is not something I would reccomend including in the upstream fork. However, it has been working for me, with everything I've tried to score so far.
+One, `nowrap` disables all automatic line wrapping. Normally, the program will try to break lines on measures when they get too full, but that wasn't working for me. Bagpipe line density quickly filled up the lines and would not leave the standard 4 measures per line. However, the implementation for this turned into a bit of a hack and I am not confident that it will always work, or produce readable results. So it is not something I would recommend including in the upstream fork. However, it has been working for me, with everything I've tried to score so far.
 
 Second, `flatbeamgracing` is an option very similar to the previous `flatbeams`, except that it only affects grace notes, and not others. This is consistent with how I expect pipe music to look, and I was already in a position to make it happen since I had built my fork as part of the makefile. This option could be a candidate to include upstream if anyone else were to be interested.

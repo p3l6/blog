@@ -17,7 +17,7 @@ For the most part, development in SwiftUI was enjoyable!
 The biggest caveat I found was some issues with `.actionSheet` on iPad.
 Probably related to my specific use case: 
 * I have many many text fields in a grid, all with an associated actionSheet.
-* They all respond to tap gestures instead of being actual buttons, which is workaround for another issue I ran into - coundn't detect long taps on a Button.
+* They all respond to tap gestures instead of being actual buttons, which is workaround for another issue I ran into - couldn't detect long taps on a Button.
 * The result was clicking in the background to hide the action sheet not working correctly, and actually trying to activate the new sheet from whatever box was tapped in the background.
 
 I spent a few sessions trying to work around these issues. In the end, I just disabled the `.actionSheet` functionality while running on iPad.

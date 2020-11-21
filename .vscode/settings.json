@@ -1,3 +1,18 @@
 {
-  "files.trimTrailingWhitespace": false
+  "files.trimTrailingWhitespace": false,
+  "cSpell.words": [
+    "Lockdown",
+    "Reeder",
+    "XIBs",
+    "dotfiles",
+    "endfor",
+    "gracenotes",
+    "gracings",
+    "inoreader",
+    "keycaps",
+    "keycodes",
+    "lagering",
+    "pdfs",
+    "pwxn"
+  ]
 }

@@ -3,7 +3,7 @@ layout: default
 title: Keyboards
 ---
 
-Currently my main keyboards are a ca66, and a hhkb layout dz60 in a kbfans 5 degree case.
+Currently my main keyboards are a ca66, and a hhkb layout dz60 in a 5 degree case.
 I got into this hobby because I wanted to program my own layout, and add little tricks and shortcuts for the keys.
 That is really fun!
 I am able to have access to have all the keys on a full keyboard, but in a more compact space.
