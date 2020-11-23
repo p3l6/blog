@@ -1,5 +1,7 @@
 {
   "files.trimTrailingWhitespace": false,
+  
+  "cSpell.enabled": true,
   "cSpell.words": [
     "Lockdown",
     "Reeder",
@@ -13,6 +15,8 @@
     "keycodes",
     "lagering",
     "pdfs",
-    "pwxn"
+    "piperack",
+    "pwxn",
+    "pwxndev"
   ]
 }
