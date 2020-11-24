@@ -4,7 +4,7 @@ theme: jekyll-theme-modernist
 
 title: Paul Landers at pwxn.dev
 email: pwxn@pwxn.dev
-description: A site for my hobbies and development projects
+description: Paul Landers' hobbies and software development
 baseurl: ""
 url: "pwxn.dev"
 github_username: pwxn
@@ -16,6 +16,7 @@ repository: pwxn/pwxndev
 
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 
 timezone: America/Denver
 
