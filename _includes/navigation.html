@@ -2,16 +2,22 @@
 {% for row in site.data.navlist.topnav.rows %}
   <ul>
   {% for item in row.items %}
-    <li class="dropdown {% if item.url == page.url %}active{% endif %}">
+    <li class="dropdown">
     {% if item.subitems[0] %}
-      <a class="dropbtn">{{ item.title }}</a>
+      <a class="dropbtn {% if item.url == page.url %}active{% endif %}">
+        {{ item.title }}
+      </a>
       <div class="dropdown-content">
-      {% for subentry in item.subitems %}
-        <a href="{{ subentry.url }}">{{ subentry.title }}</a>
+      {% for subitem in item.subitems %}
+        <a href="{{ subitem.url }}" class="{% if subitem.url == page.url %}active{% endif %}">
+          {{ subitem.title }}
+        </a>
       {% endfor %}
       </div>
     {% else %}
-      <a class="dropbtn" href="{{ item.url }}">{{ item.title }}</a>
+      <a class="dropbtn {% if item.url == page.url %}active{% endif %}" href="{{ item.url }}">
+        {{ item.title }}
+      </a>
     {% endif %}
     </li>
   {% endfor %}
