@@ -1,6 +1,7 @@
 <nav class="nav">
+{% for row in site.data.navlist.topnav.rows %}
   <ul>
-  {% for item in site.data.navlist.topnav %}
+  {% for item in row.items %}
     <li class="dropdown {% if item.url == page.url %}active{% endif %}">
     {% if item.subitems[0] %}
       <a class="dropbtn">{{ item.title }}</a>
@@ -15,4 +16,5 @@
     </li>
   {% endfor %}
   </ul>
+{% endfor %}
 </nav>

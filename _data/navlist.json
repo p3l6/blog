@@ -1,5 +1,11 @@
-{ "topnav": [
+{ "topnav": { "rows": [
+
+{ "items": [
   { "title": "Home", "url": "/"},
+  { "title": "Blog", "url": "/blog/"}
+]},
+
+{ "items": [
   { "title": "About", "url": "", "subitems":[
     { "title": "Resume", "url": "/resume/"},
     { "title": "On the Web", "url": "/accounts/"}
@@ -13,7 +19,7 @@
   { "title": "Projects", "url": "", "subitems":[
     { "title": "Trivia Tracker", "url": "/projects/triviatracker/"},
     { "title": "TicTacCubed", "url": "/projects/tictaccubed/"}
-    ]},
-  { "title": "Blog", "url": "/blog/"}
-]
-}
+    ]}
+]}
+
+]}}

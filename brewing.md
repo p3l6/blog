@@ -1,11 +1,8 @@
 ---
 layout: default
 title: Bowline Brewing
+logo: /assets/images/brewing/logo-clear.svg
 ---
-
-<div style="text-align: center">
-<img src="/assets/images/brewing/logo-clear.svg" width="200">
-</div>
 
 # Welcome to Bowline Brewing
 

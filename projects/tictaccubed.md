@@ -22,4 +22,4 @@ It is similar to traditional tic tac toe, except that each square has another sm
 Not currently available on the app store.
 
 ### Support
-For support or help with this app, contact the [developer](paul.landers.dev@gmail.com).
+For support or help with this app, contact the me.

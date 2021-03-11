@@ -24,7 +24,7 @@ It is a score tracker; as you watch a trivia episode[^1] and call out answers, y
 ![Settings](/assets/images/triviatracker/settings.png)
 
 ### Support
-For support or help with this app, contact the [developer](paul@thelanders.family).
+For support or help with this app, contact the [developer](mailto:paul@thelanders.family).
 
 - - -
 

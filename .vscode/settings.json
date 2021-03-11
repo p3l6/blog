@@ -4,9 +4,11 @@
   "cSpell.enabled": true,
   "cSpell.words": [
     "Covid",
+    "Gameplay",
     "Lockdown",
     "Reeder",
     "XIBs",
+    "baduk",
     "dotfiles",
     "endfor",
     "gracenotes",
@@ -15,10 +17,14 @@
     "keycaps",
     "keycodes",
     "lagering",
+    "navlist",
     "pdfs",
     "piperack",
     "pwxn",
     "pwxndev",
+    "tictaccubed",
+    "topnav",
+    "triviatracker",
     "youtube"
   ]
 }

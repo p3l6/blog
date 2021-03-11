@@ -1,8 +1,6 @@
-# theme: jekyll-theme-cayman
-# theme: jekyll-theme-minima
-theme: jekyll-theme-modernist
+theme: jekyll-theme-minimal
 
-title: Paul Landers at pwxn.dev
+title: Paul Landers
 email: pwxn@pwxn.dev
 description: Paul Landers' hobbies and software development
 baseurl: ""
