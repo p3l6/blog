@@ -2,7 +2,11 @@
 {% for row in site.data.navlist.topnav.rows %}
   <ul>
   {% for item in row.items %}
-    <li class="dropdown">
+    {% comment %}
+    `onclick=""` is a fix for the hover behavior on ios
+    https://stackoverflow.com/questions/18047353/fix-css-hover-on-iphone-ipad-ipod
+    {% endcomment %}
+    <li class="dropdown" onclick="">
     {% if item.subitems[0] %}
       <a class="dropbtn {% if item.url == page.url %}active{% endif %}">
         {{ item.title }}
