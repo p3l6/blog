@@ -5,6 +5,7 @@ email: pwxn@pwxn.dev
 description: Paul Landers' hobbies and software development
 baseurl: ""
 url: "https://pwxn.dev"
+logo: /assets/images/logos/main.svg
 github_username: pwxn
 show_downloads: false
 

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="100%" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100%" xmlns:vectornator="http://vectornator.io" version="1.1" viewBox="0 0 1024 1024">
+<metadata>
+<vectornator:setting key="DisplayWhiteBackground" value="0"/>
+<vectornator:setting key="RulersVisible" value="1"/>
+<vectornator:setting key="Units" value="Pixels"/>
+<vectornator:setting key="New" value="1"/>
+<vectornator:setting key="DynamicGuides" value="0"/>
+<vectornator:setting key="GuidesVisible" value="1"/>
+<vectornator:setting key="SnapToPoints" value="0"/>
+<vectornator:setting key="SnapToGrid" value="0"/>
+<vectornator:setting key="SnapToGuides" value="1"/>
+<vectornator:setting key="DimensionsVisible" value="1"/>
+<vectornator:setting key="SnapToEdges" value="0"/>
+</metadata>
+<defs/>
+<g id="Layer 3" vectornator:layerName="Layer 3">
+<path d="M146.204+2L877.795+2C957.437+2+1022+66.5479+1022+146.172L1022+877.828C1022+957.452+957.437+1022+877.795+1022L146.204+1022C66.5625+1022+2+957.452+2+877.828L2+146.172C2+66.5479+66.5625+2+146.204+2Z" opacity="1" fill="#dba659"/>
+</g>
+<g id="Layer 2" vectornator:layerName="Layer 2">
+<path d="M136.4+50L136.4+50C140.542+50+143.9+53.3579+143.9+57.5L143.9+962.5C143.9+966.642+140.542+970+136.4+970L136.4+970C132.258+970+128.9+966.642+128.9+962.5L128.9+57.5C128.9+53.3579+132.258+50+136.4+50Z" opacity="1" fill="#000000"/>
+<path d="M374.206+50L374.206+50C378.348+50+381.706+53.3579+381.706+57.5L381.706+962.5C381.706+966.642+378.348+970+374.206+970L374.206+970C370.064+970+366.706+966.642+366.706+962.5L366.706+57.5C366.706+53.3579+370.064+50+374.206+50Z" opacity="1" fill="#000000"/>
+<path d="M636.229+50L636.229+50C640.371+50+643.729+53.3579+643.729+57.5L643.729+962.5C643.729+966.642+640.371+970+636.229+970L636.229+970C632.087+970+628.729+966.642+628.729+962.5L628.729+57.5C628.729+53.3579+632.087+50+636.229+50Z" opacity="1" fill="#000000"/>
+<path d="M890.863+50L890.863+50C895.005+50+898.363+53.3579+898.363+57.5L898.363+962.5C898.363+966.642+895.005+970+890.863+970L890.863+970C886.721+970+883.363+966.642+883.363+962.5L883.363+57.5C883.363+53.3579+886.721+50+890.863+50Z" opacity="1" fill="#000000"/>
+<path d="M969.995+241.403L969.995+241.403C970.009+245.545+966.662+248.915+962.52+248.929L57.5255+252.01C53.3834+252.024+50.0141+248.677+50+244.535L50+244.535C49.9859+240.393+53.3324+237.024+57.4745+237.01L962.469+233.929C966.611+233.915+969.981+237.261+969.995+241.403Z" opacity="1" fill="#000000"/>
+<path d="M969.995+506.478L969.995+506.478C970.009+510.62+966.662+513.989+962.52+514.004L57.5255+517.084C53.3834+517.098+50.0141+513.752+50+509.61L50+509.61C49.9859+505.468+53.3324+502.098+57.4745+502.084L962.469+499.004C966.611+498.99+969.981+502.336+969.995+506.478Z" opacity="1" fill="#000000"/>
+<path d="M969.995+774.942L969.995+774.942C970.009+779.085+966.662+782.454+962.52+782.468L57.5255+785.549C53.3834+785.563+50.0141+782.216+50+778.074L50+778.074C49.9859+773.932+53.3324+770.563+57.4745+770.549L962.469+767.468C966.611+767.454+969.981+770.8+969.995+774.942Z" opacity="1" fill="#000000"/>
+</g>
+<g id="Layer 1" vectornator:layerName="Layer 1">
+<path vectornator:shadowColor="#000000" vectornator:shadowOpacity="0.333" vectornator:shadowRadius="10" d="M767.506+507.627C767.506+439.003+823.138+383.371+891.763+383.371C960.388+383.371+1016.02+439.003+1016.02+507.627C1016.02+576.252+960.388+631.883+891.763+631.883C823.138+631.883+767.506+576.252+767.506+507.627Z" vectornator:shadowOffset="10" fill="#ffffff" opacity="1" vectornator:shadowAngle="1.5708"/>
+<path vectornator:shadowColor="#000000" vectornator:shadowOpacity="0.333" vectornator:shadowRadius="10" d="M511.892+243.412C511.892+174.787+567.524+119.156+636.149+119.156C704.773+119.156+760.405+174.787+760.405+243.412C760.405+312.037+704.773+367.668+636.149+367.668C567.524+367.668+511.892+312.037+511.892+243.412Z" vectornator:shadowOffset="10" fill="#ffffff" opacity="1" vectornator:shadowAngle="1.5708"/>
+<path vectornator:shadowColor="#000000" vectornator:shadowOpacity="0.333" vectornator:shadowRadius="10" d="M251.04+239.852C251.04+171.228+306.672+115.596+375.296+115.596C443.921+115.596+499.553+171.228+499.553+239.852C499.553+308.477+443.921+364.109+375.296+364.109C306.672+364.109+251.04+308.477+251.04+239.852Z" vectornator:shadowOffset="10" fill="#000000" opacity="1" vectornator:shadowAngle="1.5708"/>
+<path vectornator:shadowColor="#000000" vectornator:shadowOpacity="0.333" vectornator:shadowRadius="10" d="M250.278+774.521C250.278+705.896+305.909+650.265+374.534+650.265C443.159+650.265+498.791+705.896+498.791+774.521C498.791+843.146+443.159+898.777+374.534+898.777C305.909+898.777+250.278+843.146+250.278+774.521Z" vectornator:shadowOffset="10" fill="#000000" opacity="1" vectornator:shadowAngle="1.5708"/>
+<path vectornator:shadowColor="#000000" vectornator:shadowOpacity="0.333" vectornator:shadowRadius="10" d="M508.934+506.907C508.934+438.282+564.565+382.651+633.19+382.651C701.815+382.651+757.447+438.282+757.447+506.907C757.447+575.532+701.815+631.163+633.19+631.163C564.565+631.163+508.934+575.532+508.934+506.907Z" vectornator:shadowOffset="10" fill="#000000" opacity="1" vectornator:shadowAngle="1.5708"/>
+<path vectornator:shadowColor="#000000" vectornator:shadowOpacity="0.333" vectornator:shadowRadius="10" d="M512.011+772.004C512.011+703.379+567.643+647.747+636.267+647.747C704.892+647.747+760.524+703.379+760.524+772.004C760.524+840.628+704.892+896.26+636.267+896.26C567.643+896.26+512.011+840.628+512.011+772.004Z" vectornator:shadowOffset="10" fill="#ffffff" opacity="1" vectornator:shadowAngle="1.5708"/>
+<path vectornator:shadowColor="#000000" vectornator:shadowOpacity="0.333" vectornator:shadowRadius="10" d="M13.6768+506.389C13.6768+437.765+69.3082+382.133+137.933+382.133C206.558+382.133+262.19+437.765+262.19+506.389C262.19+575.014+206.558+630.646+137.933+630.646C69.3082+630.646+13.6768+575.014+13.6768+506.389Z" vectornator:shadowOffset="10" fill="#000000" opacity="1" vectornator:shadowAngle="1.5708"/>
+</g>
+</svg>

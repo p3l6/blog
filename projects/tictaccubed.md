@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Tic Tac Cubed
+logo: /assets/images/tictaccubed/app-icon.png
 ---
 
 **Note: This game is not currently available for download**
@@ -10,8 +11,8 @@ Tic Tac Cubed is a game for iOS developed by Paul Landers.
 It is similar to traditional tic tac toe, except that each square has another smaller board nested inside. In order to win the game, you must win the smaller boards, which claims that square for you in the larger game. There is a catch as well, any move you make dictates the square your opponent must next play in! This adds strategy to play that you would have never thought possible with such a simple game.
 
 ### Screenshots:
-![Gameplay Example](/assets/images/gameplay.png)
-![Settings Screen](/assets/images/options.png)
+![Gameplay Example](/assets/images/tictaccubed/gameplay.png)
+![Settings Screen](/assets/images/tictaccubed/options.png)
 
 ### Features:
 * Gameplay colors can be changed.

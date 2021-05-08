@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Keyboards
+logo: /assets/images/logos/keyboards.svg
 ---
 
 Currently my main keyboards are a ca66, and a hhkb layout dz60 in a 5 degree case.

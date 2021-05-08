@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Pipes
+logo: /assets/images/logos/bagpipes.svg
 ---
 
 Playing bagpipes is one of my primary hobbies! I play performances, for fun, and for competition.

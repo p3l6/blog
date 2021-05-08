@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Trivia Tracker
+logo: /assets/images/triviatracker/app-icon.svg
 ---
 
 Trivia Tracker is an app for iPhone and iPad developed by Paul Landers.
