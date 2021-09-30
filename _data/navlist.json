@@ -11,9 +11,10 @@
     { "title": "On the Web", "url": "/accounts/"}
     ]},
   { "title": "Hobbies", "url": "", "subitems":[
+    { "title": "Bagpipes", "url": "/bagpipes/"},
+    { "title": "Woodworking", "url": "/woodworking/"},
     { "title": "Go", "url": "/baduk/"},
     { "title": "Keyboards", "url": "/keyboards/"},
-    { "title": "Bagpipes", "url": "/bagpipes/"},
     { "title": "Brewing", "url": "/brewing/"}
     ]},
   { "title": "Projects", "url": "", "subitems":[
