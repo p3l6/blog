@@ -12,7 +12,7 @@ If it isn't listed here, it might not be me!
 
 ## Social
 * Reddit: [pwxn](https://reddit.com/user/pwxn)
-* YouTube: [Paul Landers](https://youtube.com/channel/UCK8GTbH5JHt8V7dFlUZxS3g)
+* YouTube: [Paul Landers](https://youtube.com/channel/UC4Uk1sxF33fLMlO_WM175rA)
 * Instagram: [pwxn.dev](https://instagram.com/pwxn.dev)
 * Twitter: [pwxn](https://twitter.com/pwxn)
 
