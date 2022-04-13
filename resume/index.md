@@ -4,15 +4,15 @@ title: Resume
 ---
 
 ## Skills
-* Swift, Objective-C, Python
+* Swift, Objective-C, Python, Typescript
 * C++, C, Java, LaTeX, Markdown
 * Bash, Git, Svn, make, CMake, Redmine, Jira, Jenkins, Gitlab
 * OpenGL, Cocoa, GNUstep, iOS, Docker
-* Matlab, Vapor
+* Matlab, Vapor, React
 
 ## Employment
 * Senior Software Engineer
-  * States Title
+  * Doma (formerly States Title)
   * Sept 2019 - Present
   * Durham, NC
 * Senior Software Developer
