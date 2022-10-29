@@ -6,9 +6,9 @@ title: Resume
 ## Skills
 * Swift, Objective-C, Python, Typescript
 * C++, C, Java, LaTeX, Markdown
-* Bash, Git, Svn, make, CMake, Redmine, Jira, Jenkins, Gitlab
-* OpenGL, Cocoa, GNUstep, iOS, Docker
-* Matlab, Vapor, React
+* Bash, Git, Svn, make, Jira, Jenkins, Gitlab
+* OpenGL, Cocoa, GNUstep, iOS, Docker, GraphQL, Thrift
+* Matlab, Vapor, React, Deno
 
 ## Employment
 * Senior Software Engineer
