@@ -13,7 +13,7 @@ title: Resume
 ## Employment
 * Senior Software Engineer
   * Doma (formerly States Title)
-  * Sept 2019 - Present
+  * Sept 2019 - Dec 2022
   * Durham, NC
 * Senior Software Developer
   * Eggplant (formerly Testplant)
