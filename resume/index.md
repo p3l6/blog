@@ -3,6 +3,12 @@ layout: default
 title: Resume
 ---
 
+> Experienced Software Engineer developing for MacOS & iOS, as well as Full Stack Web.
+> Expertise with debugging, problem solving, and solution design architecture.
+> Punctual communicator, patient, and thrives on a fully remote team.
+> Mentors and assists teammates in their professional growth.
+> Always open to new technologies: mindful of which tool is best suited for a task.
+
 ## Skills
 * Swift, Objective-C, Python, Typescript
 * C++, C, Java, LaTeX, Markdown
