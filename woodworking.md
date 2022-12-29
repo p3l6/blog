@@ -3,10 +3,10 @@ layout: default
 title: Wood Working
 ---
 
-Another of my hobbies is working with wood in my small garage shop. 
-I like to work on various projects, many of which support my other hobbies, such as [A portable rack for bagpipes](/2020/11/24/pipe-rack/).
+I like to do some woodworking in  my small garage workshop. Specifically, I like to do the work with hand tools as much as possible. The biggest factors that first got me into hand tools were the dust and noise created by my table saw, router, and other machines. However, I love the intimate feeling of crafting the piece with my own two hands, even if it takes longer. Since this is all a hobby for me anyway, it’s really about the enjoyment of the time put into it, not about output.
 
-The main bench I'm working from right now is a modified [Paulk Workbench](https://thesmartwoodshop.com). 
-I think it is a great design because it collapses against the wall when I am not working on projects, to allow my car into the garage. 
+I mainly use my Paul Sellers joinery bench, which I made out of construction yellow pine. I like this bench a lot, it is sturdy and has plenty of on board storage. It was also a great learning experience about various hand tool techniques. 
 
-Many of my other projects end up on my [instagram page](https://instagram.com/pwxn.dev). 
+Before I got into hand tool work, I built a modified  [Paulk Workbench](https://thesmartwoodshop.com/). I think it is a great design because it collapses against the wall when I am not working on projects, to allow my car into the garage. I still use it when I need some extra table space, but I’ve modified the leg-sawhorses to allow me to put up the halves independently. 
+
+[See some photos here](https://www.icloud.com/sharedalbum/#B0T5qXGF18zFlB)
