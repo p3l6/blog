@@ -1,5 +1,5 @@
 ## Repo storage for my personal developer website
-[pwxn.dev](https://pwxn.dev)
+[p3l6.dev](https://p3l6.dev)
 
 ## Running locally
 docker run -it --rm -v "$PWD":/usr/src/app -p "4000:4000" starefossen/github-pages

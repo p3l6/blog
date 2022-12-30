@@ -12,5 +12,5 @@ I do not track, store, transmit, or collect any of your data or personal informa
 ## Third parties:
 
 Third parties that provide related services, who may or may not be collecting data about using these services:
-* This website (pwxn.dev) is served by github pages.
+* This website (p3l6.dev) is served by github pages.
 * iOS apps (Trivia Tracker) are served and/or monitored by Apple.
