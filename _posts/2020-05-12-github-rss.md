@@ -66,4 +66,4 @@ it was still very pleasing to me to have this work out in such an elegant way.
 
 I have also noticed that the Reeder client does a better job rendering a few feeds when they go through inoreader, as opposed to standard RSS. I can't really explain that, but it has been nice too!
 
-[1]:https://github.com/pwxn/env/tree/master/export/rss
+[1]:https://github.com/p3l6/env/tree/master/export/rss

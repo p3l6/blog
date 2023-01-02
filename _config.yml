@@ -6,12 +6,12 @@ description: Paul Landers' hobbies and software
 baseurl: ""
 url: "https://p3l6.dev"
 logo: /assets/images/logos/main.svg
-github_username: pwxn
+github_username: p3l6
 show_downloads: false
 
 markdown: kramdown
 
-repository: pwxn/pwxndev
+repository: p3l6/pwxndev
 
 plugins:
   - jekyll-feed

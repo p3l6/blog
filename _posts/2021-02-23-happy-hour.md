@@ -15,7 +15,7 @@ In this message, we include sections, each with bullet points:
 
 Happy Hour has a simple todo style list for each section. It functions as a "draft" for the daily post. In addition to the three sections above, it also includes a planned section. Any items in the Tomorrow section are automatically moved to Planned when the list is cleared. 
 
-![The user interface of HappyHour](https://github.com/pwxn/HappyHour/raw/master/Screenshot.png)
+![The user interface of HappyHour](https://github.com/p3l6/HappyHour/raw/master/Screenshot.png)
 
 One of the most important features, is that you can copy the formatted standup post to the clipboard. This adds an emoji bullet point for each item, makes headers bold, and creates hyperlinks; all in the rich text format, ready to be pasted into slack or email. 
 
@@ -23,4 +23,4 @@ In any field, if you enter something like `PR 1234` or `JIRA-567`, those will be
 
 I wrote this using SwifUI for the Mac, because I wanted to get some more experience with it. It turned out to be a really simple way to get a clean Mac native appearance. Over this past winter, I have updated it to use all the new features for SwiftUI as part of Big Sur, including the new application lifecycle management. 
 
-Here’s a [link to the code on github](https://github.com/pwxn/HappyHour), or straight to [the release download page](https://github.com/pwxn/HappyHour/releases/latest).
+Here’s a [link to the code on github](https://github.com/p3l6/HappyHour), or straight to [the release download page](https://github.com/p3l6/HappyHour/releases/latest).

@@ -15,11 +15,11 @@ The major advantage of this is that any computer you have attached the keyboard 
 
 Lately, I have separated my keymap configs from the main qmk repository, to make it easier to manage for myself.
 I've found it much more convenient to have a small and light repository, and have some scripts to clone the main repo and make the builds for me.
-You can find that script (makefile) in my [keymap repository](https://github.com/pwxn/keymaps).
+You can find that script (makefile) in my [keymap repository](https://github.com/p3l6/keymaps).
 Essentially, I have a folder for each of my keyboards, and use `git submodules` to manage the rest of Qmk.
 
-* [Bmek](https://github.com/pwxn/keymaps/blob/master/bmek/keymap.c)
-* [Tokyo60](https://github.com/pwxn/keymaps/blob/master/tokyo60/keymap.c)
+* [Bmek](https://github.com/p3l6/keymaps/blob/master/bmek/keymap.c)
+* [Tokyo60](https://github.com/p3l6/keymaps/blob/master/tokyo60/keymap.c)
 
 My first keyboard was a fully custom layout, hand wired. Most of the keyboards since then have been kits, and those are much easier.
 But by jumping in the deep end at the beginning, I learned a lot!

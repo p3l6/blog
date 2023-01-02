@@ -7,8 +7,8 @@ This is a list of my accounts on other forums and websites.
 If it isn't listed here, it might not be me!
 
 ## Professional
-* GitHub: [pwxn](https://github.com/pwxn)
-* LinkedIn: [Paul Landers](https://www.linkedin.com/in/paullanders-pwxnxyz/)
+* GitHub: [P3L6](https://github.com/p3l6)
+* LinkedIn: [Paul Landers](https://www.linkedin.com/in/p3l6/)
 
 ## Social
 * Reddit: [pwxn](https://reddit.com/user/pwxn)
