@@ -21,6 +21,6 @@ One of the most important features, is that you can copy the formatted standup p
 
 In any field, if you enter something like `PR 1234` or `JIRA-567`, those will be automatically linked to the relevant issues or pull requests. Assuming the base urls are configured in preferences. 
 
-I wrote this using SwifUI for the Mac, because I wanted to get some more experience with it. It turned out to be a really simple way to get a clean Mac native appearance. Over this past winter, I have updated it to use all the new features for SwiftUI as part of Big Sur, including the new application lifecycle management. 
+I wrote this using SwiftUI for the Mac, because I wanted to get some more experience with it. It turned out to be a really simple way to get a clean Mac native appearance. Over this past winter, I have updated it to use all the new features for SwiftUI as part of Big Sur, including the new application lifecycle management. 
 
 Here’s a [link to the code on github](https://github.com/p3l6/HappyHour), or straight to [the release download page](https://github.com/p3l6/HappyHour/releases/latest).
