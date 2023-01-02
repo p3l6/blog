@@ -40,4 +40,4 @@ title: Resume
 
 [Full PDF Resume](resume.pdf)
 
-[linkedin](http://www.linkedin.com/in/paullanders-pwxnxyz)
+[linkedin](http://www.linkedin.com/in/p3l6)
