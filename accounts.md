@@ -4,6 +4,7 @@ title: On the Web
 ---
 
 This is a list of my accounts on other forums and websites.
+I generally use my primary handle `p3l6`, and some older accounts use my previous handle, `pwxn`.
 If it isn't listed here, it might not be me!
 
 ## Professional

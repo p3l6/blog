@@ -4,6 +4,8 @@ title: Blog
 ---
 # All Posts
 
+[Subscribe (atom)](/feed.xml)
+
 {% for post in site.posts %}
 - - -
 ## [{{ post.title }}]({{ post.url }})
