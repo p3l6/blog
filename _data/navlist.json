@@ -6,7 +6,7 @@
 ]},
 
 { "items": [
-  { "title": "About", "url": "", "subitems":[
+  { "title": "About Me", "url": "", "subitems":[
     { "title": "Resume", "url": "/resume/"},
     { "title": "On the Web", "url": "/accounts/"}
     ]},
@@ -21,6 +21,11 @@
     { "title": "Trivia Tracker", "url": "/projects/triviatracker/"},
     { "title": "TicTacCubed", "url": "/projects/tictaccubed/"}
     ]}
+]},
+
+{ "items": [
+  { "title": "Reference", "url": "/ref/"},
+  { "title": "Recipes", "url": "/cook/"}
 ]}
 
 ]}}
