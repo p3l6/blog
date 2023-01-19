@@ -5,7 +5,7 @@ title: Warp Terminal
 ---
 
 I recently came across a newer terminal emulator program for Mac.
-It's called the [Warp Terminal](warp.dev).
+It's called the [Warp Terminal](https://www.warp.dev).
 It aims to be a modern terminal app, so I gave it a try. And I really like it!
 
 A couple years ago, I was checking out the alternative terminal space to look for an upgrade on the system `Terminal.app`.
