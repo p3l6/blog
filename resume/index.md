@@ -17,6 +17,9 @@ title: Resume
 * Matlab, Vapor, React, Deno
 
 ## Employment
+* Senior MacOS Engineer
+  * Boombox
+  * Jan 2023 - Present
 * Senior Software Engineer
   * Doma (formerly States Title)
   * Sept 2019 - Dec 2022
