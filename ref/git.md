@@ -108,13 +108,17 @@ would result in:
 This is useful when topicB does not depend on topicA.  
 Or when, **topicA has already been squashed and merged onto master.**
 
-## Attrbutes
-* Attrributes can mark files as machine generated, non-diffable, non-mergable, etc
-* Attributes specified in `.gitattributes` can be overridded in `.git/info/attributes`
+## Attributes
+* Attributes can mark files as machine generated, non-diffable, non-mergable, etc
+* Attributes specified in `.gitattributes` can be overridden in `.git/info/attributes`
 
 ## Diff arbitrary files
 `git diff --no-index current/ base/`  
 Git can be used to diff  arbitrary directory pairs.  
 Either, both, or neither of the directories have need to even be in a git repository.
 
+## Convert merge commit into squash
 
+* Have the merge commit branch checked out
+* `git reset --hard HEAD~1`
+* `git cherry-pick -m 1 HEAD@{1}`
