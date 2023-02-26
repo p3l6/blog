@@ -4,7 +4,7 @@ layout: reference
 ---
 
 ## Initialization
-1. Use “Raspberry PI Imager” to install Rasbian onto the sd card
+1. Use "Raspberry PI Imager" to install Rasbian onto the sd card
 2. Create a file called `ssh` at the root to start ssh for the next boot
 3. Create a file called `wpa_supplicant.conf` at the root to set wifi password with the following contents: (Note: the pi zero w does not support 5ghz)
     ```
@@ -13,12 +13,12 @@ layout: reference
     country=<Insert country code here, i.e. us>
 
     network={
-    ssid="<Name of your WiFi>”
-    psk=“<Password for your WiFi>”
+    ssid="<Name of your WiFi>"
+    psk="<Password for your WiFi>"
     }
     ```
 4. After turning on the pi, use the router to assign a permanent ip address
-5. When connecting to the pi for the first time, use `sudo raspi-config` to enable ssh permanently, under the “Interfacing options”.
+5. When connecting to the pi for the first time, use `sudo raspi-config` to enable ssh permanently, under the "Interfacing options".
 
 Note: Placing a new `wpa_supplicant.conf` will allow resetting the wifi to a new network. Still will need to assign a permanent ip address, and update below. 
 

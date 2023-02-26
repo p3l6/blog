@@ -74,7 +74,7 @@ where x can be:
 `7` white  
 
 ## Locate the directory containing script
-`DIR=“$( cd “$( dirname “${BASH_SOURCE[0]}” )” >/dev/null 2>&1 && pwd )”`
+`DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"`
 
 ## Bash script example with args and content
 ```bash

@@ -39,7 +39,7 @@ can assert that a type is correct `thing as Type`
 * Types come after arguments  `function add(x: number, y: number): number {`
 * Return type is optional if it can be inferred 
 * Function types are as `(x: number, y: number) => number` arg names are not matched
-* Arguments can be optional, `color?: string`, or defaulted `color = “red”`
+* Arguments can be optional, `color?: string`, or defaulted `color = "red"`
 * Variable arguments `...restOfName: string[]`
 * Using ‘this’ can be messy, especially when returning a function. Might need an arrow function 
 * You can specify the type of ‘this’ in the arguments of a function `f(this: Something, .. )`
@@ -95,7 +95,7 @@ Lots more going on here.
 for (let x of list) // loops over the values of list
 for (let i in list) // loops over the keys of list
 ```
-“of” can only be used on Symbol.iterator things, while “in” can be used on any object to enumerate it’s properties
+"of" can only be used on Symbol.iterator things, while "in" can be used on any object to enumerate it’s properties
 
 ## Modules
 * Variables, functions etc are not visible outside their module, unless exported. (and then imported)
@@ -105,7 +105,7 @@ for (let i in list) // loops over the keys of list
 
 ## Namespaces
 * Can add organization to types inside a single file
-* `/// <reference path=“Validation.ts” />` is needed to have multi-file namespaces
+* `/// <reference path="Validation.ts" />` is needed to have multi-file namespaces
 * Can use import to create aliases for deeply nested things
 * Can be helpful in describing the shape of js libraries to import
 

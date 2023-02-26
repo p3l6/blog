@@ -29,7 +29,7 @@ layout: reference
 * use tuples to return multiple values
 * function parameters can have default values, parameterWithDefault: Int = 12
 * variadic parameters are referenced inside the function in as an array of the appropriate type
-* parameters can be “inout”, modifying the caller, called with &varName
+* parameters can be "inout", modifying the caller, called with &varName
 * functions can be nested
 
 #### Closures
@@ -51,7 +51,7 @@ layout: reference
 	+ also used to define a subscript(). can omit get/set keywords if get is all that is desired.
 * type properties are marked static, and are related to the type, not an instance. accessed from instance.var
 * type methods are also marked static. or marked class, which lets subclasses override. accessed from Type.method
-* to override properties or methods from a superclass, they must be marked “override”
+* to override properties or methods from a superclass, they must be marked "override"
 * overrides can be prevented by marking a property, method, or class as final
 * convenience init() is a method that will call another init() method in the same class. usually has simpler parameters
 * init() must call a superclass non-convenience init eventually
