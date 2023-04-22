@@ -16,4 +16,4 @@ I think this keyboard is great. Just all the keys I need, everything is very clo
 
 Here's my full keyboard layout, [with code on github](https://github.com/p3l6/keymaps/blob/master/prime_e/keymap.c), from [KLE](https://http://www.keyboard-layout-editor.com).
 
-![Layout](/assets/images/keyboard/prime_layout.png)
+![Layout](/assets/images/keyboards/prime_layout.png)
