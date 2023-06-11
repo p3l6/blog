@@ -68,18 +68,48 @@ nav {
   }
 }
 
-@media screen and (max-width: 960px) {
-  nav {
-    position:absolute;
-    right:50px;
-    top:52px;
+// hide hamburger menu by default
+header {
+  input#nav-toggle {
+    display: none;
+  }
+  label {
+    display: none;
   }
 }
 
-@media screen and (max-width: 720px) {
-  nav {
-    position:static;
-    padding-bottom: 15px;
+@media screen and (max-width: 960px) {
+  // show hamburger menu, and nav when toggled
+  header {
+    h1 {
+      display: inline;
+    }
+    
+    input#nav-toggle {
+      display: none;
+      &:checked {
+        & ~ .nav {
+          max-height: 100%;
+        }
+        & ~ .logo {
+          max-height: 0;
+          overflow: hidden;
+        }
+      }
+    }
+    
+    label {
+      font-size: 40px;
+      display: inline;
+      float: inline-end;
+      line-height: 0;
+      padding-top: 15px;
+    }
+    
+    nav {
+      max-height: 0;
+      overflow: hidden;
+    }
   }
 }
 

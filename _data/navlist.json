@@ -2,7 +2,7 @@
   "topnav": {
     "sections": [
       {
-        "title": "Paul Landers' hobbies and software",
+        "title": "",
         "rows": [
           {
             "items": [
@@ -42,7 +42,7 @@
         ]
       },
       {
-        "title": "Projects",
+        "title": "Software Projects",
         "rows": [
           {
             "items": [
@@ -53,7 +53,7 @@
         ]
       },
       {
-        "title": "Stuff",
+        "title": "Pages",
         "rows": [
           {
             "items": [

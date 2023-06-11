@@ -17,14 +17,18 @@
     <div class="wrapper">
       <header>
         <h1>{{ layout.titleOverride | default: page.title }}</h1>
-
+        
+        <input type="checkbox" id="nav-toggle">
+        <label for="nav-toggle">☰</label>
+        
         {% if page.logo or site.logo %}
-          <img src="{{ page.logo | default: site.logo | relative_url}}" alt="Logo" />
+        <img class="logo" src="{{ page.logo | default: site.logo | relative_url}}" alt="Logo" />
         {% endif %}
-
+        
+          
         <nav class="nav">
           {% for section in site.data.navlist.topnav.sections %}
-            <h4>{{ section.title }}</h4>
+            <strong>{{ section.title }}</strong>
             {% for row in section.rows %}
               <ul>
               {% for item in row.items %}
