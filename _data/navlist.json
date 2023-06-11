@@ -1,31 +1,68 @@
-{ "topnav": { "rows": [
-
-{ "items": [
-  { "title": "Home", "url": "/"},
-  { "title": "Blog", "url": "/blog/"}
-]},
-
-{ "items": [
-  { "title": "About Me", "url": "", "subitems":[
-    { "title": "Resume", "url": "/resume/"},
-    { "title": "On the Web", "url": "/accounts/"}
-    ]},
-  { "title": "Hobbies", "url": "", "subitems":[
-    { "title": "Bagpipes", "url": "/bagpipes/"},
-    { "title": "Woodworking", "url": "/woodworking/"},
-    { "title": "Go", "url": "/baduk/"},
-    { "title": "Keyboards", "url": "/keyboards/"},
-    { "title": "Brewing", "url": "/brewing/"}
-    ]},
-  { "title": "Projects", "url": "", "subitems":[
-    { "title": "Trivia Tracker", "url": "/projects/triviatracker/"},
-    { "title": "TicTacCubed", "url": "/projects/tictaccubed/"}
-    ]}
-]},
-
-{ "items": [
-  { "title": "Reference", "url": "/ref/"},
-  { "title": "Recipes", "url": "/cook/"}
-]}
-
-]}}
+{
+  "topnav": {
+    "sections": [
+      {
+        "title": "Paul Landers' hobbies and software",
+        "rows": [
+          {
+            "items": [
+              { "title": "Home", "url": "/" },
+              { "title": "Blog", "url": "/blog/" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "About Me",
+        "rows": [
+          {
+            "items": [
+              { "title": "Resume", "url": "/resume/" },
+              { "title": "On the Web", "url": "/accounts/" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Hobbies",
+        "rows": [
+          {
+            "items": [
+              { "title": "Bagpipes", "url": "/bagpipes/" },
+              { "title": "Woodworking", "url": "/woodworking/" }
+            ]
+          },
+          {
+            "items": [
+              { "title": "Go", "url": "/baduk/" },
+              { "title": "Keyboards", "url": "/keyboards/" },
+              { "title": "Brewing", "url": "/brewing/" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Projects",
+        "rows": [
+          {
+            "items": [
+              { "title": "Trivia Tracker", "url": "/projects/triviatracker/" },
+              { "title": "TicTacCubed", "url": "/projects/tictaccubed/" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Stuff",
+        "rows": [
+          {
+            "items": [
+              { "title": "Reference", "url": "/ref/" },
+              { "title": "Recipes", "url": "/cook/" }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

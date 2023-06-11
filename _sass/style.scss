@@ -12,6 +12,9 @@ nav {
     
     width:270px;
     li:first-child:nth-last-child(2), li:first-child:nth-last-child(2) ~ li {
+      // applies to items that are both the first child, as well as one of the 
+      // 2nd to last children. Additionally, with ~ (subsequent sibling combinator),
+      // applies to all following siblings of that item.
       width: 134px;
     }
     li:first-child:nth-last-child(3), li:first-child:nth-last-child(3) ~ li {
@@ -55,26 +58,6 @@ nav {
         a {
           border-radius:0 5px 5px 0;
         }
-        .dropdown-content {
-          left: -72px;
-        }
-      }
-      
-      .dropdown-content {
-        display: none;
-        position: absolute;
-        min-width: 160px;
-        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-        z-index: 1;
-        background-color: #f4f4f4;
-        border-radius:5px;
-        border: 1px solid #e0e0e0;
-        a {
-          margin: 6px;
-        }
-      }
-      &:hover .dropdown-content {
-        display: block;
       }
     }
   }
@@ -115,6 +98,9 @@ nav {
 @media print {
   header {
     display: none ;
+  }
+  footer {
+    display: none;
   }
 }
 
