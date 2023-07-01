@@ -12,10 +12,8 @@ If it isn't listed here, it might not be me!
 * LinkedIn: [Paul Landers](https://www.linkedin.com/in/p3l6/)
 
 ## Social
-* Reddit: [pwxn](https://reddit.com/user/pwxn)
 * YouTube: [Paul Landers](https://youtube.com/channel/UC4Uk1sxF33fLMlO_WM175rA)
-* Instagram: [pwxn.dev](https://instagram.com/pwxn.dev)
-* Twitter: [pwxn](https://twitter.com/pwxn)
+* Instagram: [p3l6.dev](https://instagram.com/p3l6.dev)
 
 ## Games
 * Board game geek: [pwxn](https://boardgamegeek.com/user/pwxn)
