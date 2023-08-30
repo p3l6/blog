@@ -57,7 +57,6 @@
         "rows": [
           {
             "items": [
-              { "title": "Reference", "url": "/ref/" },
               { "title": "Recipes", "url": "/cook/" }
             ]
           }
