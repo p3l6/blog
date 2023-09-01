@@ -2,6 +2,7 @@
 layout: post
 author: Paul
 title: Backpacking Gear
+summary: I went backpacking recently and share some thoughts on equipment.
 date: 2023-08-10
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 author: Paul
 title: VSCode
+summary: Will vscode replace atom long term?
 date: 2019-03-29
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 author: Paul
 title: Github as an RSS manager
+summary: Syncing feed lists stored in a github repository.
 date: 2020-05-12
 ---
 

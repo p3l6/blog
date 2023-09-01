@@ -2,6 +2,7 @@
 layout: post
 author: Paul
 title: Blog Rebranding
+summary: The blog has a new website! p3l6.dev.
 date: 2023-01-03
 ---
 

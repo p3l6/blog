@@ -2,6 +2,7 @@
 layout: post
 author: Paul
 title: Daily Standup tool
+summary: An exploration in creating modern mac apps.
 date: 2021-02-23
 ---
 

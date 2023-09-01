@@ -9,6 +9,9 @@ I am a professional software developer, and also enjoy playing the bagpipes and 
 
 {% assign post = site.posts.first %}
 ## Latest Blog Post: [{{ post.title }}]({{ post.url }})
-#### {{ post.date | date_to_string }}
+{{ post.summary }}
+
+_{{ post.date | date_to_string }}_
+
 {{ post.excerpt }}
-[more posts](/blog/)
+[keep reading post]({{ post.url }})

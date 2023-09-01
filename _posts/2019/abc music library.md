@@ -2,6 +2,7 @@
 layout: post
 author: Paul
 title: ABC Music Library
+summary: Storing my music in a git repository.
 date: 2019-11-1
 ---
 

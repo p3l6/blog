@@ -1,5 +1,6 @@
 ---
 title: Amazing blog entry
+summary: One sentence or two describing what this is about.
 published: false # date: 2023-00-00 00:00 -0500
 author: Paul
 layout: post

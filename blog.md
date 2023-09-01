@@ -10,5 +10,5 @@ title: Blog
 - - -
 ## [{{ post.title }}]({{ post.url }})
 #### {{ post.date | date_to_string }}
-{{ post.excerpt }}
+{{ post.summary }}
 {% endfor %}

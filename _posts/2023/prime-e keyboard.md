@@ -2,6 +2,7 @@
 layout: post
 author: Paul
 title: Prime_E Keyboard
+summary: My most recent mechanical keyboard layout. 
 date: 2023-04-22
 ---
 

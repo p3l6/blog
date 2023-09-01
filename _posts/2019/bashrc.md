@@ -2,6 +2,7 @@
 layout: post
 author: Paul
 title: Bashrc
+summary: Some useful bash shortcuts that I have used.
 date: 2019-02-25
 ---
 
