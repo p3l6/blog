@@ -2,6 +2,7 @@
 layout: post
 author: Paul
 title: Using Deno in a Vscode Extension
+date: 2022-07-26
 ---
 
 I have recently integrated some Deno flavored typescript modules with a vscode extension. 

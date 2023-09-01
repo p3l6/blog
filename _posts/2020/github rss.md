@@ -2,6 +2,7 @@
 layout: post
 author: Paul
 title: Github as an RSS manager
+date: 2020-05-12
 ---
 
 I converted what was my RSS subscription list backup to be the source of truth instead.

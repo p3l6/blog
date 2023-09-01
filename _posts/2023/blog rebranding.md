@@ -2,6 +2,7 @@
 layout: post
 author: Paul
 title: Blog Rebranding
+date: 2023-01-03
 ---
 
 I've been using the online handle `pwxn` for a long time now, and it is starting to get a bit stale. 

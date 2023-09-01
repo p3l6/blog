@@ -2,6 +2,7 @@
 layout: post
 author: Paul
 title: Back to Xcode
+date: 2023-03-03
 ---
 
 I have recently started a new job.

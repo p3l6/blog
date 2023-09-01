@@ -2,6 +2,7 @@
 layout: post
 author: Paul
 title: Backpacking Gear
+date: 2023-08-10
 ---
 
 Recently I was fortunate enough to be able to go backpacking in Rocky Mountain National Park for the first time. It was a wonderful trip that even included a section of off-trail bushwhacking. 

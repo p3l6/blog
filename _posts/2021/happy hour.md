@@ -2,6 +2,7 @@
 layout: post
 author: Paul
 title: Daily Standup tool
+date: 2021-02-23
 ---
 
 I have been fiddling with a daily standup tool over the last year or so, to keep track of what I do during the day. I use this as a draft, and then it auto-formats a post for the standup thread in slack. 

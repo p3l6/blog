@@ -2,6 +2,7 @@
 layout: post
 author: Paul
 title: Initial Commit
+date: 2019-02-13
 ---
 
 This is the first post to a new blog!

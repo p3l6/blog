@@ -3,6 +3,7 @@ layout: post
 author: Paul
 title: Pipe Rack
 redirect_from: /piperack/
+date: 2020-11-24
 ---
 
 I have finally finished this project that I started before the 2020 pipe band season was cancelled due to Covid 19.

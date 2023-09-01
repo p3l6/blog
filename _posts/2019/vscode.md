@@ -2,6 +2,7 @@
 layout: post
 author: Paul
 title: VSCode
+date: 2019-03-29
 ---
 
 This week I switched my main text editor from Atom to Visual Studio Code. 

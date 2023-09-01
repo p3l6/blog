@@ -2,6 +2,7 @@
 layout: post
 author: Paul
 title: Warp Terminal
+date: 2023-01-18
 ---
 
 I recently came across a newer terminal emulator program for Mac.

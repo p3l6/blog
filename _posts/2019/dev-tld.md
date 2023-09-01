@@ -2,6 +2,7 @@
 layout: post
 author: Paul
 title: Dev TLD
+date: 2019-02-28
 ---
 
 Google is now allowing registrations for their .dev top level domain! They had recently been in an early access period that has now ended.

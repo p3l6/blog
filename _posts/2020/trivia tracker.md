@@ -2,6 +2,7 @@
 layout: post
 author: Paul
 title: Trivia Tracker App
+date: 2020-11-20
 ---
 
 During the 2020 Pandemic Lockdown, one of the projects I embarked on was to create an app to keep track of responses while watching an episode of Jeopardy.

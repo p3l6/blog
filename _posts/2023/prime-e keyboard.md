@@ -2,6 +2,7 @@
 layout: post
 author: Paul
 title: Prime_E Keyboard
+date: 2023-04-22
 ---
 
 It doesn't look like I have made any posts about mechanical keyboards before, which is a surprise to me. I've been in a hobbyist mechanical keyboard user for a while. As many do, I started with larger keyboards and have gotten progressively smaller.  

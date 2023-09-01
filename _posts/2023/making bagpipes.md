@@ -2,6 +2,7 @@
 layout: post
 author: Paul
 title: Making Bagpipes
+date: 2023-03-11
 ---
 
 While between programming jobs earlier this year,
