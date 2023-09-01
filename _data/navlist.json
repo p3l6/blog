@@ -24,24 +24,6 @@
         ]
       },
       {
-        "title": "Hobbies",
-        "rows": [
-          {
-            "items": [
-              { "title": "Bagpipes", "url": "/bagpipes/" },
-              { "title": "Woodworking", "url": "/woodworking/" }
-            ]
-          },
-          {
-            "items": [
-              { "title": "Go", "url": "/baduk/" },
-              { "title": "Keyboards", "url": "/keyboards/" },
-              { "title": "Brewing", "url": "/brewing/" }
-            ]
-          }
-        ]
-      },
-      {
         "title": "Software Projects",
         "rows": [
           {
@@ -57,6 +39,7 @@
         "rows": [
           {
             "items": [
+              { "title": "Hobbies", "url": "/hobbies/" },
               { "title": "Recipes", "url": "/cook/" }
             ]
           }

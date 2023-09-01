@@ -18,3 +18,17 @@ OR
 ![Alt text][footnote]
 then later,
 [footnote]: /path/to/image "Title - extra information"
+
+
+## Kramdown extras reference
+
+https://kramdown.gettalong.org/quickref.html
+
+Notably, add html markup following blocks with "block inline attribute list"s:
+
+```
+{: title="Blockquote title"}
+{: .class1 .class2}
+{: #with-an-id}
+{: style="color: red"}
+```
