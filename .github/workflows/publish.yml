@@ -1,0 +1,47 @@
+name: Publish to github pages
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      # - uses: actions/cache@v3
+      #   with:
+      #     path: vendor/bundle
+      #     key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
+      #     restore-keys: |
+      #       ${{ runner.os }}-gems-
+      - uses: ruby/setup-ruby@b252db7f2774eec6798adf2a3816e69529489dab
+        with:
+          ruby-version: '3.1'
+          bundler-cache: true
+      - name: Run Jekyll
+        run: bundle exec jekyll build --trace
+      - name: Fix permissions
+        run: |
+          chmod -c -R +rX "_site/" | while read line; do
+            echo "::warning title=Invalid file permissions automatically fixed::$line"
+          done
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v2
+
+
+  deploy:
+    needs: build
+    permissions:
+      pages: write  
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
