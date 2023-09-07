@@ -19,6 +19,10 @@ layout: recipe
 Brown meat with onion, mushroom, garlic, mustard.
 drain
 
-Add cream, mayo, broth; cook on low heat fro 10-15 mins.  *Do not stir*
+Add cream, mayo, broth; cook on low heat for 10-15 mins.  *Do not stir*
 
 Serve over noodles
+
+### Notes
+
+Steak can be substituted for the ground beef.

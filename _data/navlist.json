@@ -40,7 +40,7 @@
           {
             "items": [
               { "title": "Hobbies", "url": "/hobbies/" },
-              { "title": "Recipes", "url": "/cooking/" }
+              { "title": "Recipes", "url": "/cook/" }
             ]
           }
         ]
