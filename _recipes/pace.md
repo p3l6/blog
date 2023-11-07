@@ -1,7 +1,6 @@
 ---
 title: Pace
 meal: sauce
-layout: recipe
 ---
 
 ## Ingredients 

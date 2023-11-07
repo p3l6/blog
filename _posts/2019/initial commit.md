@@ -1,6 +1,4 @@
 ---
-layout: post
-author: Paul
 title: Initial Commit
 summary: My first post to this blog.
 date: 2019-02-13

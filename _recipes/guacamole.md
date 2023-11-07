@@ -1,7 +1,6 @@
 ---
 title: Guacamole
 meal: side
-layout: recipe
 ---
 
 * 2 Avocados

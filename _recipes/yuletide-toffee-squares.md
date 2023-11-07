@@ -1,7 +1,6 @@
 ---
 title: Yuletide toffee squares
 meal: dessert
-layout: recipe
 ---
 
 ## Ingredients

@@ -1,7 +1,6 @@
 ---
 title: Young life salsa
 meal: sauce
-layout: recipe
 ---
 
 > From kitchen work crew at crooked creek ranch

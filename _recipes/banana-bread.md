@@ -1,7 +1,6 @@
 ---
 title: Banana bread
 meal: breakfast
-layout: recipe
 ---
 
 ## Ingredients

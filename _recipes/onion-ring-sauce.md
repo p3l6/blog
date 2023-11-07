@@ -1,7 +1,6 @@
 ---
 title: Onion ring sauce
 meal: sauce
-layout: recipe
 ---
 
 * 1/2 C mayo

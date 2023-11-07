@@ -1,6 +1,4 @@
 ---
-layout: post
-author: Paul
 title: Trivia Tracker App
 summary: An iOS app for counting your play-along Jeopardy score.
 date: 2020-11-20

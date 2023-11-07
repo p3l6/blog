@@ -1,6 +1,4 @@
 ---
-layout: post
-author: Paul
 title: Github as an RSS manager
 summary: Syncing feed lists stored in a github repository.
 date: 2020-05-12
@@ -50,7 +48,10 @@ Each one represents a folder that I was previously using, along with a catch-all
 This process must then be completed for each folder:
 1. In inoreader settings, navigate to _import/export/backup_
 2. Find the button to add a new _OPML subscription_ and click it
-3. Use the url for the raw GitHub content: `https://raw.githubusercontent.com/<user>/<repo>/master/<path>/<file>.opml`
+3. Use the url for the raw GitHub content: 
+```
+https://raw.githubusercontent.com/<user>/<repo>/master/<path>/<file>.opml
+```
 4. Enter a new folder name, matching the OPML file name
 5. Use full synchronization (to unsubscribe when a feed is removed from the source)
 6. Uncheck notify when updated (since I'm subscribing to my own feeds, I already know when they update)

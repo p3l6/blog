@@ -1,6 +1,8 @@
 {
-  "files.trimTrailingWhitespace": false,
-  
+  "[markdown]": {
+    "files.trimTrailingWhitespace": false,
+  },
+
   "cSpell.enabled": true,
   "cSpell.words": [
     "baduk",
@@ -8,15 +10,19 @@
     "Broomfield",
     "Carrick",
     "cocoapods",
+    "Comfortaa",
     "Covid",
     "Delrin",
     "Deno",
     "Doma",
+    "Dosis",
     "dotfiles",
     "elif",
     "endfor",
+    "endunless",
     "esbuild",
     "extendedglob",
+    "Fira",
     "Gameplay",
     "gracenotes",
     "gracings",
@@ -47,6 +53,8 @@
     "Reeder",
     "Saison",
     "setopt",
+    "Sympolymathesy",
+    "tailwindcss",
     "Testplant",
     "tictaccubed",
     "topnav",

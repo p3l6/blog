@@ -1,7 +1,6 @@
 ---
 title: Chicken gyros
 meal: lunch
-layout: recipe
 ---
 
 dice chicken (8 thighs), add 3 clove garlic and 1 red chili. zest one lemon, 3 T yogurt, salt and pepper.

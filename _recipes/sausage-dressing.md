@@ -1,7 +1,6 @@
 ---
 title: Sausage dressing
 meal: side
-layout: recipe
 ---
 
 ## Ingredients

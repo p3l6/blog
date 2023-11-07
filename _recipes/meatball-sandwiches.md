@@ -1,7 +1,6 @@
 ---
 title: Meatball Sandwiches
 meal: lunch
-layout: recipe
 ---
 
 ## Ingredients

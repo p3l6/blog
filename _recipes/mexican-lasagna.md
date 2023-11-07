@@ -1,7 +1,6 @@
 ---
 title: Dutch Oven - Mexican lasagna
 meal: dinner
-layout: recipe
 ---
 
 ## Ingredients

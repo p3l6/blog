@@ -1,7 +1,6 @@
 ---
 title: Mashed potatoes
 meal: side
-layout: recipe
 ---
 
 * 1 lb potatos

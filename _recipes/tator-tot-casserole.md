@@ -1,7 +1,6 @@
 ---
 title: Tator tot casserole
 meal: dinner
-layout: recipe
 ---
 
 * brown 2 lbs ground beef

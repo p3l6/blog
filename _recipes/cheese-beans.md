@@ -1,7 +1,6 @@
 ---
 title: Cheese beans
 meal: side
-layout: recipe
 ---
 
 ## Ingredients

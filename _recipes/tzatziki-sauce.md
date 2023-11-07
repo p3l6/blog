@@ -1,7 +1,6 @@
 ---
 title: Tzatziki sauce
 meal: sauce
-layout: recipe
 ---
 
 ## Ingredients

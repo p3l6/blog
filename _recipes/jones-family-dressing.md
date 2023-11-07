@@ -1,7 +1,6 @@
 ---
 title: Jones Family Dressing
 meal: sauce
-layout: recipe
 ---
 
 Equal parts of 

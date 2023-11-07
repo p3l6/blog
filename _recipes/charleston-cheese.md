@@ -1,7 +1,6 @@
 ---
 title: Charleston Cheese
 meal: side
-layout: recipe
 ---
 
 > Source: Rebecca Claire Stewart Miller  

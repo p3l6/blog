@@ -1,6 +1,4 @@
 ---
-layout: post
-author: Paul
 title: Making Bagpipes
 summary: Learning to use machine lathes at MacLellan Bagpipes.
 date: 2023-03-11

@@ -1,7 +1,6 @@
 ---
 title: Beef stroganoff
 meal: dinner
-layout: recipe
 ---
 
 ## Ingredients

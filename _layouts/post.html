@@ -1,10 +1,24 @@
 ---
-layout: default
-titleOverride: Blog
+layout: base
+selectedNav: /blog/
 ---
-<h1>{{ page.title }}</h1>
-<p>{{ page.summary }}</p>
-<p><em> {{ page.date | date_to_string }}</em> </p>
-<hr>
+<blockquote class="not-prose bg-sky-100 dark:bg-sky-900 p-3 mb-5 border border-sky-300 rounded">
+  <p>{{ page.summary }}</p>
+</blockquote>
 
-{{ content }}
+<article class="">
+  {{ content }}
+</article>
+
+<hr />
+
+<footer class="not-prose">
+  <h1 class="italic">Post details:</h1>
+  <ul class="list-disc list-inside">
+    <li>Published: {{ page.date | date_to_string }}</li>
+    <li>Author: {{ page.author }}</li>
+    {% unless page.tags == empty %}
+      <li>Tags: {{ page.tags }}</li>
+    {% endunless %}
+  </ul>
+</footer>

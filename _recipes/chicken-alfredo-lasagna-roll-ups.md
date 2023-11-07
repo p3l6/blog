@@ -1,7 +1,6 @@
 ---
 title: Chicken alfredo lasagna roll ups
 meal: dinner
-layout: recipe
 ---
 
 ## Ingredients
@@ -11,7 +10,6 @@ layout: recipe
 - 1.5 C Alfredo sauce
 - 2 C Shredded mozzarella
 - 1 C Parmesan
-
 - 1 t Salt
 - 1/2 t Onion powder
 - 1/2 t Garlic powder

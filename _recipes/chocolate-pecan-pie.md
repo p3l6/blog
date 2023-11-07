@@ -1,7 +1,6 @@
 ---
 title: Chocolate pecan pie
 meal: dessert
-layout: recipe
 ---
 
 ## Ingredients

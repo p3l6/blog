@@ -1,7 +1,6 @@
 ---
 title: Enchiladas
 meal: dinner
-layout: recipe
 ---
 
 ## Ingredients

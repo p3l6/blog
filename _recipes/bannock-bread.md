@@ -1,7 +1,6 @@
 ---
 title: Bannock Bread
 meal: side
-layout: recipe
 ---
 
 ## Ingredients

@@ -1,26 +1,58 @@
-theme: jekyll-theme-minimal
-
-title: Paul Landers
-email: paul@thelanders.family
+title: p3l6.dev
+email: me@p3l6.dev
 description: Paul Landers' hobbies and software
-baseurl: ""
-url: "https://p3l6.dev"
 logo: /assets/images/logos/main.svg
-github_username: p3l6
-show_downloads: false
+
+url: "https://p3l6.dev"
+baseurl: ""
 
 markdown: kramdown
-
-repository: p3l6/blog
+permalink: pretty
+timezone: America/New_York
 
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
 
-timezone: America/New_York
-
-permalink: pretty
-
 collections:
   recipes:
     output: true
+
+defaults:
+  - scope:
+      type: pages
+    values:
+      layout: page
+  - scope:
+      type: posts
+    values:
+      layout: post
+      author: Paul Landers
+  - scope:
+      type: recipes
+    values:
+      layout: recipe
+
+navigation_items:
+  - title: Home
+    url: "/"
+    divide: true
+  - title: Blog
+    url: "/blog/"
+  - title: Recipes
+    url: "/cook/"
+    divide: true
+  - title: Resume
+    url: "/resume/"
+  - title: Hobbies
+    url: "/hobbies/"
+  - title: On the Web
+    url: "/accounts/"
+    divide: true
+  - title: Trivia Tracker
+    url: "/projects/triviatracker/"
+  - title: TicTacCubed
+    url: "/projects/tictaccubed/"
+    divide: true
+  - title: Blueprint
+    url: "/blueprint/"

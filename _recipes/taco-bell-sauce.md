@@ -1,7 +1,6 @@
 ---
 title: Taco bell sauce
 meal: sauce
-layout: recipe
 ---
 
 * 1 cup mayo

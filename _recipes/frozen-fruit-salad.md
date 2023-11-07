@@ -1,7 +1,6 @@
 ---
 title: Frozen fruit salad
 meal: side
-layout: recipe
 ---
 
 ### Ingredients

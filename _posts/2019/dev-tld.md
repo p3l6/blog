@@ -1,6 +1,4 @@
 ---
-layout: post
-author: Paul
 title: Dev TLD
 summary: Moving this blog from dot xyz to dot dev.
 date: 2019-02-28

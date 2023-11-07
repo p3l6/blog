@@ -1,6 +1,5 @@
 ---
 title: Recipes
-layout: default
 ---
 
 {% assign meals =  site.recipes | map: 'meal' | uniq %}

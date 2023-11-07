@@ -1,7 +1,6 @@
 ---
 title: Croissant breakfast stuffing
 meal: breakfast
-layout: recipe
 ---
 
 ## Ingredients

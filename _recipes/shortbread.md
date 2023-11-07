@@ -1,7 +1,6 @@
 ---
 title: Shortbread
 meal: dessert
-layout: recipe
 ---
 
 Beat 2 sticks butter, 1/4 cup granulated sugar and 1/2 cup confectioners' sugar until fluffy.

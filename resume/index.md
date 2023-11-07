@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Resume
 ---
 
@@ -8,6 +7,8 @@ title: Resume
 > Punctual communicator, patient, and thrives on a fully remote team.
 > Mentors and assists teammates in their professional growth.
 > Always open to new technologies: mindful of which tool is best suited for a task.
+
+[Full PDF Resume](resume.pdf) -- [LinkedIn Profile](http://www.linkedin.com/in/p3l6)
 
 ## Skills
 * Swift, Objective-C, Python, Typescript
@@ -40,7 +41,3 @@ title: Resume
   * Northern Tier National High Adventure Base
   * Summer: 2009,2010
   * Ely, MN
-
-[Full PDF Resume](resume.pdf)
-
-[linkedin](http://www.linkedin.com/in/p3l6)

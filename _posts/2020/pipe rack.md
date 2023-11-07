@@ -1,6 +1,4 @@
 ---
-layout: post
-author: Paul
 title: Pipe Rack
 summary: I finished a woodworking project to hold many sets of bagpipes.
 redirect_from: /piperack/

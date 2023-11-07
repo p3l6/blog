@@ -1,7 +1,6 @@
 ---
 title: Smoked potato salad
 meal: side
-layout: recipe
 ---
 
 50/50 mayo, sour cream

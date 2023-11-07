@@ -1,7 +1,6 @@
 ---
 title: Chocolate Cherry Fudge
 meal: dessert
-layout: recipe
 ---
 
 ## Ingredients

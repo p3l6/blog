@@ -1,7 +1,6 @@
 ---
 title: Chicken tikka masala
 meal: dinner
-layout: recipe
 ---
 
 # Marinade

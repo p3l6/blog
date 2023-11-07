@@ -1,7 +1,6 @@
 ---
 title: Scottish Meat Pie
 meal: dinner
-layout: recipe
 ---
 
 ## Ingredients

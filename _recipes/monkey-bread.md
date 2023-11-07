@@ -1,7 +1,6 @@
 ---
 title: Monkey bread
 meal: breakfast
-layout: recipe
 ---
 
 ## Ingredients

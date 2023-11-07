@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Tic Tac Cubed
 logo: /assets/images/tictaccubed/app-icon.png
 ---

@@ -1,7 +1,6 @@
 ---
 title: Chocolate cheesecake
 meal: dessert
-layout: recipe
 ---
 
 ## Ingredients

@@ -1,7 +1,6 @@
 ---
 title: Six week muffins
 meal: breakfast
-layout: recipe
 ---
 
 ## Ingredients

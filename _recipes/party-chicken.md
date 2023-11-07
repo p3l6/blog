@@ -1,7 +1,6 @@
 ---
 title: Party Chicken
 meal: dinner
-layout: recipe
 ---
 
 > From Libby Camp (Mom’s Aunt)  

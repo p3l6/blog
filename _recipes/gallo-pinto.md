@@ -1,7 +1,6 @@
 ---
 title: Gallo Pinto
 meal: dinner
-layout: recipe
 ---
 
 ## Ingredients

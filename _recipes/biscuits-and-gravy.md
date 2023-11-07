@@ -1,7 +1,6 @@
 ---
 title: Biscuits and Gravy
 meal: breakfast
-layout: recipe
 ---
 
 ## Biscuits

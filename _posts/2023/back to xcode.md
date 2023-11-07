@@ -1,6 +1,4 @@
 ---
-layout: post
-author: Paul
 title: Back to Xcode
 summary: New job, new text editor.
 date: 2023-03-03

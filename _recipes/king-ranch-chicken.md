@@ -1,7 +1,6 @@
 ---
 title: King ranch chicken
 meal: dinner
-layout: recipe
 ---
 
 ## Ingredients

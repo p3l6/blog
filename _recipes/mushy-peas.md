@@ -1,7 +1,6 @@
 ---
 title: Mushy Peas
 meal: side
-layout: recipe
 ---
 
 ### Ingredients

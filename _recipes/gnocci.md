@@ -1,7 +1,6 @@
 ---
 title: Gnocci
 meal: dinner
-layout: recipe
 ---
 
 Learned at QiG christmas party, bella bistro

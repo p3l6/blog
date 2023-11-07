@@ -1,7 +1,6 @@
 ---
 title: Hudson bay bread
 meal: lunch
-layout: recipe
 ---
 
 ## Ingredients

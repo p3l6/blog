@@ -1,25 +1,24 @@
 ---
 title: Reuben
 meal: lunch
-layout: recipe
 ---
 
 ## Ingredients
 ### Sandwich ingredients:
-2 Tbsp butter, softened
-8 slices rye bread
-8 slices Swiss cheese
-3/4 lb corned beef brisket, thinly sliced
-1/2 lb sauerkraut
-1/4 cup Russian Dressing
+* 2 Tbsp butter, softened
+* 8 slices rye bread
+* 8 slices Swiss cheese
+* 3/4 lb corned beef brisket, thinly sliced
+* 1/2 lb sauerkraut
+* 1/4 cup Russian Dressing
 
 ### Russian Dressing:
-1/3 cup mayonnaise
-1 1/2 Tbsp ketchup
-1 1/2 teaspoons prepared horseradish
-1/2 teaspoon Worcestershire sauce
-Salt, to taste
-Freshly ground black pepper, to taste
+* 1/3 cup mayonnaise
+* 1 1/2 Tbsp ketchup
+* 1 1/2 teaspoons prepared horseradish
+* 1/2 teaspoon Worcestershire sauce
+* Salt, to taste
+* Freshly ground black pepper, to taste
 
 ## Directions
 Butter one side of four slices of bread, and place the slices buttered-side down on a large piece of wax paper on a flat surface. Top each with a slice of Swiss cheese, and then divide half of the corned beef among them.

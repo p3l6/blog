@@ -1,7 +1,6 @@
 ---
 title: Big ugly salmon
 meal: dinner
-layout: recipe
 ---
 
 Make a aluminum foil boat, fold up the sides of a big piece. (fold in first if needed smaller)

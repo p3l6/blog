@@ -1,7 +1,6 @@
 ---
 title: Pizza
 meal: dinner
-layout: recipe
 ---
 
 ## Ingredients

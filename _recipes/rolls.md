@@ -1,7 +1,6 @@
 ---
 title: Rolls
 meal: side
-layout: recipe
 ---
 
 > The Camp-Landers family recipe
