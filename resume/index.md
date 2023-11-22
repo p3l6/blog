@@ -18,7 +18,7 @@ title: Resume
 * Matlab, Vapor, React, Deno
 
 ## Employment
-* Senior MacOS Engineer
+* Senior macOS Software Engineer
   * Boombox
   * Jan 2023 - Present
 * Senior Software Engineer
