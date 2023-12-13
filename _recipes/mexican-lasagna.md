@@ -3,7 +3,8 @@ title: Dutch Oven - Mexican lasagna
 meal: dinner
 ---
 
-## Ingredients
+|| Ingredients |
+|-:|-|
 2 lbs     | ground beef
 1½ tsp    | ground cumin
 1 Tbsp    | chili powder
