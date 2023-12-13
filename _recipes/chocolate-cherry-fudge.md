@@ -7,7 +7,7 @@ meal: dessert
 * 1 can (14oz) sweetened condensed milk
 * 2 C (12oz) semi-sweet chocolate chips
 * 1/2 C Coarsly chopped almonds
-* 1/2 C (4 oz) Chopped candied cherries (for fruitcakes) 
+* 1/2 C (4 oz) Chopped candied cherries (for fruitcakes)
 * 1 t almond or orange extract
 
 ## Directions

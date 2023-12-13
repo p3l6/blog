@@ -12,7 +12,7 @@ meal: sauce
 * 1/3 t cayenne
 
 
-Or 
+Or
 
 * 	1/2 cup mayonnaise
 * 	2 teaspoons ketchup

@@ -13,7 +13,7 @@ It is a score tracker; as you watch a trivia episode[^1] and call out answers, y
 * Individual clues can be marked "Correct", "Wrong", or "Skipped"
 * Simple user interface, tap clues to toggle between the modes.
   * On iPhone, you may also tap-hold a clue to get a menu of the options
-* Category titles can be entered, to assist marking the correct clues as the game progresses. 
+* Category titles can be entered, to assist marking the correct clues as the game progresses.
 * Toggle between the first and second rounds.
 
 ### Screenshots:
@@ -28,4 +28,4 @@ For support or help with this app, contact the [developer](mailto:paul@thelander
 
 - - -
 
-[^1]: The creator of this app is not affiliated with any game shows in any capacity. 
+[^1]: The creator of this app is not affiliated with any game shows in any capacity.

@@ -13,7 +13,7 @@ This site does not track, store, transmit, or collect any of your data or person
 * [Jekyll](https://jekyllrb.com): The static site generator used by default on GitHub Pages. This site has since departed from the default in order to use a newer version and include custom plugins.
 * [Tailwind CSS](https://tailwindcss.com): As css is one of my development nightmares, I wanted to find a higher level abstraction during my latest blog redesign. I chose tailwind and found it very nice to work with.
 * [GitHub Pages](https://pages.github.com): Github pages is a static page hosting service; it serves the Jekyll output from the markdown pages stored in the repository.
-* [Repository](https://github.com/p3l6/blog): The repository containing all the content, and history, for this blog. 
+* [Repository](https://github.com/p3l6/blog): The repository containing all the content, and history, for this blog.
 
 ## Fonts
 

@@ -14,5 +14,5 @@ title: Recipes
 * [{{ recipe.title }}]({{ recipe.url }})
 {% endif -%}
 {% endfor -%}
-  
+
 {% endfor %}

@@ -19,10 +19,10 @@ meal: sauce
 * 2-1/2 t white distilled vinegar
 
 ## directions
-Quarter tomatoes, add jalapenos.  
-Dice green onions, add non-bulb parts.  
-dice cilantro up to wrap around tie, leave stems.  
+Quarter tomatoes, add jalapenos. \\
+Dice green onions, add non-bulb parts. \\
+dice cilantro up to wrap around tie, leave stems. \\
 Add remaining ingredients
 
-Use an immersion blender, mix until tomatoes are of salsa substance.  
+Use an immersion blender, mix until tomatoes are of salsa substance. \\
 Let it sit overnight.

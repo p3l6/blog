@@ -25,4 +25,4 @@ meal: dinner
 7. Cover with remaining alfredo sauce.
 8. Top with shredded mozzarella and parmesan cheeses.
 9. Cover with foil and bake for 20 mins
-10. Remove foil and bake an additional 10 minutes, until cheese is melted and bubbling. 
+10. Remove foil and bake an additional 10 minutes, until cheese is melted and bubbling.

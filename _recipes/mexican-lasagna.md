@@ -23,17 +23,17 @@ meal: dinner
 * .25 c black olives
 
 ## Directions
-In a large skillet, brown ground beef. add spices and 16oz tomato; heat throughly.  
-Cover bottom of 12" Dutch oven with half of the corn tortillas; pour beef mixture over tortillas  
+In a large skillet, brown ground beef. add spices and 16oz tomato; heat throughly. \\
+Cover bottom of 12" Dutch oven with half of the corn tortillas; pour beef mixture over tortillas \\
 place rest of tortillas over the beef layer; set aside.
 
 in a a medium bowl combine the cottage cheese, monterey jack cheese, and egg; pour over tortilla layer.
 
-bake at 350 for 30 minutes  
+bake at 350 for 30 minutes \\
 remove from oven and top with cheddar cheese lettuce tomato green onion and black olives.
 
 notes from Dad:
 
-use tortilla chips instead of soft tortillas. ( use less salt )  
-meat or liquid on bottom, not tortillas  
+use tortilla chips instead of soft tortillas. ( use less salt ) \\
+meat or liquid on bottom, not tortillas \\
 2 layers of meat / tortilla / cheese mix / tortilla / meat / tortilla / cheese mix

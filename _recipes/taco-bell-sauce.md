@@ -13,4 +13,4 @@ meal: sauce
 * 1/8 tsp salt
 * 8 tsp jalapeno juice from jarred jalapenos (add last)
 
-mix well, let chill, mix again after an hour to two. 
+mix well, let chill, mix again after an hour to two.

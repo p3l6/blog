@@ -22,7 +22,7 @@ The only thing left to verify was the structure of an xcode workspace. I created
 </Workspace>
 ```
 
-Excellent, these files are sufficiently trivial to create on the fly from a shell script. And so doing that, I saved this script as `x`, and added it to my `$PATH`. 
+Excellent, these files are sufficiently trivial to create on the fly from a shell script. And so doing that, I saved this script as `x`, and added it to my `$PATH`.
 Invoking it without arguments opens the current directory in a new Xcode workspace, and with arguments, any folder or files.
 
 The generated workspaces are saved inside the opened folder, under a `.xcode` directory. I added this pattern to my global gitignore file, since I create the workspaces with absolute paths to the referenced contents. At first, I attempted setting group as a relative path: `location = "group:../"`, which almost worked, except that Xcode used `..` as the name of the root folder.
@@ -67,22 +67,22 @@ openItem() {
     if [[ -n $A/*.xcodeproj(#qN) ]] ; then
       echo Opening project in: $1
       open -a Xcode.app $A/*.xcodeproj
-      
+
     # Then, try an existing xcode workspace
     elif [[ -n $A/*.xcworkspace(#qN) ]] ; then
       echo Opening workspace in: $1
       open -a Xcode.app $A/*.xcworkspace
-      
+
     # Check if the folder is a swift package
     elif [[ -f $A/Package.swift ]] ; then
       echo Opening package in: $1
       open -a Xcode.app $A/Package.swift
-      
+
     # Check to see if the `x` tool has already been used in this folder
     elif [[ -d $A/.xcode/$basename.xcworkspace ]] ; then
       echo Opening folder: $1
       open -a Xcode.app $A/.xcode/$basename.xcworkspace
-      
+
     # Lastly, create a new workspace and open it
     else
       echo Wrapping: $basename as $A/.xcode/$basename.xcworkspace

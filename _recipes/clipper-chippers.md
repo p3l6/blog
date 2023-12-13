@@ -3,7 +3,7 @@ title: Clipper Chippers
 meal: dessert
 ---
 
-> These delicious cookies were served warm at about 4pm when we returned to our clipper ship after an afternoon adventure on zodiacs in Antarctica. Our daughter became such a fan of these cookies that she requested they be served instead of cake at her wedding. I froze the dough in Colorado and baked the cookies in Tortola, BVI. They were a hit! Enjoy! -- Karen Bell  
+> These delicious cookies were served warm at about 4pm when we returned to our clipper ship after an afternoon adventure on zodiacs in Antarctica. Our daughter became such a fan of these cookies that she requested they be served instead of cake at her wedding. I froze the dough in Colorado and baked the cookies in Tortola, BVI. They were a hit! Enjoy! -- Karen Bell
 
 ## Ingredients
 * 1 C butter, softened
@@ -20,7 +20,7 @@ meal: dessert
 * 1 C walnut halves, 1/2 C pecan halves (optional)
 
 ## Directions
-1. Cream butter, sugars, vanilla and liqueurs until light and fluffy. Add eggs, beat well. 
+1. Cream butter, sugars, vanilla and liqueurs until light and fluffy. Add eggs, beat well.
 2. Combine flour, salt and soda. Gradually stir flour into butter mixture using large kitchen spoon. Fold in chips and nuts with spoon.
 3. Cover and refrigerate overnight. This is important for blending of flavors. The dough can be refrigerated for several days or frozen.
 4. Preheat oven to 325 degrees.

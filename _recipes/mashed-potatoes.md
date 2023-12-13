@@ -11,4 +11,4 @@ meal: side
 
 Quarter and Boil potatoes. Mash. Stir in remaining.
 
-Optional: sub halfnhalf for milk and butter. 
+Optional: sub halfnhalf for milk and butter.

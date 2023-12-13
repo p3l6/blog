@@ -16,8 +16,8 @@ meal: breakfast
 ## Directions
 mix together, store in refrigerator, covered container, for up to six weeks
 
-grease muffin pans  
-fill 2/3 full  
+grease muffin pans \\
+fill 2/3 full \\
 bake 400 degrees 15-20 minutes
 
 - - - -

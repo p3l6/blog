@@ -6,7 +6,7 @@
 `./run-local`
 
 ## Including images
-Both alt text and title are optional. Reminder: 
+Both alt text and title are optional. Reminder:
 * alt text: shows when image fails to load, should describe the image
 * title: aka hover-text. use to describe something unclear about an image
 
@@ -32,6 +32,6 @@ Notably, add html markup following blocks with "block inline attribute list"s:
 
 ## Tailwind
 
-Tailwind is not integrated into the jekyll build pipeline, so just run it and commit the output, when the html changes. 
+Tailwind is not integrated into the jekyll build pipeline, so just run it and commit the output, when the html changes.
 
 Build: `./_tailwind/build`, which happens at the beginning of run-local. It would be great to watch for tailwind changes, but jekyll watch currently doesn't see the changes to the theme files, so the server has to be relaunched regardless.

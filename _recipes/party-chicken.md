@@ -3,7 +3,7 @@ title: Party Chicken
 meal: dinner
 ---
 
-> From Libby Camp (Mom’s Aunt)  
+> From Libby Camp (Mom’s Aunt)
 
 ## Ingredients
 * 2-3 lbs boneless, skinless, chicken breasts (cut into 8 halves)

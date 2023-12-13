@@ -3,7 +3,7 @@ title: Jones Family Dressing
 meal: sauce
 ---
 
-Equal parts of 
+Equal parts of
 * Olive oil
 * Balsamic vinegar
 * Blackberry patch harvest of berries syrup

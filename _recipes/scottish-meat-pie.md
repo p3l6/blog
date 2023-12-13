@@ -30,8 +30,8 @@ meal: dinner
 	* Set aside and roll out some for a lid. Mold into pan, add filling, cover and crimp with lid. Make a slit in the top for steam
 	* Roll out whole piece, form into pan, fold over the excess and crimp together. Leave a couple tiny holes for steam
 7. Brush tops with an egg
-8. Bake at 250° for 30 minutes. Then 350° for 15 minutes 
+8. Bake at 250° for 30 minutes. Then 350° for 15 minutes
 
-*Note* Working with the pans we had, we made them cupcake size. We cut the dough into 18ths. We ran out of filling after about 14. Original baking times worked well. 
+*Note* Working with the pans we had, we made them cupcake size. We cut the dough into 18ths. We ran out of filling after about 14. Original baking times worked well.
 
-*Note* Our small springform pans are the right size to do six, but we only have four, so need to bake in two rounds. 
+*Note* Our small springform pans are the right size to do six, but we only have four, so need to bake in two rounds.

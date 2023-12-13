@@ -16,9 +16,9 @@ meal: dessert
 ## Directions
 1. Preheat oven to 375
 2. Cover bottom of pie crust with pecans
-3. In a medium bowl, whisk together eggs and melted butter. 
-4. Add the corn syrup, sugar, bourbon, and chocolate. 
-	1. Stir until all ingredients are combined. 
+3. In a medium bowl, whisk together eggs and melted butter.
+4. Add the corn syrup, sugar, bourbon, and chocolate.
+	1. Stir until all ingredients are combined.
 	2. Pour mixture into pie shell, over top of pecans
 5. Place on a cookie sheet and bake
 	1. For 10 mins

@@ -33,7 +33,7 @@ Some of the games I have the most memories playing were:
 
 # Homebrewing
 
-**Welcome to Bowline Brewing!** 
+**Welcome to Bowline Brewing!**
 I've named my homebrew adventures after my favorite knot, the bowline!
 I also try to name each style of beer after a knot as well.
 

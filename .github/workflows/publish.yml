@@ -28,7 +28,7 @@ jobs:
   deploy:
     needs: build
     permissions:
-      pages: write  
+      pages: write
       id-token: write
     environment:
       name: github-pages

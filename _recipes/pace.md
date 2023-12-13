@@ -3,7 +3,7 @@ title: Pace
 meal: sauce
 ---
 
-## Ingredients 
+## Ingredients
 1 10.75-ounce can tomato puree
 
 1 can full of water (1 1/3 cups)

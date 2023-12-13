@@ -22,7 +22,7 @@ meal: side
 	2. Then stir in remaining ingredients (including more bread)
 4. Add enough chicken stock to make it moist
 5. Transfer to casserole dish, cover with foil
-6. Bake 
+6. Bake
 	1. At 350 for 30 mins
 	2. Remove foil and bake another 20 mins
 

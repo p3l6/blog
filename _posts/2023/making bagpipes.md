@@ -20,14 +20,14 @@ After getting hands on and learning the basics of all the tools, I was able to p
 Here are the rough steps it takes to make a bagpipe, which were interspersed with various shop setup tasks, as the shop was still going through a move, and days of preparing materials for other sets of pipes.
 
 1. Cut long strips of plastic stock to the approx lengths.
-2. Drilling the inside bores. CNC takes care of a lot of the work here, but bagpipes have many different interior diameters, so there are a lot of tool changes. As well as disconnecting and reconnecting air lines for the pressurized gun drills. 
+2. Drilling the inside bores. CNC takes care of a lot of the work here, but bagpipes have many different interior diameters, so there are a lot of tool changes. As well as disconnecting and reconnecting air lines for the pressurized gun drills.
 3. Glue the interior inserts in place, after shaping them to the right size.
-4. Trim up the ends of the insert and plastic to be flush, square ends. 
+4. Trim up the ends of the insert and plastic to be flush, square ends.
 5. Cut out the area for the tuning pins.
-6. Cut the profile, or outside shape, of each piece. This is when it really started to look like a bagpipe, very satisfying. Much of this was done by CNC, but adding the combs was all by hand, as well as various other final cleanups that the machine wasn't able to do. 
+6. Cut the profile, or outside shape, of each piece. This is when it really started to look like a bagpipe, very satisfying. Much of this was done by CNC, but adding the combs was all by hand, as well as various other final cleanups that the machine wasn't able to do.
 7. Cutting threads for all the decorative pieces.
 8. Making mounts and ferrules. Many choices here, from shape to material. I went with a slim gunn style mount in imitation ivory, and imitation ivory ferrules.
-9. Assembly, glue all the pieces on to the pipes. 
+9. Assembly, glue all the pieces on to the pipes.
 10. Final finishing. Touching up any rough areas by hand. Sanding and polishing. I added some decorative grooves, and rubbed them with shoe polish for an antiqued look.
 
 When all said and done, making bagpipes is not easy. This was a long process, and just for one set!

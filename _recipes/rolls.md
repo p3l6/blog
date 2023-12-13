@@ -24,7 +24,7 @@ meal: side
 	3. Knead until smooth
 	4. Probably don't need the full amount, maybe only 6c, you can tell by feel, no longer sticky
 4. Refridgerate about 2 hours
-	1. Cover with saran wrap first. 
+	1. Cover with saran wrap first.
 	2. Let rise a day, then punch down in the center
 	3. Let it rise again
 5. Shape rolls
@@ -36,11 +36,11 @@ meal: side
 
 ## Cinnamon rolls
 1. Roll dough into oblong 9x18.
-2. Spread with butter, then brown sugar and cinnamon. 
+2. Spread with butter, then brown sugar and cinnamon.
 3. Roll, out about 1/2 to 1 inch thick
 4. Butter pan liberally
 5. Cover bottom with brown sugar
 6. Drizzle white (light) corn syrup over sugar
 7. Place cut side of rolls down in pan
 8. Bake 375 for 25-30 mins
-9. Turn out on foil immediately 
+9. Turn out on foil immediately

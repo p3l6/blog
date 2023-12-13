@@ -1,8 +1,4 @@
 {
-  "[markdown]": {
-    "files.trimTrailingWhitespace": false,
-  },
-
   "cSpell.enabled": true,
   "cSpell.words": [
     "baduk",
