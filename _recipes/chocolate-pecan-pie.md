@@ -3,17 +3,19 @@ title: Chocolate pecan pie
 meal: dessert
 ---
 
-## Ingredients
-* 1 unbaked pie shell (9 inch)
-* 2 C pecan halves
-* 3 large eggs, beaten
-* 3 T melted butter
-* 1/2 C dark corn syrup
-* 1 C sugar
-* 2 T good quality bourbon
-* 3 oz semisweet chocolate, chopped
+|| Ingredients |
+|-:|-|
+1     | unbaked pie shell (9 inch)
+2 C   | pecan halves
+3     | large eggs, beaten
+3 T   | melted butter
+½ C   | dark corn syrup
+1 C   | sugar
+2 T   | good quality bourbon
+3 oz  | semisweet chocolate, chopped
 
 ## Directions
+
 1. Preheat oven to 375
 2. Cover bottom of pie crust with pecans
 3. In a medium bowl, whisk together eggs and melted butter.
@@ -22,5 +24,12 @@ meal: dessert
 	2. Pour mixture into pie shell, over top of pecans
 5. Place on a cookie sheet and bake
 	1. For 10 mins
-	2. Lower temp to 350 and continue to bake for 25 mins, until pie is set (Probably more like 50-55 mins)
-6. Remove from oven and cool on wire rack 
+	2. Lower temp to 350 and continue to bake for 25 mins, until pie is set
+6. Remove from oven and cool on wire rack
+
+### Appendix
+
+* 25 mins way too short.
+	* 50 was too long.
+* No gram cracker crust, use traditional.
+* Probably need need real baker squares, not chocolate chips.

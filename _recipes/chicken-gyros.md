@@ -3,12 +3,21 @@ title: Chicken gyros
 meal: lunch
 ---
 
-dice chicken (8 thighs), add 3 clove garlic and 1 red chili. zest one lemon, 3 T yogurt, salt and pepper.
-Rest 15 min.
+|| Ingredients |
+|-:|-|
+8        | chicken thighs
+3 cloves | garlic
+1        | red chili
+&nbsp;   | zest from one lemon
+3 Tbsp   | yogurt
+1 tsp    | oregano
+&nbsp;   | pita breads
 
-chop tomato, 1 t oregano, salt and pepper, olive oil.
-chop lettuce.
+## Directions
 
-chicken 3 min per side on med/high heat.
-
-put into pitas
+1. Dice chicken; then add garlic and chili, lemon zest, yogurt, salt and pepper.
+2. Rest 15 min.
+3. Chop tomato; then add oregano, salt and pepper, and olive oil.
+4. Chop lettuce.
+5. Cook chicken for 3 min per side on medium/high heat.
+6. Put some chicken, tomato mix, lettuce into each pita.

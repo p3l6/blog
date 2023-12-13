@@ -4,36 +4,35 @@ meal: dinner
 ---
 
 ## Ingredients
-* 2 lbs. ground beef
-* 1.5 tsp ground cumin
-* 1 T chili powder
-* .25 tsp garlic powder
-* .25 tsp red pepper
-* 1 tsp salt
-* 1 tsp pepper
-* 16 oz tomatoes, chopped (can)
-* 2 c cottage cheese
-* 1 c grated monterey jack cheese with peppers
-* 1 eg
-* 12 corn tortillas
-* .5 c grated cheddar cheese
-* shredded lettuce
-* .5 c chopped tomato
-* 3 green onions, chopped
-* .25 c black olives
+2 lbs     | ground beef
+1½ tsp    | ground cumin
+1 Tbsp    | chili powder
+¼ tsp     | garlic powder
+¼ tsp     | red pepper
+½ tsp     | salt
+1 tsp     | pepper
+16 oz can | tomatoes, chopped
+2 C       | cottage cheese
+1 C       | grated monterey jack cheese with peppers
+1         | egg
+1 bag     | tortilla chips
+½ C       | grated cheddar cheese
+&nbsp;    | shredded lettuce
+½ C       | chopped tomato
+3         | green onions, chopped
+¼ C       | black olives
 
 ## Directions
-In a large skillet, brown ground beef. add spices and 16oz tomato; heat throughly. \\
-Cover bottom of 12" Dutch oven with half of the corn tortillas; pour beef mixture over tortillas \\
-place rest of tortillas over the beef layer; set aside.
 
-in a a medium bowl combine the cottage cheese, monterey jack cheese, and egg; pour over tortilla layer.
+1. In a large skillet (or dutch oven lids), brown ground beef.
+2. Add spices and tomato, heat thoroughly.
+3. In a a medium bowl, combine the cottage cheese, monterey jack cheese, and egg.
+4. Make lasagna style layers of beef mixture, tortillas, cheese mix. Twice.
+Cover bottom of 12" Dutch oven with half of the corn tortillas, pour beef mixture over tortillas.
+6. Bake at 350 for 30 minutes.
+7. Remove from oven and top with cheddar cheese, lettuce, tomato, green onion and black olives.
 
-bake at 350 for 30 minutes \\
-remove from oven and top with cheddar cheese lettuce tomato green onion and black olives.
+### Appendix
 
-notes from Dad:
-
-use tortilla chips instead of soft tortillas. ( use less salt ) \\
-meat or liquid on bottom, not tortillas \\
-2 layers of meat / tortilla / cheese mix / tortilla / meat / tortilla / cheese mix
+* Originally, used corn tortillas and 1 tsp salt.
+  * With the tortillas on the bottom.

@@ -5,3 +5,32 @@ published: false # date: 2023-00-00 00:00 -0500 (winter) -0400 (summer)
 ---
 
 ...content...
+
+
+
+---
+title: Recipe
+meal: dinner
+---
+
+|| Ingredients |
+|-:|-|
+1 C        | lower case list
+1 dozen    | no trailing punctuation
+&nbsp;     | item without an amount
+units      | Qt C Tbsp tsp lbs oz dozen pkg
+frac chars | ⅛  2¼  ⅓  1½  ⅔  ¾
+
+## Directions
+
+1. Capitalized.
+2. Trailing periods.
+   1. Sub-steps. (indent three)
+
+> Optional recipe source
+
+### Appendix
+
+* Notes about recipe evolution.
+  * Or alternate suggestions.
+* Capitals and periods, like directions.

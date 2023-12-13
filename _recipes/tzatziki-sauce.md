@@ -3,17 +3,23 @@ title: Tzatziki sauce
 meal: sauce
 ---
 
-## Ingredients
-* 8 oz greek/strained yopgurt
-* 3/4 - 1-1/2 T olive oil
-* 1/4 - /13 cucumber (size dependent)
-* 1 clove garlic
-* 1/2 T lemon juice
-* 1/8 - 1/4 bunch dill (optional: northern regions)
-* salt and pepper
+|| Ingredients |
+|-:|-|
+8 oz        | greek/strained yogurt
+¾ - 1½ Tbsp | olive oil
+¼ - ⅓       | cucumber (size dependent)
+1 clove     | garlic
+½ Tbsp      | lemon juice
+⅛ - ¼ bunch | dill
+&nbsp;      | salt and pepper
 
 ## Directions
-Grate cucumber. Serve with salt, press, rest for 1/2 hr.
-Mince garlic, add to yogurt. Add cucumber, oil, half lemon (more lemon to taste)
 
-Chop dill finely, add with salt and pepper.
+1. Grate cucumber. Stir with salt, press, set aside for half an hour.
+2. Mince garlic, add to yogurt.
+3. Add cucumber, oil, half of lemon (or more lemon to taste).
+4. Chop dill finely, add with salt and pepper.
+
+### Appendix
+
+* Dill is optional, specific to northern regions.

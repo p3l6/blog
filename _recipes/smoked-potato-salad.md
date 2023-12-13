@@ -3,17 +3,22 @@ title: Smoked potato salad
 meal: side
 ---
 
-50/50 mayo, sour cream
-spices?
-shredded cheese
+|| Ingredients |
+|-:|-|
+50/50 mix | mayo, sour cream
+&nbsp; | spices?
+&nbsp; | shredded cheese
 
-Double cook potatoes: cut, parboil, bake.
-Liquid smoke when boiling?
+## Directions
+
+1. Double cook potatoes: cut, parboil, bake.
+   2. Liquid smoke when boiling?
 
 ## Attempt 1
+
 Half bag of potato
 
-Using smoker after parboil, since anyways. Boiled too long maybe for pre cuts. Might not need too?
+Using smoker after parboil, since running anyways. Boiled too long maybe for pre cuts. Might not need to?
 
 1/4 c each mayo cream
 
@@ -32,3 +37,4 @@ Used about 2/3 of sauce.
 Results. Good
 More cheese would be good. A bit more sauce, but one spice was overpowering it. We think chili powder, leave that out. Maybe less paprika.
 
+> WIP, attempting to replicate a side from Brew-n-que, a former local bbq restaurant.

@@ -3,12 +3,19 @@ title: Mashed potatoes
 meal: side
 ---
 
-* 1 lb potatos
-* 1/2 T salt
-* 1/2 C half and half
-* 1+ clove garlic
-* some parmesean (optional)
+|| Ingredients |
+|-:|-|
+1 lb   | potatoes
+½ Tbsp | salt
+½ C    | half and half
+1+     | clove garlic
+some   | parmesan (optional)
 
-Quarter and Boil potatoes. Mash. Stir in remaining.
+## Directions
 
-Optional: sub halfnhalf for milk and butter.
+1. Quarter and boil potatoes.
+2. Mash, stirring in remaining ingredients.
+
+### Appendix
+
+* Can substitute half and half with milk and butter.

@@ -3,25 +3,30 @@ title: Yuletide toffee squares
 meal: dessert
 ---
 
-## Ingredients
-* 4-1/2 C quaker oats, uncooked
-* 1 C packed brown sugar
-* 3/4 C margerine, melted
-* 1/2 C dark corn syrup
-* 1 T vanilla
-* 1/2 t salt
-* 12oz pkg semi-sweet choc chips.
-* 2 T shrtening
-* 2/3 C chopped nuts
+|| Ingredients |
+|-:|-|
+4½ C     | quaker oats, uncooked
+1 C      | packed brown sugar
+¾ C      | margarine, melted
+½ C      | dark corn syrup
+1 Tbsp   | vanilla
+½ tsp    | salt
+12oz pkg | semi-sweet chocolate chips
+2 Tbsp   | shortening
+⅔ C      | chopped nuts
 
 ## Directions
-Heat oven to 450. Grease 15x10 pan.
 
-Combine oats sugar, argerine, corn syrup, vanilla, salt. Mix well. Firmly press into pan
+1. Preheat oven to 450. Grease 15x10 pan.
+2. Combine oats, sugar, margarine, corn syrup, vanilla, salt. Mix well.
+3. Firmly press into pan.
+4. Bake 12 min, or until mixture is brown and bubbly.
+5. Cool completely.
+6. In saucepan over low heat, melt chocolate and shortening, stirring constantly until smooth.
+  * **Or**, put in glass in microwave, stirring every 30 sec.
+7. Spread over oat base, sprinkle with nuts.
+8. Chill until set. Cut into bars.
 
-Bake 12 min, or until mixture is brown and bubbly. (10 mins seemed like too long)
-Cool completely.
+### Appendix
 
-In saucepan over low  heat, melt chock and shortnening, stirring constantly until smooth.( or put in glass in microwave, stirring every 30 sec)
-
-Spread over oat base, sprinkle with nuts. Chill until set. Cut into bars.
+* 10 mins seemed like too long already

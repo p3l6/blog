@@ -3,24 +3,27 @@ title: Onion ring sauce
 meal: sauce
 ---
 
-* 1/2 C mayo
-* 1 T ketchup
-* 2 T hroseradish
-* 1/3 t paprika
-* 1/4 t salt
-* pinch pepper
-* 1/3 t cayenne
+|| Ingredients |
+|-:|-|
+½ C    | mayo
+1 Tbsp | ketchup
+2 Tbsp | horseradish
+⅓ tsp  | paprika
+¼ tsp  | salt
+pinch  | pepper
+⅓ tsp  | cayenne
 
+## Or
 
-Or
-
-* 	1/2 cup mayonnaise
-* 	2 teaspoons ketchup
-* 	2 tablespoons horseradish (little less)
-* 	1/4 teaspoon paprika
-* 	1/4 teaspoon salt
-* 	1/8 teaspoon garlic powder
-* 	1/8 teaspoon dried oregano
-* 	1 dash ground black pepper
-* 	1 dash cayenne pepper
+|| Ingredients |
+|-:|-|
+½ C    | mayonnaise
+2 tsp  | ketchup
+2 Tbsp | horseradish (little less)
+¼ tsp  | paprika
+¼ tsp  | salt
+⅛ tsp  | garlic powder
+⅛ tsp  | dried oregano
+dash   | ground black pepper
+dash   | cayenne pepper
 

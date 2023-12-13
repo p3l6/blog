@@ -3,20 +3,26 @@ title: King ranch chicken
 meal: dinner
 ---
 
-## Ingredients
-* 1-1/2 lb chicken breast, diced
-* 1 med onion, chopped
-* 1 med green pepper, chopped
-* 1 can chopped tomatoes
-* 1 cream of mushroom soup
-* 1 cream of chicken soup
-* 1/2 cup picante sauce
-* 1 T chili powder
-* 12 corn torillas, 1" squares
-* 4 oz shredded cheddar cheese
-* oil
+|| Ingredients |
+|-:|-|
+1½ lbs | chicken breast, diced
+1      | medium onion, chopped
+1      | medium green pepper, chopped
+1 can  | chopped tomatoes
+1 can  | cream of mushroom soup
+1 can  | cream of chicken soup
+½ C    | picante sauce
+1 Tbsp | chili powder
+12     | corn tortillas, 1" squares
+4 oz   | shredded cheddar cheese
+&nbsp; | oil
 
 ## Directions
-Brown chicken in oil until cooked, then remove from dutch oven. Cook onion and green pepper in ion until tnder bu t not brown. Mix in evrything except cheese and tortillas. When mixed well stir in tortilla squares and top with cheese. Baek 35-40 mins. Let sit uncovered about 5 minutes.
 
-Serve with addional picante sauce and cheese.
+1. Brown chicken in oil until cooked, then remove from dutch oven.
+2. Cook onion and green pepper in oil until tender but not brown.
+3. Mix in everything except cheese and tortillas.
+4. When mixed well stir in tortilla squares and top with cheese.
+5. Bake 35-40 mins.
+6. Let sit uncovered about 5 minutes.
+7. Serve with additional picante sauce and cheese.

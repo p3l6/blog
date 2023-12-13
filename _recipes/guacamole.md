@@ -3,13 +3,19 @@ title: Guacamole
 meal: side
 ---
 
-* 2 Avocados
-* 2 cloves of garlic, crushed and minced
-* juice of half a lemon or lime
-* small onion, chopped
-* small to medium tomato, seeded and diced
-* 2 Tbsp chopped cilantro leaves
-* 1 jalapeno or serrano pepper, seeded and chopped
-* 1/2 tsp salt
+|| Ingredients |
+|-:|-|
+2      | avocados
+2      | cloves of garlic, crushed and minced
+&nbsp; | juice of half a lemon or lime
+1      | small onion, chopped
+1      | small to medium tomato, seeded and diced
+2 Tbsp |  chopped cilantro leaves
+1      | jalapeno or serrano pepper, seeded and chopped
+½ tsp  |  salt
 
-Mash avocado, add lemon or lime juice. Blend with other ingredients.  Cover tightly and let sit for an hour or so in the fridge.
+## Directions
+
+1. Mash avocado, add lemon or lime juice.
+2. Blend with other ingredients.
+3. Cover tightly and let sit for an hour or so in the fridge.

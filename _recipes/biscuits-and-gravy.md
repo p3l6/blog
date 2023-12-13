@@ -3,15 +3,20 @@ title: Biscuits and Gravy
 meal: breakfast
 ---
 
-## Biscuits
-* 2-1/4 C Bisquick
-* 2/3 C milk
+| Biscuits | Gravy | Ingredients |
+|:-:|:-:|-|
+2¼ C | | bisquick
+⅔ C | 2-3 C | milk
+&nbsp; | 3 Tbsp | grease
+&nbsp; | 3 Tbsp | flour
 
-Combine, spoon out onto sheet. Bake 8-10 mins at 450.
+## Directions
 
-## Gravy
-* 3 T grease
-* 3 T flour
-* 2-3 C milk
-
-Make a roux. Slowly add milk, stirring constantly. Optionally add sausage from grease.
+1. For drop biscuits:
+   1. Combine bisquick and ⅔C milk.
+   2. Spoon out onto baking sheet.
+   3. Bake 8-10 mins at 450.
+2. For gravy:
+   1. Make a roux.
+   2. Slowly add milk, stirring constantly.
+   3. Add sausage from grease.

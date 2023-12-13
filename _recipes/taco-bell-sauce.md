@@ -3,14 +3,20 @@ title: Taco bell sauce
 meal: sauce
 ---
 
-* 1 cup mayo
-* 2 t minced jalapenos (optional)
-* 1 t sugar
-* 2 t paprika
-* 2 t cumin
-* 1 t cayenne pepper, or a bit more
-* 1/2 t garlic powder
-* 1/8 tsp salt
-* 8 tsp jalapeno juice from jarred jalapenos (add last)
+|| Ingredients |
+|-:|-|
+1 C   | mayo
+2 tsp | minced jalapenos (optional)
+1 tsp | sugar
+2 tsp | paprika
+2 tsp | cumin
+1 tsp | cayenne pepper, or a bit more
+½ tsp | garlic powder
+⅛ tsp | salt
+8 tsp | jalapeno juice from jarred jalapenos
 
-mix well, let chill, mix again after an hour to two.
+## Directions
+
+1. Mix well, adding jalapeno juice last.
+2. Chill.
+3. Mix again after an hour to two.

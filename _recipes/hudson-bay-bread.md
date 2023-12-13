@@ -3,18 +3,26 @@ title: Hudson bay bread
 meal: lunch
 ---
 
-## Ingredients
-* 1 1/2 lbs butter or margarine
-* 4 cups sugar
-* 2/3 cups Karo syrup
-* 2/3 cups honey
-* 2 tsp maple flavoring
+|| Ingredients |
+|-:|-|
+1½ lbs | butter or margarine
+4 C    | sugar
+⅔ C    | karo syrup
+⅔ C    | honey
+2 tsp  | maple flavoring
+1½ C   | ground nuts
+19 C   | quick cooking oatmeal
 
 ## Directions
-Cream together above ingredients. Add while mixing: \\
-1 1/2 cups ground nuts \\
-19 cups quick cooking oatmeal
 
-Spread in Large sheet pan. 18x26 inches. Press down into pan. Bake at 325 degrees in convection oven for 15 to 18 minutes. As soon as bread has been taken from oven, press it down again. . Cut while warm.
+1. Cream together ingredients except nuts and oats.
+2. Mix in nuts and oats.
+3. Spread in large sheet pan: 18x26 inches. Press down into pan.
+4. Bake at 325 degrees in convection oven for 15 to 18 minutes.
+5. As soon as bread has been taken from oven, press it down again.
+6. Cut while warm.
 
-Obviously, cut down. Conventional oven requires more time.
+### Appendix
+
+* Obviously, cut down to around a quarter recipe or less.
+* Conventional ovens may require more time.
