@@ -11,9 +11,7 @@ From a piping perspective, we also learned a great many useful tips; I'll elabor
 
 ### Rhythmic reference points
 
-with a phrase that is not so good, find a similar one in the tune that is going well, play back to back. for example various strath triplets, or a jig phrase.
-
-If you have a trouble passage, find another section with the same rhythm and play them back to back on repeat.
+If you have trouble with a passage, find another section with the same rhythm and play them back to back on repeat.
 
 This came up first when addressing runs in our strathspey. The runs down from F-E-D were nicely in time, but at the end of the tune, the run up from D-E-F was sluggish and open. The solution was to practice these two pieces back to back, on repeat, as a group.
 The same pattern came up again when looking at a jig. There was a bar in the second part with some tricky finger work that was not clean. However, it had the exact same rhythm pattern as a bar in the first part, which was going well!
