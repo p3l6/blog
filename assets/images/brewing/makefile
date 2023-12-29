@@ -13,7 +13,7 @@
 SIZE?=1x
 DIR := $(SIZE::=px) # replaces : with px
 
-default : white clear sort sweep 
+default : white clear sort sweep
 white : logo.png logo-notext.png logo-bw.png logo-bw-notext.png
 clear : logo-clear.png logo-clear-notext.png logo-clear-bw.png logo-clear-bw-notext.png
 
@@ -36,7 +36,7 @@ sort :
 sweep :
 	rm -f .tmp.svg
 	rm -f *.tmp.svg
-	
+
 clean : sweep
 	rm -f *.png
 	rm -rf *x/ 	# size directories
