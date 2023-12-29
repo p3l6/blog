@@ -2,7 +2,7 @@
 title: Hobbies
 ---
 
-This is a continuation of my [hobbies page](/hobbies), including ones that I'm not actively pursuing, but have in the past.
+This is a continuation of my [hobbies page](/hobbies), including ones that aren't as interesting, or, that I'm not actively pursuing anymore.
 
 # Go
 
@@ -28,8 +28,8 @@ Some of the games I have the most memories playing were:
 * Diablo 2. This was my go to game for a long period in high school and college.
 * Minecraft. The alpha version came out while I was in college, and I played on an early social server. The game has evolved a lot since the early days.
 * Mount and Blade: Warband. Another game I came across in college. A perfect combination of first-person sword battles, and risk-style campaign mapping.
-* Diablo 3. 
-* Stardew Valley. As with a couple other games I played, I first heard about this when it was referenced in [an xkcd comic](https://xkcd.com/1790/). 
+* Diablo 3.
+* Stardew Valley. As with a couple other games I played, I first heard about this when it was referenced in [an xkcd comic](https://xkcd.com/1790/).
 
 # Homebrewing
 
@@ -79,12 +79,12 @@ This involved a lot of paddling, portaging, and camping.
 ## Kayaking
 
 In college, I joined the kayak club sports team. We met weekly in the pool for roll practice, and would get out on the local rivers in Colorado in the spring and summer.
-The club sports association would always complain that we didn't do enough competition with other schools, and I believe the group was removed from club sports some years later. 
+The club sports association would always complain that we didn't do enough competition with other schools, and I believe the group was removed from club sports some years later.
 We also took a spring break trip to the Carolinas and Tennessee.
 
 ## Sailing
 
-In scouts, our venture crew had small boats that we would take out on the reservoir. 
+In scouts, our venture crew had small boats that we would take out on the reservoir.
 
 Later, I briefly owned a catamaran, and did a lot of repairs on it. Eventually had to sell it due to how little I was able to take it out.
 
@@ -98,3 +98,7 @@ Areas I've backpacked in are:
   * Rocky Mountain National Park
 * North Carolina
   * Appalachian Trail (sections)
+
+# Reading
+
+Most people like reading books, I do as well. I've [kept a list](/books) of the books I've read since mid-2018.
