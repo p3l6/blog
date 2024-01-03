@@ -13,6 +13,7 @@ timezone: America/New_York
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-sitemap
 
 collections:
   recipes:
