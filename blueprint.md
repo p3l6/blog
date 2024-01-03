@@ -24,3 +24,7 @@ This site does not track, store, transmit, or collect any of your data or person
 ## Layout
 
 The current layout for this blog was _heavily_ inspired by another blog, [Sympolymathesy](https://v5.chriskrycho.com).
+
+## License
+
+This entire blog, which is for the most part text content, but also includes some generation source code, is provided under a Creative Commons license. See the [repository license file](https://github.com/p3l6/blog/blob/main/LICENSE) for more details.
