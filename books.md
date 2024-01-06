@@ -14,6 +14,11 @@ The original goal with this was to never re-read a book already on the list! Whe
 
 {:booklist: .ml-5 reversed="reversed"}
 
+### 2024
+
+{:booklist start="266"}
+266. The Road / Cormac McCarthy
+
 ### 2023
 
 {:booklist start="265"}
