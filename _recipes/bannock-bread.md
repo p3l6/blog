@@ -1,6 +1,7 @@
 ---
 title: Bannock Bread
 meal: side
+date: 2020-04-20 12:00 -0500
 ---
 
 || Ingredients |

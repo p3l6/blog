@@ -1,7 +1,7 @@
 ---
 title: Amazing Blog Entry
 summary: One sentence or two describing what this is about.
-published: false # date: 2023-00-00 00:00 -0500 (winter) -0400 (summer)
+published: false # date: 2024-00-00 00:00 -0500 (winter) -0400 (summer)
 ---
 
 ...content...
@@ -11,6 +11,7 @@ published: false # date: 2023-00-00 00:00 -0500 (winter) -0400 (summer)
 ---
 title: Recipe
 meal: dinner
+date: 2024-00-00 00:00 -0500 (winter) -0400 (summer)
 ---
 
 || Ingredients |

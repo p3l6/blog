@@ -1,6 +1,7 @@
 ---
 title: Frozen fruit salad
 meal: side
+date: 2019-07-4 12:00 -0500
 ---
 
 || Ingredients |

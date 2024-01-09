@@ -1,6 +1,7 @@
 ---
 title: Stuffed Peppers
 meal: dinner
+date: 2023-11-07 01:00 -0500
 ---
 
 || Ingredients |

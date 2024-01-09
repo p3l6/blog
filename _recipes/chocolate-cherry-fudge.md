@@ -1,6 +1,7 @@
 ---
 title: Chocolate Cherry Fudge
 meal: dessert
+date: 2022-12-10 01:00 -0500
 ---
 
 || Ingredients |

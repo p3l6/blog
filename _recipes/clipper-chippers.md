@@ -1,6 +1,7 @@
 ---
 title: Clipper Chippers
 meal: dessert
+date: 2022-10-10 01:00 -0500
 ---
 
 

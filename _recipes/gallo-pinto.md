@@ -1,6 +1,7 @@
 ---
 title: Gallo Pinto
 meal: dinner
+date: 2019-03-12 12:00 -0500
 ---
 
 || Ingredients |

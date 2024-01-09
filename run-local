@@ -11,9 +11,6 @@ _tailwind/build
 
 bundle install --path vendor/bundle
 
-HOST=localhost
-# HOST=Marvin.local
+open http://localhost:4000
 
-open http://$HOST:4000
-
-bundle exec jekyll serve --host $HOST
+bundle exec jekyll serve --host "0.0.0.0"

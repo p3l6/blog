@@ -1,6 +1,7 @@
 ---
 title: Croissant breakfast stuffing
 meal: breakfast
+date: 2022-05-07 01:00 -0500
 ---
 
 || Ingredients |

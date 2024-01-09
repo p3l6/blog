@@ -1,6 +1,7 @@
 ---
 title: Chicken gyros
 meal: lunch
+date: 2019-03-12 12:00 -0500
 ---
 
 || Ingredients |

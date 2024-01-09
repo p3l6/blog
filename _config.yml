@@ -19,6 +19,10 @@ collections:
   recipes:
     output: true
 
+feed:
+  collections:
+    - recipes
+
 defaults:
   - scope:
       type: pages
@@ -33,6 +37,7 @@ defaults:
       type: recipes
     values:
       layout: recipe
+      author: Paul Landers
 
 navigation_items:
   - title: Home

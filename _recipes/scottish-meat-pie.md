@@ -1,6 +1,7 @@
 ---
 title: Scottish Meat Pie
 meal: dinner
+date: 2020-09-09 01:00 -0500
 ---
 
 || Ingredients |

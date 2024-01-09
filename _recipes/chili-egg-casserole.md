@@ -1,6 +1,7 @@
 ---
 title: 123 Chili Egg Casserole
 meal: breakfast
+date: 2023-11-21 01:00 -0500
 ---
 
 || Ingredients |

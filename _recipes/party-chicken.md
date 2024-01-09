@@ -1,6 +1,7 @@
 ---
 title: Party Chicken
 meal: dinner
+date: 2022-11-25 01:00 -0500
 ---
 
 || Ingredients |

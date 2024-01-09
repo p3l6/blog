@@ -2,6 +2,9 @@
 title: Recipes
 ---
 
+[Subscribe to new recipes](/feed/recipes.xml)
+{:.text-right}
+
 {% assign meals =  site.recipes | map: 'meal' | uniq %}
 {% assign recipes =  site.recipes | sort: "title" %}
 
