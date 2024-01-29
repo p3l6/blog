@@ -4,7 +4,8 @@ meal: lunch
 date: 2021-06-19 01:00 -0500
 ---
 
-## Ingredients
+|| Ingredients |
+|-:|-|
 1 lb     | ground beef
 ¾ C      | bread crumbs
 2 tsp    | italian seasoning
