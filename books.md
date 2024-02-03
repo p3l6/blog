@@ -3,7 +3,8 @@ title: Books I've Read
 ---
 
 Below is a list of all the books I've been reading, similar to how tracking with goodreads might work.
-I've been keeping this list for quite a while now, and don't know exact year boundaries for the earlier parts.
+I've been keeping this list for quite a while now, but don't know exact year boundaries for the earlier parts.
+Specifically, they are listed in the year I finished reading the book, not the year I started it.
 
 The list mostly contains fiction, but not all the non-fiction books I've read.
 Sometimes I note non-fiction as well, but not always.
@@ -16,7 +17,8 @@ The original goal with this was to never re-read a book already on the list! Whe
 
 ### 2024
 
-{:booklist start="266"}
+{:booklist start="267"}
+267. Speaker for the Dead / Orson Scott Card
 266. The Road / Cormac McCarthy
 
 ### 2023
