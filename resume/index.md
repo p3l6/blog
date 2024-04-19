@@ -2,7 +2,7 @@
 title: Resume
 ---
 
-> Experienced Software Engineer developing for MacOS & iOS, as well as Full Stack Web.
+> Experienced Software Engineer developing for MacOS & iOS applications.
 > Expertise with debugging, problem solving, and solution design architecture.
 > Punctual communicator, patient, and thrives on a fully remote team.
 > Mentors and assists teammates in their professional growth.
@@ -12,14 +12,15 @@ title: Resume
 
 ## Skills
 * Swift, Objective-C, Python, Typescript
+* SwiftUI, AppKit, CoreData, Cocoa, iOS, XCode
 * C++, C, Java, LaTeX, Markdown
-* Bash, Git, Svn, make, Jira, Jenkins, Gitlab
-* OpenGL, Cocoa, GNUstep, iOS, Docker, GraphQL, Thrift
-* Matlab, Vapor, React, Deno
+* Shell, Git, Make, Jira, GitHub, Heroku, CircleCI
+* OpenGL, GNUstep, Docker, Postgres
+* Matlab, Vapor, React, SQLite
 
 ## Employment
 * Senior macOS Software Engineer
-  * Boombox
+  * [Boombox](boombox.io)
   * Jan 2023 - Present
 * Senior Software Engineer
   * Doma (formerly States Title)
