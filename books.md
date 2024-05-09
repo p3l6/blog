@@ -17,7 +17,9 @@ The original goal with this was to never re-read a book already on the list! Whe
 
 ### 2024
 
-{:booklist start="268"}
+{:booklist start="270"}
+270. All the Light We Cannot See / Anthony Doerr
+269. Children of the Mind / Orson Scott Card
 268. Xenocide / Orson Scott Card
 267. Speaker for the Dead / Orson Scott Card
 266. The Road / Cormac McCarthy
