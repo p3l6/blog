@@ -1,5 +1,5 @@
 /* Monokai from http://jwarby.github.io/jekyll-pygments-themes/languages/javascript.html */
-.highlight pre { background-color: #272822; }
+.highlight pre { background-color: #272822; color: rgb(228, 228, 231); }
 .highlight .hll { background-color: #272822; }
 .highlight .c { color: #75715e } /* Comment */
 .highlight .err { color: #960050; background-color: #1e0010 } /* Error */

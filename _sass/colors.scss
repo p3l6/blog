@@ -1,6 +1,3 @@
-$head-font: "Comfortaa";
-$main-font: "Spinnaker";
-$mono-font: "Fira Code";
 
 :root {
   --theme-color: #e0f2fe; /* sky-100 */;
@@ -10,6 +7,11 @@ $mono-font: "Fira Code";
   --heading-color:  #0369a1; /* sky-700 */
   --nav-sel-color: #0d9488; /* teal-600 */
   --nav-hover-color: #2dd4bf; /* teal-400 */
+  --link-color: hsl(0, 100%, 33%);
+  --kbd-bg-color: hsl(210, 5%, 100%);
+  --kbd-border-color: hsl(210, 5%, 70%);
+  --table-border-color: black;
+  --footnotes-border-color: hsl(0, 0%, 39%);
 }
 
 @media screen and (prefers-color-scheme: dark) {
@@ -19,6 +21,12 @@ $mono-font: "Fira Code";
     --content-color: #f4f4f5; /* zinc-100 */
     --line-color: #7dd3fc; /* sky-300 */
     --heading-color:  #7dd3fc; /* sky-300 */
+
+    --link-color: hsl(196 80% 77%);
+    --kbd-bg-color: hsl(0, 0%, 16%);
+    --kbd-border-color: hsl(210, 5%, 70%);
+    --table-border-color: white;
+    --footnotes-border-color: hsl(0, 0%, 59%);
   }
 }
 
@@ -28,11 +36,3 @@ $mono-font: "Fira Code";
     --content-bg-color: #FFFFFF;
   }
 }
-
-$theme-color: var(--theme-color);
-$content-bg-color: var(--content-bg-color);
-$content-color: var(--content-color);
-$line-color: var(--line-color);
-$heading-color: var(--heading-color );
-$nav-sel-color: var(--nav-sel-color);
-$nav-hover-color: var(--nav-hover-color);
