@@ -13,7 +13,7 @@ Nor do I note audio-books, though I rarely listen to them.
 If a book appears on the list multiple times, the re-reads are annotated with `[+]`. This doesn't track re-reads of books that happened before the list began.
 The original goal with this was to never re-read a book already on the list! When it began, I felt I was in a place of just reading the same books over and over. However, I relaxed this goal over time, and just track the re-reads now.
 
-{:booklist: .ml-5 reversed="reversed"}
+{:booklist: style="margin-left: 1.25rem" reversed="reversed"}
 
 ### 2024
 

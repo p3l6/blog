@@ -1,0 +1,38 @@
+$head-font: "Comfortaa";
+$main-font: "Spinnaker";
+$mono-font: "Fira Code";
+
+:root {
+  --theme-color: #e0f2fe; /* sky-100 */;
+  --content-bg-color: #f4f4f5; /* zinc-100 */
+  --content-color: #18181b; /* zinc-900 */
+  --line-color: #7dd3fc; /* sky-300 */
+  --heading-color:  #0369a1; /* sky-700 */
+  --nav-sel-color: #0d9488; /* teal-600 */
+  --nav-hover-color: #2dd4bf; /* teal-400 */
+}
+
+@media screen and (prefers-color-scheme: dark) {
+   :root {
+    --theme-color: #0c4a6e; /* sky-900 */;
+    --content-bg-color: #18181b; /* zinc-900 */
+    --content-color: #f4f4f5; /* zinc-100 */
+    --line-color: #7dd3fc; /* sky-300 */
+    --heading-color:  #7dd3fc; /* sky-300 */
+  }
+}
+
+@media print {
+  :root {
+    --theme-color: #FFFFFF;
+    --content-bg-color: #FFFFFF;
+  }
+}
+
+$theme-color: var(--theme-color);
+$content-bg-color: var(--content-bg-color);
+$content-color: var(--content-color);
+$line-color: var(--line-color);
+$heading-color: var(--heading-color );
+$nav-sel-color: var(--nav-sel-color);
+$nav-hover-color: var(--nav-hover-color);

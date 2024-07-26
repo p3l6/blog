@@ -2,19 +2,20 @@
 layout: base
 selectedNav: /blog/
 ---
-<blockquote class="not-prose bg-sky-100 dark:bg-sky-900 p-3 mb-5 border border-sky-300 rounded">
-  <p>{{ page.summary }}</p>
-</blockquote>
 
-<article class="">
+<section class="summary">
+  <p>{{ page.summary }}</p>
+</section>
+
+<section>
   {{ content }}
-</article>
+</section>
 
 <hr />
 
-<footer class="not-prose">
-  <h1 class="italic">Post details:</h1>
-  <ul class="list-disc list-inside">
+<footer>
+  <h1>Post details:</h1>
+  <ul>
     <li>Published: {{ page.date | date_to_string }}</li>
     <li>Author: {{ page.author }}</li>
     {% unless page.tags == empty %}

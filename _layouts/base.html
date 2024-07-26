@@ -5,55 +5,42 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#e0f2fe">
+  <meta name="theme-color" media="(prefers-color-scheme: light)" content="#e0f2fe" />
+  <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#0c4a6e" />
   {% feed_meta %}
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
-  <link rel="stylesheet" href="{{ '/assets/css/highlight.css' | relative_url }}">
   <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicons/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicons//favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicons//favicon-16x16.png">
   <link rel="manifest" href="/assets/favicons//site.webmanifest">
 </head>
 
-<body class="bg-sky-100 dark:bg-sky-900 print:bg-white">
-  <main class="m-4 p-3 bg-zinc-100 dark:bg-zinc-900 border border-sky-300 rounded-md padding
-               md:grid md:place-items-center md:mr-64
-               print:bg-white print:!m-10 print:border-0">
-
-    <header class="text-sky-700 dark:text-sky-300 mt-3 mb-10 w-full print:m-0">
-      <h1 class="md:hidden text-2xl mb-5 text-right font-mono print:hidden">{{site.title}}|<a href="#nav">☰</a></h1>
-      <h1 class="text-5xl text-center font-heading print:text-xl">{{ page.title }}</h1>
+<body>
+  <main>
+    <header>
+      <h1>{{ page.title }}</h1>
+      <h2>{{ site.title }}|<a href="#nav">☰</a></h1>
     </header>
-
-    <section class="prose max-w-prose w-full dark:prose-invert
-                    prose-zinc prose-headings:font-heading prose-li:my-1
-                    lg:prose-lg 2xl:prose-xl
-                    print:!prose-sm print:max-w-none">
+    <article>
       {{ content }}
-    </section>
+    </article>
   </main>
-
-  <!-- nav is pinned to the right side, with title at the top -->
-  <!-- on small widths, nav moves to the page bottom, and title moves to the top of the content -->
-  <nav class="flex flex-col justify-center place-items-center gap-4 text-xl
-              md:fixed md:top-0 md:right-0 md:w-60 md:h-screen
-              text-zinc-900 dark:text-zinc-100
-              print:hidden" id="nav" >
-    <h1 class="max-md:hidden text-sky-700 dark:text-sky-300 text-3xl font-mono">{{site.title}}</h1>
+  <nav id="nav" >
+    <h1>{{site.title}}</h1>
     {% for item in site.navigation_items %}
       {% if item.url == page.url or item.url == layout.selectedNav %}
-        <a class="text-teal-600 font-heading" href="{{ item.url }}">
+        <a class="current" href="{{ item.url }}">
       {% else %}
-        <a class="hover:text-teal-400 font-heading" href="{{ item.url }}">
+        <a href="{{ item.url }}">
       {% endif %}
         {{ item.title }}
       </a>
       {% if item.divide %}
-        <hr class="w-20 h-1 border-0 mx-auto my-0 bg-sky-300 rounded" />
+        <hr />
       {% endif %}
     {% endfor %}
     {% if page.logo or site.logo %}
-      <img class="w-40" src="{{ page.logo | default: site.logo | relative_url}}" alt="Logo" />
+      <img src="{{ page.logo | default: site.logo | relative_url}}" alt="Logo" />
     {% endif %}
   </nav>
 </body>

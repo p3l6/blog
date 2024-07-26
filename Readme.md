@@ -32,9 +32,3 @@ Notably, add html markup following blocks with "block inline attribute list"s:
 {: #with-an-id}
 {: style="color: red"}
 ```
-
-## Tailwind
-
-Tailwind is not integrated into the jekyll build pipeline, so just run it and commit the output, when the html changes.
-
-Build: `./_tailwind/build`, which happens at the beginning of run-local. It would be great to watch for tailwind changes, but jekyll watch currently doesn't see the changes to the theme files, so the server has to be relaunched regardless.

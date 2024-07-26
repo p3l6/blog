@@ -4,7 +4,7 @@ permalink: /cook/
 ---
 
 [Subscribe to new recipes](/feed/recipes.xml)
-{:.text-right}
+{: style="text-align:right" }
 
 {% assign meals =  site.recipes | map: 'meal' | uniq %}
 {% assign recipes =  site.recipes | sort: "title" %}
