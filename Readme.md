@@ -32,3 +32,7 @@ Notably, add html markup following blocks with "block inline attribute list"s:
 {: #with-an-id}
 {: style="color: red"}
 ```
+
+## To do
+
+* Consider bringing in <aside> as a latex sidenote. Recover css from latex.css. Possibly convert footnotes. Have to use the left side.

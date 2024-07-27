@@ -1,38 +1,60 @@
 
+$content-shade-1: #18181b; // darkest
+$content-shade-2: #52525b; // fg
+$content-shade-3: #a1a1aa;
+$content-shade-4: #e4e4e7;
+$content-shade-5: #f4f4f5; // bg
+$content-shade-6: #fafafa; // lightest
+
+$theme-shade-dark: #0c4a6e; // tool bar color in dark mode
+$theme-shade-dull: #0369a1;
+$theme-shade-bright: #7dd3fc;
+$theme-shade-light: #e0f2fe; // tool bar color in light mode
+$accent-color: #0d9488;
+$accent-color-bright: #2dd4bf;
+$accent-alt: #a80000;
+$accent-alt-bright: #ff9999;
+
 :root {
-  --theme-color: #e0f2fe; /* sky-100 */;
-  --content-bg-color: #f4f4f5; /* zinc-100 */
-  --content-color: #18181b; /* zinc-900 */
-  --line-color: #7dd3fc; /* sky-300 */
-  --heading-color:  #0369a1; /* sky-700 */
-  --nav-sel-color: #0d9488; /* teal-600 */
-  --nav-hover-color: #2dd4bf; /* teal-400 */
-  --link-color: hsl(0, 100%, 33%);
-  --kbd-bg-color: hsl(210, 5%, 100%);
-  --kbd-border-color: hsl(210, 5%, 70%);
-  --table-border-color: black;
-  --footnotes-border-color: hsl(0, 0%, 39%);
+  --outside-bg-color: #{$theme-shade-light};
+  --content-bg-color: #{$content-shade-5};
+  --content-color: #{$content-shade-2};
+  --line-color: #{$theme-shade-bright};
+  --heading-color: #{$theme-shade-dull};
+  --nav-sel-color: #{$accent-color};
+  --nav-hover-color: #{$accent-color-bright};
+  --link-color: #{$accent-alt};
+
+  --code-color: #{$accent-color};
+  --code-block-bg-color: #{$content-shade-4};
+  --kbd-bg-color: #{$content-shade-4};
+  --kbd-border-color: #{$content-shade-3};
+
+  --divider-color: #{$content-shade-1};
 }
 
 @media screen and (prefers-color-scheme: dark) {
    :root {
-    --theme-color: #0c4a6e; /* sky-900 */;
-    --content-bg-color: #18181b; /* zinc-900 */
-    --content-color: #f4f4f5; /* zinc-100 */
-    --line-color: #7dd3fc; /* sky-300 */
-    --heading-color:  #7dd3fc; /* sky-300 */
+    --outside-bg-color: #{$theme-shade-dark};
+    --content-bg-color: #{$content-shade-2};
+    --content-color: #{$content-shade-5};
+    --line-color: #{$theme-shade-dull};
+    --heading-color: #{$theme-shade-bright};
+    --nav-sel-color: #{$accent-color-bright};
+    --nav-hover-color: #{$accent-color};
+    --link-color: #{$accent-alt-bright};
 
-    --link-color: hsl(196 80% 77%);
-    --kbd-bg-color: hsl(0, 0%, 16%);
-    --kbd-border-color: hsl(210, 5%, 70%);
-    --table-border-color: white;
-    --footnotes-border-color: hsl(0, 0%, 59%);
+    --code-color: #{$accent-color-bright};
+    --code-block-bg-color: #{$content-shade-1};
+    --kbd-bg-color: #{$content-shade-1};
+
+    --divider-color: #{$content-shade-6};
   }
 }
 
 @media print {
   :root {
-    --theme-color: #FFFFFF;
+    --outside-bg-color: #FFFFFF;
     --content-bg-color: #FFFFFF;
   }
 }

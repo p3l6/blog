@@ -3,7 +3,7 @@
 .non-printing { @include non-printing; }
 
 body {
-  background-color: var(--theme-color);
+  background-color: var(--outside-bg-color);
   color: var(--content-color);
   font-family: $main-font;
 }
@@ -21,9 +21,11 @@ main {
     display: grid;
     place-items: center;
     margin-right: 16rem;
+    font-size: 1.125rem;
   }
 
   @media print {
+    font-size: 1rem;
     margin: 2.5rem !important;
     border-width: 0px;
   }
@@ -83,7 +85,7 @@ article {
   }
 
   section.summary {
-    background-color: var(--theme-color);
+    background-color: var(--outside-bg-color);
     padding: 0.75rem;
     margin-bottom: 1.25rem;
     border: solid var(--line-color);
@@ -94,7 +96,7 @@ article {
 
     > h2 {
       margin-top: 0;
-      font-size: 1rem;
+      font-size: inherit;
     }
   }
 

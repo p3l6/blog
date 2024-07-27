@@ -1,0 +1,68 @@
+code { color: var(--code-color); }
+pre code { color: var(--content-color);}
+
+// @media screen and (prefers-color-scheme: dark) {
+
+// TODO: dark mode, by extracting colors to sass vars
+// TODO: validate coloring with a swift block against xcode
+
+// An xcode based theme for pygments
+.highlight {
+  background-color: var(--code-block-bg-color);
+
+  // operators, plain text
+  .o, ow, .vi, .vm {
+    color: --var(--content-color);
+  }
+
+  // comments
+  .c, .ch, .cm, .c1, .cs {
+    color: #5D6C79
+  }
+
+  // string
+  .s, .sa, .sb, .dl, .sd, .s2, .se, .sh, .si, .sx, .sr, .s1, .ss {
+    color:#C41A16;
+  }
+
+  // num/char literals
+  .l, .ld, .m, .mb, .mf, .mh, .mi, .mo, .sc, .il {
+    color: #1C00CF;
+  }
+
+  // keywords
+  .k, .kc, .kd, .kn, .kp, .kr, .kt {
+    color:#9B2393;
+    font-weight: bold;
+  }
+
+  // preproc
+  .cp, .cpf { color: #643820; }
+
+  // attr, css tag
+  .na { color: #815F03; }
+
+  // type decl
+  .nc{ color: #0B4F79; }
+
+  // other delc
+  .ni{ color:  #0F68A0; }
+
+  // local type name
+  .n, .vc { color:#1C464A; }
+
+  // local func
+  .no, .nd, .ne, .nf, .nl, .nn, .nx, .py, .nt, .nv {
+    color: #326D74;
+  }
+
+  // language type name
+  .nb, .vg { color:#3900A0; }
+
+  // language func const prop
+  .bp, fm, .vc { color:#6C36A9; }
+
+  // error
+  .err{ color:#660000; }
+
+}
