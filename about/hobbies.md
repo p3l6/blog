@@ -1,5 +1,6 @@
 ---
 title: Hobbies
+redirect_from: /hobbies/
 ---
 
 # Bagpipes

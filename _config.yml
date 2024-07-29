@@ -53,9 +53,9 @@ navigation_items:
   - title: Resume
     url: "/resume/"
   - title: Hobbies
-    url: "/hobbies/"
+    url: "/about/hobbies/"
   - title: On the Web
-    url: "/accounts/"
+    url: "/about/card/"
     divide: true
   - title: Trivia Tracker
     url: "/projects/triviatracker/"

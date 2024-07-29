@@ -1,5 +1,8 @@
 ---
 title: On the Web
+redirect_from: 
+  - /accounts/
+  - /card/
 ---
 
 This is a list of my accounts on other forums and websites.
