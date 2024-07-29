@@ -63,4 +63,4 @@ navigation_items:
     url: "/projects/tictaccubed/"
     divide: true
   - title: Blueprint
-    url: "/blueprint/"
+    url: "/pages/blueprint/"

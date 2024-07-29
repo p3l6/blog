@@ -1,5 +1,6 @@
 ---
 title: Blog
+permalink: /blog/
 ---
 
 [Subscribe (atom)](/feed.xml)

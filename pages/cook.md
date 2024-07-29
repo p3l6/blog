@@ -1,5 +1,6 @@
 ---
 title: Recipes
+permalink: /cook/
 ---
 
 [Subscribe to new recipes](/feed/recipes.xml)
