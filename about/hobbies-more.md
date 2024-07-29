@@ -102,4 +102,4 @@ Areas I've backpacked in are:
 
 # Reading
 
-Most people like reading books, I do as well. I've [kept a list](/books) of the books I've read since mid-2018.
+Most people like reading books, I do as well. I've [kept a list](/lists/books) of the books I've read since mid-2018.

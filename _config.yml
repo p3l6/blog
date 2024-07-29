@@ -57,10 +57,5 @@ navigation_items:
   - title: On the Web
     url: "/about/card/"
     divide: true
-  - title: Trivia Tracker
-    url: "/projects/triviatracker/"
-  - title: TicTacCubed
-    url: "/projects/tictaccubed/"
-    divide: true
   - title: Blueprint
     url: "/pages/blueprint/"
