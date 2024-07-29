@@ -42,6 +42,8 @@ defaults:
 navigation_items:
   - title: Home
     url: "/"
+  - title: Now
+    url: "/about/now/"
     divide: true
   - title: Blog
     url: "/blog/"
