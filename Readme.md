@@ -1,6 +1,9 @@
 ## Repo storage for my personal developer website
 [p3l6.dev](https://p3l6.dev)
 
+I don't expect readers or viewers of this blog (other than the resume portions when I am actively looking for work). 
+As such, I maintain and post to it as a *personal digital garden*, for my own enjoyment. 
+
 ## Running locally
 
 `./run-local`

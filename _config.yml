@@ -44,6 +44,8 @@ navigation_items:
     url: "/"
   - title: Now
     url: "/about/now/"
+  - title: Hobbies
+    url: "/about/hobbies/"
     divide: true
   - title: Blog
     url: "/blog/"
@@ -52,9 +54,7 @@ navigation_items:
     divide: true
   - title: Resume
     url: "/resume/"
-  - title: Hobbies
-    url: "/about/hobbies/"
-  - title: On the Web
+  - title: Contact
     url: "/about/card/"
     divide: true
   - title: Blueprint

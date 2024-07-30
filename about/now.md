@@ -10,6 +10,8 @@ redirect_from: /now/
 I'm living in Apex, NC with my wife, our child (2), and our dog.
 We are expecting our second child in October. 
 
+We believe in Jesus and attend a local presbyterian church.
+
 ## Work
 
 I am a Senior macOS Engineer at Boombox, developing their desktop file sync application. 
@@ -25,4 +27,3 @@ I am also working on developing a custom bagpipe music notation language. It is 
 I am attempting to learn the language toki pona, but struggling to keep up with it.
 
 I am reducing my red meat intake, shooting for only two servings per week.
-
