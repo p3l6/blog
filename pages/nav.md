@@ -9,6 +9,8 @@ Clever of you to find it!
 * [Book list](/lists/books/)
 * [Hobbies](/about/hobbies/)
 * [Hobbies part two](/about/hobbies-more)
+* [Apex guide](/lists/apex/)
+* [Beer](/lists/beer/)
 * Projects
   * [Trivia Tracker](/projects/triviatracker/)
   * [Tic Tac Cubed](/projects/tictaccubed/)
