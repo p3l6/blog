@@ -1,68 +1,51 @@
 code { color: var(--code-color); }
 pre code { color: var(--content-color);}
 
-// @media screen and (prefers-color-scheme: dark) {
-
-// TODO: dark mode, by extracting colors to sass vars
-// TODO: validate coloring with a swift block against xcode
-
 // An xcode based theme for pygments
+
 .highlight {
+  --highlight-comment: #5D6C79;
+  --highlight-string: #C41A16;
+  --highlight-literal: #1C00CF;
+  --highlight-keyword: #9B2393;
+  --highlight-preproc: #643820;
+  --highlight-attribute: #815F03;
+  --highlight-type-decl: #0B4F79;
+  --highlight-other-decl: #0F68A0;
+  --highlight-type-name: #1C464A;
+  --highlight-func-name: #326D74;
+  --highlight-lang-type-name: #3900A0;
+  --highlight-lang-func-name: #6C36A9;
+
+  @media screen and (prefers-color-scheme: dark) {
+    --highlight-comment: #6C7986;
+    --highlight-string: #FC6A5D;
+    --highlight-literal: #D0BF69;
+    --highlight-keyword: #FC5FA3;
+    --highlight-preproc: #FD8F3F;
+    --highlight-attribute: #BF8555;
+    --highlight-type-decl: #5DD8FF;
+    --highlight-other-decl: #41A1C0;
+    --highlight-type-name: #9EF1DD;
+    --highlight-func-name: #67B7A4;
+    --highlight-lang-type-name: #D0A8FF;
+    --highlight-lang-func-name: #A167E6;
+  }
+
   background-color: var(--code-block-bg-color);
 
-  // operators, plain text
-  .o, ow, .vi, .vm {
-    color: --var(--content-color);
-  }
-
-  // comments
-  .c, .ch, .cm, .c1, .cs {
-    color: #5D6C79
-  }
-
-  // string
-  .s, .sa, .sb, .dl, .sd, .s2, .se, .sh, .si, .sx, .sr, .s1, .ss {
-    color:#C41A16;
-  }
-
-  // num/char literals
-  .l, .ld, .m, .mb, .mf, .mh, .mi, .mo, .sc, .il {
-    color: #1C00CF;
-  }
-
-  // keywords
-  .k, .kc, .kd, .kn, .kp, .kr, .kt {
-    color:#9B2393;
-    font-weight: bold;
-  }
-
-  // preproc
-  .cp, .cpf { color: #643820; }
-
-  // attr, css tag
-  .na { color: #815F03; }
-
-  // type decl
-  .nc{ color: #0B4F79; }
-
-  // other delc
-  .ni{ color:  #0F68A0; }
-
-  // local type name
-  .n, .vc { color:#1C464A; }
-
-  // local func
-  .no, .nd, .ne, .nf, .nl, .nn, .nx, .py, .nt, .nv {
-    color: #326D74;
-  }
-
-  // language type name
-  .nb, .vg { color:#3900A0; }
-
-  // language func const prop
-  .bp, fm, .vc { color:#6C36A9; }
-
-  // error
+  .o, ow, .vi, .vm { color: var(--content-color); }
+  .c, .ch, .cm, .c1, .cs { color: var(--highlight-comment); }
+  .s, .sa, .sb, .dl, .sd, .s2, .se, .sh, .si, .sx, .sr, .s1, .ss { color: var(--highlight-string); }
+  .l, .ld, .m, .mb, .mf, .mh, .mi, .mo, .sc, .il { color: var(--highlight-literal); }
+  .k, .kc, .kd, .kn, .kp, .kr { color: var(--highlight-keyword); font-weight: bold; }
+  .cp, .cpf { color: var(--highlight-preproc); }
+  .na { color: var(--highlight-attribute); }
+  .nc { color: var(--highlight-type-decl); }
+  .ni, .nv { color:  var(--highlight-other-decl); }
+  .n, .vc, .kt { color: var(--highlight-type-name); }
+  .no, .nd, .ne, .nf, .nl, .nn, .nx, .py, .nt { color: var(--highlight-func-name); }
+  .nb, .vg { color: var(--highlight-lang-type-name); }
+  .bp, fm, .vc { color: var(--highlight-lang-func-name); }
   .err{ color:#660000; }
-
 }
