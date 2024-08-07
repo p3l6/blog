@@ -5,11 +5,11 @@ redirect_from: /hobbies-more/
 
 This is a continuation of my [hobbies page](/about/hobbies), including ones that aren't as interesting, or, that I'm not actively pursuing anymore.
 
-# Go
+## Go
 
 I have in the past enjoyed playing Go, although I don't play much anymore. I was around an 8kyu rating when I was playing regularly.
 
-# Board games
+## Board games
 
 I have always enjoyed playing board games, with friends, family, or work game nights.
 While my game collection has grown and shrunk over the years, some of my favorites have been:
@@ -20,7 +20,7 @@ While my game collection has grown and shrunk over the years, some of my favorit
 * Settlers of Catan. One of the first board games I played with new friends when I got to college. As with many, a first introduction to me for modern board games.
 * Diplomacy? I have tried a few times to get into this game, since in theory it is so interesting that it doesn't have any element of random chance. It is hard to find a group to play with, since it does not make a good party game.
 
-# Video Games
+## Video Games
 
 I have played many video games, mostly single player, or co-op. I never really approached the multiplayer war games, or MMOs.
 Some of the games I have the most memories playing were:
@@ -32,7 +32,7 @@ Some of the games I have the most memories playing were:
 * Diablo 3.
 * Stardew Valley. As with a couple other games I played, I first heard about this when it was referenced in [an xkcd comic](https://xkcd.com/1790/).
 
-# Homebrewing
+## Homebrewing
 
 **Welcome to Bowline Brewing!**
 I've named my homebrew adventures after my favorite knot, the bowline!
@@ -64,32 +64,32 @@ Used the Irish red ale recipe, but with Imperial Flagship yeast (WLP001). Worked
 {: reversed="reversed"}
 
 
-# Disc Golf
+## Disc Golf
 
 This is a great hobby because of the low barrier to entry and cost. Especially if you can avoid courses with water hazards.
 One of my offices had a course just down the road, so a few of us would play there regularly.
 We even joined the weekly tags nights that the club ran, but never did all that well.
 
-# Boating
+## Boating
 
-## Canoeing
+### Canoeing
 
 I was a staff canoe guide at Northern Tier for two summers during college, as well as a participant before that.
 This involved a lot of paddling, portaging, and camping.
 
-## Kayaking
+### Kayaking
 
 In college, I joined the kayak club sports team. We met weekly in the pool for roll practice, and would get out on the local rivers in Colorado in the spring and summer.
 The club sports association would always complain that we didn't do enough competition with other schools, and I believe the group was removed from club sports some years later.
 We also took a spring break trip to the Carolinas and Tennessee.
 
-## Sailing
+### Sailing
 
 In scouts, our venture crew had small boats that we would take out on the reservoir.
 
 Later, I briefly owned a catamaran, and did a lot of repairs on it. Eventually had to sell it due to how little I was able to take it out.
 
-# Backpacking
+## Backpacking
 
 Areas I've backpacked in are:
 * Colorado
@@ -100,6 +100,6 @@ Areas I've backpacked in are:
 * North Carolina
   * Appalachian Trail (sections)
 
-# Reading
+## Reading
 
 Most people like reading books, I do as well. I've [kept a list](/lists/books) of the books I've read since mid-2018.

@@ -3,7 +3,7 @@ title: Hobbies
 redirect_from: /hobbies/
 ---
 
-# Bagpipes
+## Bagpipes
 
 Playing bagpipes is my primary hobby! I play performances, for fun, and for competition.
 
@@ -14,7 +14,7 @@ When I compete solo, I am at the grade 3 level.
 I sometimes upload bagpipe videos to my [youtube channel](/accounts).
 
 
-# Woodworking
+## Woodworking
 
 I like to do some woodworking in  my small garage workshop. Specifically, I like to do the work with hand tools as much as possible. The biggest factors that first got me into hand tools were the dust and noise created by my table saw, router, and other machines. However, I love the intimate feeling of crafting the piece with my own two hands, even if it takes longer. Since this is all a hobby for me anyway, it’s really about the enjoyment of the time put into it, not about output.
 
@@ -24,7 +24,7 @@ Before I got into hand tool work, I built a modified  [Paulk Workbench](https://
 
 [See some photos here](https://www.icloud.com/sharedalbum/#B0T5qXGF18zFlB)
 
-# Keyboards
+## Keyboards
 
 Currently my primary keyboard is a Prime_E.
 

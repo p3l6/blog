@@ -8,8 +8,11 @@ permalink: /blog/
 
 {% for post in site.posts %}
 
-_[ {{ post.date | date_to_string }} ]_{: style="color:#0369a1" }&emsp;
-[{{ post.title }}]({{ post.url }}) \\
+[{{ post.title }}]({{ post.url }}){: style="color: var(--heading-color)" }
+*/ {{ post.date | date_to_string }} /*{: style="float: right"}
+
 {{ post.summary }}
+
+---
 
 {% endfor %}

@@ -23,22 +23,22 @@ title: Resume
   * [Boombox](boombox.io)
   * Jan 2023 - Present
 * Senior Software Engineer
-  * Doma (formerly States Title)
+  * [Doma](doma.com) (formerly States Title)
   * Sept 2019 - Dec 2022
   * Durham, NC
-* Senior Software Developer
-  * Eggplant (formerly Testplant)
+* Software Developer, Senior Software Developer
+  * Eggplant (formerly Testplant, has since been acquired by Keysight)
   * Aug 2014 - Sept 2019
   * Boulder, CO
 * Software Engineer
-  * QiG Group, Greatbatch Medical
+  * Greatbatch Medical (in a former division called QiG Group)
   * Jan 2012 - Aug 2014
   * Broomfield, CO
 * Software Development Intern
-  * QiG Group, Greatbatch Medical
+  * Greatbatch Medical (in a former division called QiG Group)
   * Summer: 2011
   * Broomfield, CO
 * Boy Scout Canoe Trip Guide
   * Northern Tier National High Adventure Base
-  * Summer: 2009,2010
+  * Summers: 2009, 2010
   * Ely, MN
