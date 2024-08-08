@@ -9,10 +9,9 @@ Playing bagpipes is my primary hobby! I play performances, for fun, and for comp
 
 I'm proud to play in the [Wake and District Pipe Band](https://raleighpipeband.com) in Raleigh, NC.
 
-When I compete solo, I am at the grade 3 level.
+When I compete solo, I am at the grade 3 level. I have a [list of contests](/about/hobbies/pipes/solos) that I have done.
 
-I sometimes upload bagpipe videos to my [youtube channel](/accounts).
-
+I sometimes upload bagpipe videos to my [youtube channel](/about/card).
 
 ## Woodworking
 
@@ -49,4 +48,4 @@ But by jumping in the deep end at the beginning, I learned a lot!
 
 ---
 
-[More hobbies](/hobbies-more)
+[More hobbies](/hobbies/more)
