@@ -4,6 +4,7 @@ title: Blueprint
 
 This is a description of how my blog is designed, written, and published.
 Sometimes this could be called a colophon.
+{: .abstract}
 
 ## Privacy
 

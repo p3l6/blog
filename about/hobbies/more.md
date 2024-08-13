@@ -4,6 +4,7 @@ redirect_from: /hobbies-more/
 ---
 
 This is a continuation of my [hobbies page](/about/hobbies), including ones that aren't as interesting, or, that I'm not actively pursuing anymore.
+{: .note}
 
 ## Go
 

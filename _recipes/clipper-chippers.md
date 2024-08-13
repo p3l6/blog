@@ -29,4 +29,5 @@ date: 2022-10-10 01:00 -0500
 4. Preheat oven to 325 degrees.
 5. Scoop 1 teaspoon of dough for each cookie onto un-greased cookie sheet. Bake for 10-13 min.
 
-> These delicious cookies were served warm at about 4pm when we returned to our clipper ship after an afternoon adventure on zodiacs in Antarctica. Our daughter became such a fan of these cookies that she requested they be served instead of cake at her wedding. I froze the dough in Colorado and baked the cookies in Tortola, BVI. They were a hit! Enjoy! -- Karen Bell
+These delicious cookies were served warm at about 4pm when we returned to our clipper ship after an afternoon adventure on zodiacs in Antarctica. Our daughter became such a fan of these cookies that she requested they be served instead of cake at her wedding. I froze the dough in Colorado and baked the cookies in Tortola, BVI. They were a hit! Enjoy! -- Karen Bell
+{: .source}

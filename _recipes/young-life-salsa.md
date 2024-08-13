@@ -27,4 +27,5 @@ date: 2019-03-12 12:00 -0500
 5. Use an immersion blender, mix until tomatoes are of salsa substance.
 6. Let it sit overnight.
 
-> From kitchen work crew at crooked creek ranch
+From kitchen work crew at crooked creek ranch
+{: .source}

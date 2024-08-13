@@ -3,6 +3,7 @@ title: Solo bagpipe contest results
 ---
 
 This is a list of all the times I have competed in solo events with the bagpipes, the tunes I was performing, and the results.
+{: .abstract}
 
 | Event | Place | Field | Tune |
 | :---: | :---: | :---: | ---- |

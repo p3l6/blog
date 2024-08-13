@@ -24,4 +24,5 @@ date: 2022-11-25 01:00 -0500
 6. Boil egg noodles.
 7. Serve chicken and sauce over noodles.
 
-> From Libby Camp (Mom’s Aunt)
+From Libby Camp (Mom’s Aunt)
+{: .source}

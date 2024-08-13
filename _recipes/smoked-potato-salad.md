@@ -38,4 +38,5 @@ Used about 2/3 of sauce.
 Results. Good
 More cheese would be good. A bit more sauce, but one spice was overpowering it. We think chili powder, leave that out. Maybe less paprika.
 
-> WIP, attempting to replicate a side from Brew-n-que, a former local bbq restaurant.
+WIP, attempting to replicate a side from Brew-n-que, a former local bbq restaurant.
+{: .source}

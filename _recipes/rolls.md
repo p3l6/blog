@@ -35,7 +35,8 @@ date: 2020-12-23 01:00 -0500
    4. Fold it over and over with a little butter in to the center of the ball.
 6. Bake 375 deg for 15-17 min.
 
-> The Camp-Landers family recipe
+The Camp-Landers family recipe
+{: .source}
 
 ## Extra: cinnamon rolls
 
@@ -48,5 +49,3 @@ date: 2020-12-23 01:00 -0500
 7. Place cut side of rolls down in pan.
 8. Bake 375 for 25-30 mins.
 9. Turn out on foil immediately.
-
-

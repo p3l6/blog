@@ -28,4 +28,5 @@ date: 2019-03-12 12:00 -0500
    * Spinach leaf, salted after putting in.
    * Grilled tomatoes.
 
-> Learned at QiG christmas party, at bella bistro.
+Learned at QiG christmas party, at bella bistro.
+{: .source}

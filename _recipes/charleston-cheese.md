@@ -23,4 +23,5 @@ date: 2022-11-25 01:00 -0500
 5. Add crumbled bacon on top.
 6. Bake additional 5 min.
 
-> Source: Rebecca Claire Stewart Miller
+Rebecca Claire Stewart Miller
+{: .source}

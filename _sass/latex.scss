@@ -88,6 +88,12 @@ kbd {
   font-size: 75%;
 }
 
+blockquote {
+  margin: 1rem 1.5rem;
+  padding-left: 1rem;
+  border-left: var(--border-width-thick) solid var(--divider-color);
+}
+
 /* Better tables */
 table:not(.borders-custom) {
   border-collapse: collapse;

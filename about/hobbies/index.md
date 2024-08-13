@@ -48,4 +48,4 @@ But by jumping in the deep end at the beginning, I learned a lot!
 
 ---
 
-[More hobbies](/hobbies/more)
+[More hobbies](/about/hobbies/more)

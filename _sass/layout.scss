@@ -170,3 +170,24 @@ nav {
     width: 10rem;
   }
 }
+
+// Admonitions
+
+@mixin admonition($accent-color, $title) {
+  margin: 1rem 1.5rem;
+  padding-left: 1rem;
+  border-left: var(--border-width-thick) solid $accent-color;
+
+  &::before {
+    content: $title;
+    font-variant-caps: small-caps;
+    color: $accent-color;
+    display: block;
+  }
+}
+
+.abstract { @include admonition(var(--heading-color), "¶ Abstract"); }
+.alert { @include admonition(var(--link-color), "‼︎ Alert"); }
+.aside { @include admonition(var(--content-color), "§ Aside"); }
+.note { @include admonition(var(--code-color), "❖ Note"); }
+.source { @include admonition(var(--content-color), "✎ Source"); }
