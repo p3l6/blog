@@ -16,5 +16,5 @@ date: 2024-08-13 17:00 -0400
 1. Mix ingredents together.
 2. Cook on a pancake griddle or waffle iron.
 
-This is just the recipe from the box. We just often move the biscuit into another container.
+This is just the recipe from the box. We just often move the biscuit mix into another container.
 {: .source}
