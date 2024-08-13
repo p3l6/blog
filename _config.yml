@@ -9,6 +9,7 @@ baseurl: ""
 markdown: kramdown
 permalink: pretty
 timezone: America/New_York
+future: true
 
 plugins:
   - jekyll-feed
