@@ -1,0 +1,13 @@
+{
+  "languages": {
+    "Markdown": {
+      "soft_wrap": "editor_width"
+    },
+    "SCSS": {
+      "prettier": {
+        // Disabled because it makes them too verbose
+        "allowed": false
+      }
+    }
+  }
+}
