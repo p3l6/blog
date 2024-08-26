@@ -18,5 +18,4 @@ date: 2023-12-13 01:00 -0500
 1. In a _large_ bowl, combine soup, cheese, sour cream, onion and mayo.
 2. Breakup the frozen hash browns and add to soup mixture.
 3. Butter bottom and sides of 9x13 baking dish.
-4. Pour mixture into baking dish and bake at 350 for around 30 mins.
-
+4. Pour mixture into baking dish and bake at 350 for around 45-50 mins.
