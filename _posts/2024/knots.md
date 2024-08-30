@@ -1,6 +1,6 @@
 ---
 title: Some knots worth tying
-summary: I describe some knots that I like, as perhaps why you should as well.
+summary: I describe some knots that I like, and perhaps why you should as well.
 date: 2024-08-29 16:00 -0400
 ---
 
@@ -30,7 +30,7 @@ Of course, there are many other good knots out there, but as I rarely have a pra
 {:boxdraw}
 
 The bowline is my all time favorite knot. It combines simplicity with extreme loop strength.
-In my two-knot system, the bowline was used to tie a line to everything and everything, unless the line length needed to be adjusted.
+In my two-knot system, the bowline was used to tie a line to anything and everything, unless the line length needed to be adjusted.
 Usually this meant every line had a bowline on one side and a taut-line hitch on the other.
 
 ## Adjustable grip hitch
@@ -77,7 +77,7 @@ Or, commonly, the shoelace knot.
 The traditional shoelace knot is just a square knot with both tails slipped to make loops that can be easily pulled out.
 Realizing this is important to tying your shoes correctly.
 Many people complain that their shoes will not stay tied, no matter how many times the "double knot" them.
-Almost always, the root cause is that they are inadvertently tying a "double slipped *granny knot*" instead, but cannot tell because of the loops.
+Almost always, the root cause is that they are inadvertently tying a "double slipped *granny* knot" instead, but cannot tell because of the loops.
 Pulling the loops through will usually reveal this. The solution is simple, you must train yourself to tie the first part of the knot backwards, as the muscle memory involved in the steps with the loops (or rabbits) will be too ingrained.
 
 ## double Fisherman’s
@@ -170,4 +170,4 @@ The diagrams in this article are just preformatted monospace text. I created the
 This is the first time I've used this application, but it was very pleasant to use, and I expect to use it again next time I find myself reaching for mermaid or nomnoml.
 
 [^1]: The taught line hitch doesn't even make the list anymore, which just goes to show how things can change!
-[^2]: Also called the lanyard knot. There's an even cooler looking knot called the "double lanyard", but, unfortunately, it does not start with either the carrick bend or the lanyard knot; I have followed the process a couple times, and I find it too complicated to even consider remembering how to tie.
+[^2]: Also called the lanyard knot. There's an even cooler looking knot called the "double lanyard", but, unfortunately, it does not start with either the carrick bend or even the lanyard knot; I have followed the process a couple times, and I find it too complicated to even consider remembering how to tie.
