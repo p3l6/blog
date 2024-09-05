@@ -22,14 +22,14 @@ title: Resume
 ## Employment History
 
 * Software Engineer III
-  * @ [CrowdStrike](crowdstrike.com)
+  * @ [CrowdStrike](https://crowdstrike.com)
   * Sept 2024 - Present
 * Senior macOS Software Engineer
-  * @ [Boombox](boombox.io)
+  * @ [Boombox](https://boombox.io)
   * _Developed and maintained a cloud file synching application for macOS_
   * Jan 2023 - Aug 2024
 * Senior Software Engineer
-  * @ [Doma](doma.com) (formerly States Title)
+  * @ [Doma](https://doma.com) (formerly States Title)
   * _Full stack web application development for a Title & Escrow platform_
   * Sept 2019 - Dec 2022
   * Durham, NC
