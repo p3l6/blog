@@ -3,7 +3,7 @@ title: Now
 redirect_from: /now/
 ---
 
-Last updated: 29 July 2024
+Last updated: 5 Sept 2024
 {: .note}
 
 ## Family
@@ -15,7 +15,7 @@ We believe in Jesus and attend a local presbyterian church.
 
 ## Work
 
-I am a Senior macOS Engineer at Boombox, developing their desktop file sync application.
+I am a Software Engineer at CrowdStrike, working on their macOS sensor team.
 
 ## Bagpipes
 
