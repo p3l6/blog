@@ -31,7 +31,9 @@ pre code { color: var(--content-color);}
     --highlight-lang-type-name: #D0A8FF;
     --highlight-lang-func-name: #A167E6;
   }
+}
 
+.highlight {
   background-color: var(--code-block-bg-color);
 
   .o, ow, .vi, .vm { color: var(--content-color); }

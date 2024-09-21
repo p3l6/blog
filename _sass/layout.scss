@@ -54,13 +54,13 @@ header {
   }
 
   h2 {
-    @include non-printing;
-
     margin-bottom: 1.25rem;
     font-family: $mono-font;
     font-size: 1.5rem;
     line-height: 2rem;
     text-align: right;
+
+    @include non-printing;
 
     a {
       color: var(--heading-color);
@@ -111,8 +111,6 @@ article {
  */
 
 nav {
-  @include non-printing;
-
   color: var(--content-color);
   display: flex;
   flex-direction: column;
@@ -121,6 +119,8 @@ nav {
   place-items: center;
   font-size: 1.25rem;
   line-height: 1.75rem;
+
+  @include non-printing;
 
   @media (min-width: 768px) {
     position: fixed;
