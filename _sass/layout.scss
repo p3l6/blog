@@ -53,20 +53,26 @@ header {
     }
   }
 
-  h2 {
-    margin-bottom: 1.25rem;
-    font-family: $mono-font;
-    font-size: 1.5rem;
-    line-height: 2rem;
-    text-align: right;
+  &.mobile-title-url {
+    margin-top: 1rem;
+    margin-bottom: 0rem;
+    h2 {
+      font-family: $mono-font;
+      font-size: 1.25rem;
+      margin-top: 0rem;
+      margin-bottom: 0rem;
+      margin-right: 1rem;
+      line-height: 1.25rem;
+      text-align: right;
 
-    @include non-printing;
+      @include non-printing;
 
-    a {
-      color: var(--heading-color);
-      text-decoration: none;
+      a {
+        color: var(--heading-color);
+        text-decoration: none;
 
-      &:visited { color: var(--heading-color) }
+        &:visited { color: var(--heading-color) }
+      }
     }
 
     @media (min-width: 768px) {
@@ -130,7 +136,7 @@ nav {
     height: 100vh;
   }
 
-  h1 {
+  h2 {
     color: var(--heading-color);
     font-family: $mono-font;
     font-size: 1.875rem;

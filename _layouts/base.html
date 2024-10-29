@@ -16,17 +16,19 @@
 </head>
 
 <body>
+  <header class="mobile-title-url">
+    <h2>{{ site.title }}|<a href="#nav">☰</a></h2>
+  </header>
   <main>
     <header>
       <h1>{{ page.title }}</h1>
-      <h2>{{ site.title }}|<a href="#nav">☰</a></h1>
     </header>
     <article>
       {{ content }}
     </article>
   </main>
   <nav id="nav">
-    <h1>{{site.title}}</h1>
+    <h2>{{site.title}}</h2>
     {% for item in site.navigation_items %}
       {% if item.url == page.url or item.url == layout.selectedNav %}
         <a class="current" href="{{ item.url }}">
