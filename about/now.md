@@ -3,13 +3,12 @@ title: Now
 redirect_from: /now/
 ---
 
-Last updated: 5 Sept 2024
+Last updated: 30 Oct 2024
 {: .note}
 
 ## Family
 
-I'm living in Apex, NC with my wife, our child (2), and our dog.
-We are expecting our second child in October.
+I'm living in Apex, NC with my wife, our children (2 and newborn), and our dog.
 
 We believe in Jesus and attend a local presbyterian church.
 
@@ -25,6 +24,8 @@ I am also working on developing a custom bagpipe music notation language. It is 
 
 ## Other
 
-I am attempting to learn the language toki pona, but struggling to keep up with it.
+I am attempting to learn the language toki pona.
 
-I am reducing my red meat intake, shooting for only two servings per week.
+## Photos
+
+![Photo of me](/assets/images/photographs/band_uniform.jpeg)
