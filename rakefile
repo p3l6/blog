@@ -11,6 +11,11 @@ task :bundle do
   sh 'bundle install'
 end
 
+desc "Update gems"
+task :bundleup do
+  sh 'bundle update'
+end
+
 desc "Builds, for github pages"
 task :build => [:bundle] do
   sh 'bundle exec jekyll build --trace'
