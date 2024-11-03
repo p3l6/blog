@@ -4,6 +4,8 @@
  * Licensed under MIT (https://github.com/vincentdoerig/latex-css/blob/master/LICENSE)
 */
 
+@use "fonts" as *;
+
 :root {
   --border-width-thin: 1.36px;
   --border-width-thick: 2.27px;

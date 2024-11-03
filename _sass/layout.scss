@@ -1,3 +1,5 @@
+@use "colors" as *;
+@use "fonts" as *;
 
 @mixin non-printing { @media print { display: none; }}
 .non-printing { @include non-printing; }
