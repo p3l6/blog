@@ -12,10 +12,11 @@ jobs:
       - uses: actions/checkout@v3
       - uses: ruby/setup-ruby@b252db7f2774eec6798adf2a3816e69529489dab
         with:
-          ruby-version: '3.1'
+          # Should match with .ruby-version file
+          ruby-version: "3.1"
           bundler-cache: true
       - name: Run Jekyll
-        run: bundle exec jekyll build --trace
+        run: rake build
       - name: Fix permissions
         run: |
           chmod -c -R +rX "_site/" | while read line; do
@@ -23,7 +24,6 @@ jobs:
           done
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v2
-
 
   deploy:
     needs: build

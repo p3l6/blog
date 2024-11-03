@@ -1,0 +1,22 @@
+
+task :default => :serve
+
+desc "Run site locally, and watch for changes"
+task :serve => [:bundle, :open] do
+  sh 'bundle exec jekyll serve --host "0.0.0.0"'
+end
+
+desc "Install gems"
+task :bundle do
+  sh 'bundle install'
+end
+
+desc "Builds, for github pages"
+task :build => [:bundle] do
+  sh 'bundle exec jekyll build --trace'
+end
+
+desc "Opens local page in browser"
+task :open do
+  sh 'open http://localhost:4000'
+end
