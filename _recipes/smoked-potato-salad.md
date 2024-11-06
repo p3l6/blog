@@ -1,5 +1,5 @@
 ---
-title: Smoked potato salad
+title: Smoked Potato Salad
 meal: side
 date: 2022-07-25 01:00 -0500
 ---

@@ -1,5 +1,5 @@
 ---
-title: Hudson bay bread
+title: Hudson Bay Bread
 meal: lunch
 date: 2019-03-12 12:00 -0500
 ---

@@ -1,5 +1,5 @@
 ---
-title: Mashed potatoes
+title: Mashed Potatoes
 meal: side
 date: 2019-03-12 12:00 -0500
 ---

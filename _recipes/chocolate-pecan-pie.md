@@ -1,5 +1,5 @@
 ---
-title: Chocolate pecan pie
+title: Chocolate Pecan Pie
 meal: dessert
 date: 2021-12-24 01:00 -0500
 ---

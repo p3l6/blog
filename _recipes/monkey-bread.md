@@ -1,5 +1,5 @@
 ---
-title: Monkey bread
+title: Monkey Bread
 meal: breakfast
 date: 2020-06-02 01:00 -0500
 ---

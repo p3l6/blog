@@ -1,5 +1,5 @@
 ---
-title: Tater tot casserole
+title: Tater Tot Casserole
 meal: dinner
 date: 2019-03-12 12:00 -0500
 ---

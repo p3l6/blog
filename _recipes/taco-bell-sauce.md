@@ -1,5 +1,5 @@
 ---
-title: Taco bell sauce
+title: Taco Bell Sauce
 meal: sauce
 date: 2020-06-12 01:00 -0500
 ---

@@ -1,5 +1,5 @@
 ---
-title: Croissant breakfast stuffing
+title: Croissant Sreakfast Stuffing
 meal: breakfast
 date: 2022-05-07 01:00 -0500
 ---
@@ -24,4 +24,3 @@ date: 2022-05-07 01:00 -0500
 4. Cover and chill dish for 8 hours.
 5. Preheat oven to 350°F. Uncover casserole, and sprinkle with Gruyère cheese.
 6. Bake 45 minutes or until golden. Let stand 10 minutes.
-

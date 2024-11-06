@@ -1,5 +1,5 @@
 ---
-title: Chocolate torte
+title: Chocolate Torte
 meal: dessert
 date: 2024-08-26 15:45 -0400
 ---

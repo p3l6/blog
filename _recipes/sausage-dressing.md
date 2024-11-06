@@ -1,5 +1,5 @@
 ---
-title: Sausage dressing
+title: Sausage Dressing
 meal: side
 date: 2021-12-24 01:00 -0500
 ---
@@ -28,4 +28,3 @@ date: 2021-12-24 01:00 -0500
 6. Bake.
 	1. At 350 for 30 mins.
 	2. Remove foil and bake another 20 mins.
-

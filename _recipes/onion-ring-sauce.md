@@ -1,5 +1,5 @@
 ---
-title: Onion ring sauce
+title: Onion Ring Sauce
 meal: sauce
 date: 2019-03-12 12:00 -0500
 ---
@@ -27,4 +27,3 @@ pinch  | pepper
 ⅛ tsp  | dried oregano
 dash   | ground black pepper
 dash   | cayenne pepper
-

@@ -1,5 +1,5 @@
 ---
-title: Hash brown casserole
+title: Hash Brown Casserole
 meal: side
 date: 2023-12-13 01:00 -0500
 ---

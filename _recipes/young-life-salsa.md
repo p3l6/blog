@@ -1,5 +1,5 @@
 ---
-title: Young life salsa
+title: Young Life Salsa
 meal: sauce
 date: 2019-03-12 12:00 -0500
 ---

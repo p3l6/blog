@@ -1,5 +1,5 @@
 ---
-title: Frozen fruit salad
+title: Frozen Fruit Salad
 meal: side
 date: 2019-07-4 12:00 -0500
 ---
@@ -35,4 +35,3 @@ date: 2019-07-4 12:00 -0500
 1. Mix ingredients in order given, stirring well after each addition.
 2. Cook over low heat until thick and smooth, stirring constantly.
 3. Chill before using.
-

@@ -1,5 +1,5 @@
 ---
-title: Big ugly salmon
+title: Big Ugly Salmon
 meal: dinner
 date: 2019-03-12 12:00 -0500
 ---

@@ -1,5 +1,5 @@
 ---
-title: Tzatziki sauce
+title: Tzatziki Sauce
 meal: sauce
 date: 2021-06-19 12:00 -0500
 ---

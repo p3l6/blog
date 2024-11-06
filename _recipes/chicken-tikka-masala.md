@@ -1,5 +1,5 @@
 ---
-title: Chicken tikka masala
+title: Chicken Tikka Masala
 meal: dinner
 date: 2019-03-12 12:00 -0500
 ---
