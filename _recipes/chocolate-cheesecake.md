@@ -24,3 +24,7 @@ date: 2019-03-12 12:00 -0500
    2. Add remaining ingredients, mix well.
 4. Pour into pan. Bake 1 hr 5 min, or until cake springs back when lightly touched.
 5. Cool to room temp, Chill.
+
+### Appendix
+
+* I have made this in 5 smaller pans, each 4 inches diameter. It only cooked about 35 minutes instead, and needed a bit more time for the center.
