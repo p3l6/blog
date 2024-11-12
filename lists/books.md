@@ -17,7 +17,8 @@ The original goal with this was to never re-read a book already on the list! Whe
 
 ### 2024
 
-{:booklist start="272"}
+{:booklist start="273"}
+273. Till We Have Faces / C.S. Lewis
 272. The Name of the Wind / Patrick Rothfuss
 271. The Last Shadow / Orson Scott Card
 270. All the Light We Cannot See / Anthony Doerr
