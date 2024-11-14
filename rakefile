@@ -25,3 +25,68 @@ desc "Opens local page in browser"
 task :open do
   sh 'open http://localhost:4000'
 end
+
+desc "Create blank blog post"
+task :post do
+  puts "What should the FILE be called? (lowercase with spaces)"
+  filename = $stdin.gets.strip
+  puts "What should the POST be called?"
+  post_title = $stdin.gets.strip
+  puts "A summary? One sentence or two describing what this is about:"
+  summary = $stdin.gets.strip
+  summary = "One sentence or two describing what this is about." if summary.empty?
+
+  time = Time.now
+
+  post_template = <<~EOF
+    ---
+    title: #{post_title}
+    summary: #{summary}
+    published: false # TODO: delete this line & uncomment the next & change date
+    # date: #{time.strftime('%Y-%m-%d %H:%M %z')}
+    ---
+
+    _put amazing content here_
+  EOF
+
+  File.write("_posts/#{time.strftime('%Y')}/#{filename}.md", post_template)
+end
+
+desc "Create blank recipe"
+task :recipe do
+  puts "What should the FILE be called? (lowercase with hyphens)"
+  filename = $stdin.gets.strip
+
+  recipe_template = <<~EOF
+    ---
+    title: Recipe
+    meal: dinner
+    date: 2024-00-00 00:00 -0500 (winter) -0400 (summer)
+    ---
+
+    || Ingredients |
+    |-:|-|
+    1 C        | lower case list
+    1 dozen    | no trailing punctuation
+    &nbsp;     | item without an amount
+    units      | Qt C Tbsp tsp lbs oz dozen pkg
+    frac chars | ⅛  2¼  ⅓  1½  ⅔  ¾
+
+    ## Directions
+
+    1. Capitalized.
+    2. Trailing periods.
+      1. Sub-steps. (indent three)
+
+    Optional recipe source
+    {: .source}
+
+    ### Appendix
+
+    * Notes about recipe evolution.
+      * Or alternate suggestions.
+    * Capitals and periods, like directions.
+  EOF
+
+  File.write("_recipes/#{filename}.md", recipe_template)
+end
