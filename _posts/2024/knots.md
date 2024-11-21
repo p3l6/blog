@@ -33,7 +33,7 @@ The bowline is my all time favorite knot. It combines simplicity with extreme lo
 In my two-knot system, the bowline was used to tie a line to anything and everything, unless the line length needed to be adjusted.
 Usually this meant every line had a bowline on one side and a taut-line hitch on the other.
 
-## Adjustable grip hitch
+## Adjustable Grip Hitch
 
 <pre>
        ╭╼
@@ -50,7 +50,7 @@ It is used to adjust the length of the loop, in order to shorten the rest of the
 This has effectively replaced the taut-line hitch in my knot vocabulary.
 One of the biggest advantages of it, when compared to the taut-line, is that it does not loosen when a line is under slack.
 
-## Reef knot, square knot
+## Reef Knot, Square Knot
 
 <pre>
     ╭───╮
@@ -67,11 +67,11 @@ It's usefulness is to join two ends that will remain under tension, usually held
 Despite this, the fact is that I rarely use a true square knot.
 However, there are many everyday knots that are simply slight variations on the square knot, since it is so versatile.
 
-### Sheet bend
+### Sheet Bend
 
 With a slight change of direction in the tail, the square knot becomes a sheet bend, and joins two differently sized ropes.
 
-### Double slipped square knot
+### Double Slipped Square Knot
 
 Or, commonly, the shoelace knot.
 The traditional shoelace knot is just a square knot with both tails slipped to make loops that can be easily pulled out.
@@ -80,7 +80,7 @@ Many people complain that their shoes will not stay tied, no matter how many tim
 Almost always, the root cause is that they are inadvertently tying a "double slipped *granny* knot" instead, but cannot tell because of the loops.
 Pulling the loops through will usually reveal this. The solution is simple, you must train yourself to tie the first part of the knot backwards, as the muscle memory involved in the steps with the loops (or rabbits) will be too ingrained.
 
-## double Fisherman’s
+## Double Fisherman’s
 
 <pre>
     ╭─╮ ╭───╮
@@ -95,7 +95,7 @@ Pulling the loops through will usually reveal this. The solution is simple, you 
 Unlike the square knot, the double fisherman's knot can join two lines to make one longer line.
 The knot will remain tight regardless of tension or slack applied. Further, it accomplishes this as one of the best looking knots on the list!
 
-## Alpine butterfly
+## Alpine Butterfly
 
 <pre>
   ╭┈┈┈┈┈┈╮
@@ -112,7 +112,7 @@ The alpine butterfly has a very special property that warrants space on my list:
 Also, the resulting lines naturally want to go in the direction of the tension in the rope. There is no other simple knot that I know of like it.
 
 
-## Carrick bend
+## Carrick Bend
 
 <pre>
      ╭╼
@@ -130,7 +130,7 @@ Now, this is hardly a situation I regularly find myself in.
 However, the carrick bend can easily become a diamond knot[^2] by tucking the tails around the lines and up through the bottom.
 This is great for key lanyards and zipper pulls.
 
-## Turks head
+## Turks Head
 
 <pre>
     ╭──────╮
@@ -149,7 +149,7 @@ A braid of one continuous line running in a circle, usually around an object.
 This was a classic in scouting, used for decoration, or kerchief slides, hatbands, etc.
 Many staff members, including myself, would tie a turks head or two on our paddles when storing them at base camp, simply to tell them apart.
 
-## Ashley stopper
+## Ashley Stopper
 
 <pre>
     ╭─╮
