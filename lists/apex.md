@@ -18,6 +18,7 @@ Some options extend to Cary and the surrounding area.
 ### For adults
 
 * Ralston arboretum
+* Lafayette village
 * High tea at the Carolina inn
 * State farmers market
 * Drive to the beach
