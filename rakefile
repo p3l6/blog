@@ -56,12 +56,18 @@ desc "Create blank recipe"
 task :recipe do
   puts "What should the FILE be called? (lowercase with hyphens)"
   filename = $stdin.gets.strip
+  puts "What is the Dish be called?"
+  post_title = $stdin.gets.strip
+  puts "What meal is it? (breakfast, lunch, dinner, side, sauce, dessert)"
+  meal = $stdin.gets.strip
+
+  time = Time.now
 
   recipe_template = <<~EOF
     ---
-    title: Recipe
-    meal: dinner
-    date: 2024-00-00 00:00 -0500 (winter) -0400 (summer)
+    title: #{post_title}
+    meal: #{meal}
+    date: #{time.strftime('%Y-%m-%d %H:%M %z')}
     ---
 
     || Ingredients |
