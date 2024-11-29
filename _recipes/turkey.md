@@ -9,7 +9,7 @@ date: 2024-11-28 21:00 -0500
 16 lbs   | frozen turkey
 1 C      | kosher salt
 ~ 3 Tbsp | peppercorns
-         | vegetable oil
+&nbsp;   | vegetable oil
 1        | apple
 1        | onion
 
