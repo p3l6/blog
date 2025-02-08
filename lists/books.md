@@ -15,6 +15,11 @@ The original goal with this was to never re-read a book already on the list! Whe
 
 {:booklist: style="margin-left: 1.5rem" reversed="reversed"}
 
+### 2025
+
+{:booklist start="275"}
+275. The Anxious Generation / Jonathan Haidt
+
 ### 2024
 
 {:booklist start="274"}

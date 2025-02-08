@@ -14,6 +14,7 @@ Some options extend to Cary and the surrounding area.
 * NC Zoo
 * Pullen park
 * Jordan lake, to hike or swim
+* New hope railway
 
 ### For adults
 
