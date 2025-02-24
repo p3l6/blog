@@ -17,7 +17,8 @@ The original goal with this was to never re-read a book already on the list! Whe
 
 ### 2025
 
-{:booklist start="275"}
+{:booklist start="276"}
+276. The Slow Regard of Silent Things / Patrick Rothfuss
 275. The Anxious Generation / Jonathan Haidt
 
 ### 2024
