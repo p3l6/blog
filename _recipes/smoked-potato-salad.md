@@ -40,3 +40,19 @@ More cheese would be good. A bit more sauce, but one spice was overpowering it. 
 
 WIP, attempting to replicate a side from Brew-n-que, a former local bbq restaurant.
 {: .source}
+
+## Attempt 2
+
+Full bag of russet potato, peeled, cut to 1in cubes.
+
+Smoker only, no boiling. This was a mistake since the smoker was running cold, and they never cooked. Ended up finishing them on the grill, as we were out of time.
+
+Used .5 C each of mayo and greek yogurt, as we had no sour cream.
+1C shredded cheese, I think.
+This seemed like the right amount.
+
+For spices, 1t each of: lowry salt, crushed red pepper, cumin. .5t: paprika, garlic.
+
+Overall pretty good, excepting the greek yogurt and grill-charred potatos.
+Next time, I would consider par-boiling again, and smoking to finish.
+Also, it would be worth trying a small batch by parboiling with liquid smoke and finishing in the air fryer.
