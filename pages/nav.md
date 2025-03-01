@@ -12,6 +12,7 @@ Clever of you to find it!
   * [Solos competitions](/about/hobbies/pipes/solos)
 * [Apex guide](/lists/apex/)
 * [Beer](/lists/beer/)
+* [Travel](/lists/travel/)
 * Projects
   * [Trivia Tracker](/projects/triviatracker/)
   * [Tic Tac Cubed](/projects/tictaccubed/)
