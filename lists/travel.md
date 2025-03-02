@@ -34,6 +34,7 @@ Just keeping a record here of various places I have been.
 | Tennessee | | ☑️ | | Kayak trip |
 | Texas | ☑️ | | | |
 | Utah | | | ☑️ | Highland games |
+| Virginia | | ☑️ | | Shenandoah natl park |
 | Washington | | ☑️ | | |
 | Wyoming | | ☑️ | | Scout camp |
 | ---
