@@ -8,7 +8,7 @@ title: Resume
 > Mentors and assists teammates in their professional growth.
 > Always open to new technologies: mindful of which tool is best suited for a task.
 
-[Full PDF Resume](assets/pdfs/resume.pdf) -- [LinkedIn Profile](http://www.linkedin.com/in/p3l6)
+[Full PDF Resume](/assets/pdfs/resume.pdf) -- [LinkedIn Profile](http://www.linkedin.com/in/p3l6)
 
 ## Skills
 
