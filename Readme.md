@@ -6,7 +6,9 @@ As such, I maintain and post to it as a *personal digital garden*, for my own en
 
 ## Running locally
 
-1. Install rbenv; install the ruby version from `.ruby-version`
+1. Install stuff
+  1. `rbenv` & install the ruby version from `.ruby-version`
+  2. `typst`
 2. `rake serve`
 
 ## Including images

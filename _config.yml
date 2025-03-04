@@ -19,6 +19,11 @@ plugins:
 exclude:
   - rakefile
   - Readme.md
+  - "**/*.typ"
+  - CNAME
+  - LICENSE
+  - "**/makefile"
+  - "**/*.sh"
 
 collections:
   recipes:

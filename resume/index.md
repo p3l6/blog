@@ -8,21 +8,21 @@ title: Resume
 > Mentors and assists teammates in their professional growth.
 > Always open to new technologies: mindful of which tool is best suited for a task.
 
-[Full PDF Resume](resume.pdf) -- [LinkedIn Profile](http://www.linkedin.com/in/p3l6)
+[Full PDF Resume](assets/pdfs/resume.pdf) -- [LinkedIn Profile](http://www.linkedin.com/in/p3l6)
 
 ## Skills
 
-* Swift, Objective-C, Python, Typescript
-* SwiftUI, AppKit, CoreData, Cocoa, iOS, XCode
-* C++, C, Java, LaTeX, Markdown
-* Shell, Git, Make, Jira, GitHub, Heroku, CircleCI
-* OpenGL, GNUstep, Docker, Postgres
-* Matlab, Vapor, React, SQLite
+* *Languages:* `Swift, Objective-C, Python, Typescript, C++, C, Ruby, SQL`
+* *Frameworks:* `SwiftUI, AppKit, CoreData, Cocoa, iOS, Vapor, OpenGL, GNUstep, React`
+* *Tools:* `XCode, Jira, Github, Bitbucket, VSCode, Docker, Postgres, SQLite`
+* *Markup:* `Typst, Markdown, LaTeX`
+* *Shell:* `Bash, Zsh, Fish, Git, Make`
 
 ## Employment History
 
 * Software Engineer III
   * @ [CrowdStrike](https://crowdstrike.com)
+  * _Developed features and tests for the macOS endpoint sensor_
   * Sept 2024 - Present
 * Senior macOS Software Engineer
   * @ [Boombox](https://boombox.io)

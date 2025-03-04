@@ -2,7 +2,7 @@
 task :default => :serve
 
 desc "Run site locally, and watch for changes"
-task :serve => [:bundle, :open] do
+task :serve => [:bundle, :typst, :open] do
   sh 'bundle exec jekyll serve --host "0.0.0.0"'
 end
 
@@ -16,8 +16,13 @@ task :bundleup do
   sh 'bundle update'
 end
 
+desc "Compiles typst documents to pdf"
+task :typst do
+  sh 'typst compile resume/resume.typ assets/pdfs/resume.pdf'
+end
+
 desc "Builds, for github pages"
-task :build => [:bundle] do
+task :build => [:bundle, :typst] do
   sh 'bundle exec jekyll build --trace'
 end
 
