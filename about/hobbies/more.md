@@ -101,6 +101,8 @@ Areas I've backpacked in are:
 * North Carolina
   * Appalachian Trail (sections)
 
+Some specifics can be found on the [camping page](/about/hobbies/camping).
+
 ## Reading
 
 Most people like reading books, I do as well. I've [kept a list](/lists/books) of the books I've read since mid-2018.

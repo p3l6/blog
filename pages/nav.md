@@ -10,6 +10,7 @@ Clever of you to find it!
 * [Hobbies](/about/hobbies/)
   * [Hobbies part two](/about/hobbies/more)
   * [Solos competitions](/about/hobbies/pipes/solos)
+  * [Camping](/about/hobbies/camping)
 * [Apex guide](/lists/apex/)
 * [Beer](/lists/beer/)
 * [Travel](/lists/travel/)
