@@ -12,7 +12,7 @@ Clever of you to find it!
   * [Solos competitions](/about/hobbies/pipes/solos)
   * [Camping](/about/hobbies/camping)
 * [Apex guide](/lists/apex/)
-* [Beer](/lists/beer/)
+* [Beer & Drinks](/lists/drinks/)
 * [Travel](/lists/travel/)
 * Projects
   * [Trivia Tracker](/projects/triviatracker/)
