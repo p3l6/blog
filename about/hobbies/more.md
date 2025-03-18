@@ -70,6 +70,16 @@ This is a great hobby because of the low barrier to entry and cost. Especially i
 One of my offices had a course just down the road, so a few of us would play there regularly.
 We even joined the weekly tags nights that the club ran, but never did all that well.
 
+Some of my preferred discs were:
+* Vibram sole putter. 172.
+* Star mako 4500. 173.
+* Ace race 2013 (ti mantis). 170.
+* Star Sidewinder. 171.
+* Special purpose
+  * Archangel. For right hooked shots
+  * Viper. For left hooked shots
+  * Dragon. For water shots
+
 ## Boating
 
 ### Canoeing

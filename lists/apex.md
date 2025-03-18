@@ -2,7 +2,7 @@
 title: Apex Guidebook
 ---
 
-A short list of activites and restaurants we might suggest for our visitors.
+A short list of activities and restaurants we might suggest for our visitors.
 Some options extend to Cary and the surrounding area.
 {: .abstract}
 

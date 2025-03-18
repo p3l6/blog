@@ -14,6 +14,8 @@ Clever of you to find it!
 * [Apex guide](/lists/apex/)
 * [Beer & Drinks](/lists/drinks/)
 * [Travel](/lists/travel/)
+* [Limericks](/lists/limericks/)
+* [Broadway](/lists/broadway/)
 * Projects
   * [Trivia Tracker](/projects/triviatracker/)
   * [Tic Tac Cubed](/projects/tictaccubed/)
