@@ -21,6 +21,7 @@ Just keeping a record here of various places I have been.
 | Kentucky | | | ☑️ | Road trip stop |
 | Louisiana | | ☑️ | | Work trip to New Orleans |
 | Michigan | | ☑️ | | |
+| Maine | | ☑️ | | Acadia natl park |
 | Minnesota | ☑️ | | | Northern Tier |
 | Missouri | | | ☑️ | Road trip stop to see arch |
 | Montana | | ☑️ | | |
