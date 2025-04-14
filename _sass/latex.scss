@@ -18,9 +18,10 @@ body {
   text-rendering: optimizeLegibility;
 }
 
-/* Justify and hyphenate all paragraphs */
+/* Justify and hyphenate all paragraphs, and use multiline text-wrap on supported browsers */
 p {
   text-align: justify;
+  text-wrap: pretty;
   hyphens: auto;
   -webkit-hyphens: auto;
   -moz-hyphens: auto;
