@@ -17,7 +17,8 @@ The original goal with this was to never re-read a book already on the list! Whe
 
 ### 2025
 
-{:booklist start="277"}
+{:booklist start="278"}
+278. The Narrow Road Between Desires / Patrick Rothfuss
 277. The Staff Engineer's Path / Tanya Reilly
 276. The Slow Regard of Silent Things / Patrick Rothfuss
 275. The Anxious Generation / Jonathan Haidt
