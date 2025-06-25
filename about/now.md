@@ -3,12 +3,12 @@ title: Now
 redirect_from: /now/
 ---
 
-Last updated: 1 March 2025
+Last updated: 24 June 2025
 {: .note}
 
 ## Family
 
-I'm living in Apex, NC with my wife, our children (2yr and baby), and our dog.
+I'm living in Apex, NC with my wife, our children (3yr and 6mo), and our dog.
 
 We believe in Jesus and attend a local presbyterian church.
 

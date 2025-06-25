@@ -25,5 +25,5 @@ redirect_from:
 | YouTube            | [Paul Landers](https://youtube.com/channel/UC4Uk1sxF33fLMlO_WM175rA) |
 | Instagram          | [p3l6.dev](https://instagram.com/p3l6.dev) |
 | Board game geek    | [pwxn](https://boardgamegeek.com/user/pwxn) |
-| Online Go          | [pwxn](https://online-go.com/user/view/127084) |
+| Online Go          | [p3l6](https://online-go.com/user/view/127084) |
 | American Go Assoc. | [Paul Landers](https://agagd.usgo.org/player/21613/) |

@@ -17,7 +17,9 @@ The original goal with this was to never re-read a book already on the list! Whe
 
 ### 2025
 
-{:booklist start="278"}
+{:booklist start="280"}
+280. Firefight / Brandon Sanderson
+279. Steelheart / Brandon Sanderson
 278. The Narrow Road Between Desires / Patrick Rothfuss
 277. The Staff Engineer's Path / Tanya Reilly
 276. The Slow Regard of Silent Things / Patrick Rothfuss
