@@ -17,7 +17,8 @@ The original goal with this was to never re-read a book already on the list! Whe
 
 ### 2025
 
-{:booklist start="280"}
+{:booklist start="281"}
+281. Calamity / Brandon Sanderson
 280. Firefight / Brandon Sanderson
 279. Steelheart / Brandon Sanderson
 278. The Narrow Road Between Desires / Patrick Rothfuss
