@@ -11,7 +11,9 @@ I'm proud to play in the [Wake and District Pipe Band](https://raleighpipeband.c
 
 When I compete solo, I am at the grade 3 level. I have a [list of contests](/about/hobbies/pipes/solos) that I have done.
 
-I sometimes upload bagpipe videos to my [youtube channel](/about/card).
+I sometimes upload a bagpipe video to my [youtube channel](/about/card).
+
+I have some notes about [products and supplies](/about/hobbies/pipes/supplies) that I like to use.
 
 ## Woodworking
 
