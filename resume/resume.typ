@@ -28,13 +28,13 @@
 \(303) 898 - 3972 #h(1fr) `https://p3l6.dev/resume` \
 paul\@p3l6.dev #h(1fr) `https://github.com/p3l6` \
 
-#block(stroke: gray, inset: 1em, radius: 4pt)[
-#emph[Experienced Software Engineer developing for MacOS & iOS applications.
+#block(stroke: gray, inset: 1em, radius: 4pt)[#emph[
+Experienced Software Engineer developing for MacOS & iOS applications.
 Expertise with debugging, problem solving, and solution design architecture.
 Punctual communicator, patient, and thrives on a fully remote team.
 Mentors and assists teammates in their professional growth.
-Always open to new technologies: mindful of which tool is best suited for a task.]
-]
+Always open to new technologies: mindful of which tool is best suited for a task.
+]]
 
 = Software Skills
 
@@ -51,12 +51,15 @@ Always open to new technologies: mindful of which tool is best suited for a task
   "Crowdstrike",
   "Sept 2024 - Present",
   "Developed features and tests for the macOS endpoint sensor",
-  "Swift, EndpointSecurity, Python, C++, BitBucket, Jira, Zsh"
+  "Swift, EndpointSecurity, Python, Objective-C, C++, BitBucket, Jira, Zsh"
 )
 
-- Investigated and fixed broken tests for pytest and xctest
-- Leading projects to implement new features
-- Fixed security issues and potential vulnerabilities
+- Lead implementation of projects
+  - Improved installation experience for customers
+  - Intelligent cloud endpoint routing for server outages
+- As a project lead, gathered requirements to determine best solution that meets customers needs
+- Improved reliability by fixing security issues and potential vulnerabilities
+- Triaged test failures, investigating and fixing failing tests in CI nightly test jobs
 
 #role(
   "Senior macOS Software Engineer",
