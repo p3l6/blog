@@ -21,6 +21,7 @@ This page is an assortment of my bar preferences, usually for my own reference w
 6. Reds
    1. Amber
    2. Scotch ale
+   3. Altbier
 7. Porter
 8. Kolsch
 9. Stout
