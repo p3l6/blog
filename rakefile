@@ -1,49 +1,50 @@
+# Blog management tasks
 
-task :default => :serve
+task default: :serve
 
-desc "Run site locally, and watch for changes"
-task :serve => [:bundle, :typst, :open] do
+desc 'Run site locally, and watch for changes'
+task serve: [:bundle, :typst, :open] do
   sh 'bundle exec jekyll serve --host "0.0.0.0"'
 end
 
-desc "Install gems"
+desc 'Install gems'
 task :bundle do
   sh 'bundle install'
 end
 
-desc "Update gems"
+desc 'Update gems'
 task :bundleup do
   sh 'bundle update'
 end
 
-desc "Compiles typst documents to pdf"
+desc 'Compiles typst documents to pdf'
 task :typst do
   sh 'typst compile resume/resume.typ assets/pdfs/resume.pdf'
 end
 
-desc "Builds, for github pages"
-task :build => [:bundle, :typst] do
+desc 'Builds, for github pages'
+task build: [:bundle, :typst] do
   sh 'bundle exec jekyll build --trace'
 end
 
-desc "Opens local page in browser"
+desc 'Opens local page in browser'
 task :open do
   sh 'open http://localhost:4000'
 end
 
-desc "Create blank blog post"
+desc 'Create blank blog post'
 task :post do
-  puts "What should the FILE be called? (lowercase with spaces)"
+  puts 'What should the FILE be called? (lowercase with spaces)'
   filename = $stdin.gets.strip
-  puts "What should the POST be called?"
+  puts 'What should the POST be called?'
   post_title = $stdin.gets.strip
-  puts "A summary? One sentence or two describing what this is about:"
+  puts 'A summary? One sentence or two describing what this is about:'
   summary = $stdin.gets.strip
-  summary = "One sentence or two describing what this is about." if summary.empty?
+  summary = 'One sentence or two describing what this is about.' if summary.empty?
 
   time = Time.now
 
-  post_template = <<~EOF
+  post_template = <<~TEMPLATE
     ---
     title: #{post_title}
     summary: #{summary}
@@ -52,23 +53,23 @@ task :post do
     ---
 
     _put amazing content here_
-  EOF
+  TEMPLATE
 
   File.write("_posts/#{time.strftime('%Y')}/#{filename}.md", post_template)
 end
 
-desc "Create blank recipe"
+desc 'Create blank recipe'
 task :recipe do
-  puts "What should the FILE be called? (lowercase with hyphens)"
+  puts 'What should the FILE be called? (lowercase with hyphens)'
   filename = $stdin.gets.strip
-  puts "What is the Dish be called?"
+  puts 'What is the Dish be called?'
   post_title = $stdin.gets.strip
-  puts "What meal is it? (breakfast, lunch, dinner, side, sauce, dessert)"
+  puts 'What meal is it? (breakfast, lunch, dinner, side, sauce, dessert)'
   meal = $stdin.gets.strip
 
   time = Time.now
 
-  recipe_template = <<~EOF
+  recipe_template = <<~TEMPLATE
     ---
     title: #{post_title}
     meal: #{meal}
@@ -97,7 +98,7 @@ task :recipe do
     * Notes about recipe evolution.
       * Or alternate suggestions.
     * Capitals and periods, like directions.
-  EOF
+  TEMPLATE
 
   File.write("_recipes/#{filename}.md", recipe_template)
 end
