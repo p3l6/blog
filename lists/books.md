@@ -17,7 +17,8 @@ The original goal with this was to never re-read a book already on the list! Whe
 
 ### 2025
 
-{:booklist start="282"}
+{:booklist start="283"}
+283. Ancillary Justice / Ann Leckie
 282. Sunrise on the Reaping / Suzanne Collins
 281. Calamity / Brandon Sanderson
 280. Firefight / Brandon Sanderson

@@ -7,6 +7,12 @@ This is a list of all the times I have competed in solo events with the bagpipes
 
 | Event | Place | Field | Tune |
 | :---: | :---: | :---: | ---- |
+|||| 2025 - G3 @ Scotland County |
+| ---
+| 2/4   |   5   |  10   | Millbank Cottage                    |
+| SR    |   3   |  10   | Monymusk & Colonel MacLeod          |
+| Piob  |       |  12   | Hector Maclean's Warning            |
+| ---
 |||| 2025 - G3 @ Loch Norman |
 | ---
 | 2/4   |       |  10   | Millbank Cottage                    |
