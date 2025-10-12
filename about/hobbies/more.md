@@ -32,6 +32,8 @@ Some of the games I have the most memories playing were:
 * Mount and Blade: Warband. Another game I came across in college. A perfect combination of first-person sword battles, and risk-style campaign mapping.
 * Diablo 3.
 * Stardew Valley. As with a couple other games I played, I first heard about this when it was referenced in [an xkcd comic](https://xkcd.com/1790/).
+* Half Life.
+* Zelda: Wind Waker. The first zelda game I played on a big screen, (non-gameboy).
 
 ## Homebrewing
 
