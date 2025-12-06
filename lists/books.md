@@ -17,7 +17,9 @@ The original goal with this was to never re-read a book already on the list! Whe
 
 ### 2025
 
-{:booklist start="284"}
+{:booklist start="286"}
+286. Project Hail Mary / Andy Weir
+285. Ancillary Mercy / Ann Leckie
 284. Ancillary Sword / Ann Leckie
 283. Ancillary Justice / Ann Leckie
 282. Sunrise on the Reaping / Suzanne Collins

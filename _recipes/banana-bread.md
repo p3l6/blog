@@ -18,4 +18,4 @@ pinch | salt
 ## Directions
 
 1. Mix ingredients in order.
-2. Bake at 350 for 1 hour.
+2. Bake at 350 for 1 to 1.5 hours.

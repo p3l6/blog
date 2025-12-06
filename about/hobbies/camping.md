@@ -24,4 +24,4 @@ The sections we have done are recorded here, by mile marker number.
 Note: Plan to camp near shelters, water is scarce elsewhere.
 Note: Route North of NOC is a 3000 ft vertical climb
 
-[Packing list](/lists/packing/backpacking.md)
+[Packing list](/lists/packing/backpacking)
