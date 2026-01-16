@@ -8,7 +8,7 @@ Last updated: 24 June 2025
 
 ## Family
 
-I'm living in Apex, NC with my wife, our children (3yr and 6mo), and our dog.
+I'm living in Apex, NC with my wife, our children (ages three and one), and our dog.
 
 We believe in Jesus and attend a local presbyterian church.
 

@@ -15,9 +15,22 @@ The original goal with this was to never re-read a book already on the list! Whe
 
 {:booklist: style="margin-left: 1.5rem" reversed="reversed"}
 
+### 2026
+
+{:booklist start="293"}
+
+293. Harry Potter and the Deathly Hallows / J.K. Rowling [+++]
+292. Harry Potter and the Half-Blood Prince / J.K. Rowling [++]
+291. Harry Potter and the Order of the Phoenix / J.K. Rowling [++]
+
 ### 2025
 
-{:booklist start="286"}
+{:booklist start="290"}
+
+290. Harry Potter and the Goblet of Fire / J.K. Rowling [++]
+289. Harry Potter and the Prisoner of Azkaban / J.K. Rowling [++]
+288. Harry Potter and the Chamber of Secrets / J.K. Rowling [++]
+287. Harry Potter and the Sorcerer's Stone / J.K. Rowling [++]
 286. Project Hail Mary / Andy Weir
 285. Ancillary Mercy / Ann Leckie
 284. Ancillary Sword / Ann Leckie
