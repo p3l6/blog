@@ -17,8 +17,9 @@ The original goal with this was to never re-read a book already on the list! Whe
 
 ### 2026
 
-{:booklist start="293"}
+{:booklist start="294"}
 
+294. The Final Empire / Brandon Sanderson 
 293. Harry Potter and the Deathly Hallows / J.K. Rowling [+++]
 292. Harry Potter and the Half-Blood Prince / J.K. Rowling [++]
 291. Harry Potter and the Order of the Phoenix / J.K. Rowling [++]
