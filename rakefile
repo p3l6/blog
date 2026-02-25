@@ -43,6 +43,7 @@ task :post do
   summary = 'One sentence or two describing what this is about.' if summary.empty?
 
   time = Time.now
+  directory = "_posts/#{time.strftime('%Y')}"
 
   post_template = <<~TEMPLATE
     ---
@@ -55,7 +56,9 @@ task :post do
     _put amazing content here_
   TEMPLATE
 
-  File.write("_posts/#{time.strftime('%Y')}/#{filename}.md", post_template)
+
+  FileUtils.mkdir(directory) unless Dir.exist?(directory)
+  File.write("#{directory}/#{filename}.md", post_template)
 end
 
 desc 'Create blank recipe'
