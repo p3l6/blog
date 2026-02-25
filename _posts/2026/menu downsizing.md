@@ -1,8 +1,7 @@
 ---
 title: Menu Downsizing
 summary: Recently it seems that restaurants everywhere are downsizing their menus.
-published: false # TODO: delete this line & uncomment the next & change date
-# date: 2026-02-24 20:35 -0500
+date: 2026-02-24 20:00 -0500
 ---
 
 So far, three of the restaurants we have been to this year have had noticeably smaller menus, when compared to our previous visit.
