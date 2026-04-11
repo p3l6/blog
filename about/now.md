@@ -3,7 +3,7 @@ title: Now
 redirect_from: /now/
 ---
 
-Last updated: 24 June 2025
+Last updated: 10 Apr 2026
 {: .note}
 
 ## Family
@@ -28,7 +28,7 @@ It has a parser written in swift, [on my github](https://github.com/p3l6/bag-not
 
 ## Other
 
-I am attempting to learn to write in the [shavian alphabet](https://en.m.wikipedia.org/wiki/Shavian_alphabet).
+We've recently completed renovating our master closet.
 
 ## Photos
 

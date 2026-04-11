@@ -8,7 +8,7 @@ redirect_from:
 ## Contact
 
 | -------- | --- |
-| Email    |  [me@p3l6.dev](mailto:me@p3l6.dev) |
+| Email    |  [paul@ers.land](mailto:paul@ers.land) |
 | Phone    |  303 898 3972 |
 | GitHub   |  [P3L6](https://github.com/p3l6) |
 | LinkedIn |  [Paul Landers](https://www.linkedin.com/in/p3l6/) |

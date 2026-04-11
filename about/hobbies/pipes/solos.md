@@ -7,6 +7,12 @@ This is a list of all the times I have competed in solo events with the bagpipes
 
 | Event | Place | Field | Tune |
 | :---: | :---: | :---: | ---- |
+|||| 2026 - G3 @ Cary Indoor |
+| ---
+| 2/4   |   4   |   7   | South Hall                          |
+| SR    |       |   7   | Catlodge & Fiona MacLeod            |
+| Piob  |       |   7   | The King's Taxes                    |
+| ---
 |||| 2025 - G3 @ Charleston |
 | ---
 | 2/4   |       |  18   | Millbank Cottage                    |
