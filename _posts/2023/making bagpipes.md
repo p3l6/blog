@@ -2,6 +2,7 @@
 title: Making Bagpipes
 summary: Learning to use machine lathes at MacLellan Bagpipes.
 date: 2023-03-11
+highlight: true
 ---
 
 While between programming jobs earlier this year,
@@ -40,4 +41,3 @@ Here are a few pictures of the process and the results.
 ![In progress mounts](/assets/images/revelation/IMG_0265.png)
 ![Finished](/assets/images/revelation/IMG_0269.png)
 ![Finished caps](/assets/images/revelation/IMG_0273.png)
-

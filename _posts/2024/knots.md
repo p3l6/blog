@@ -2,6 +2,7 @@
 title: Some Knots Worth Tying
 summary: I describe some knots that I like, and perhaps why you should as well.
 date: 2024-08-29 16:00 -0400
+highlight: true
 ---
 
 {:boxdraw: style="line-height:initial; font-size:1.5rem;"}

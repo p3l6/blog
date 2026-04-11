@@ -1,7 +1,8 @@
 ---
 title: Bag Notation
-summary: An status update on my bagpipe music notation language
+summary: A status update on my bagpipe music notation language.
 date: 2025-02-28 20:00 -0500
+highlight: true
 ---
 
 I have made some progress on my bagpipe musical notation language and software, since my last update here.

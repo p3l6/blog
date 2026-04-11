@@ -4,13 +4,26 @@ title: Paul Landers
 
 My name is Paul Landers, I live in Apex, NC.
 This site is just a basic personal homepage, with information about myself and my personal projects and hobbies.
-I am a professional software developer, and also enjoy playing the bagpipes and woodworking. Read more about what I am up to on my [Now Page](/about/now).
+I am a professional software developer, and also enjoy playing the bagpipes and woodworking. 
+Read more about what I am up to on my [Now Page](/about/now).
 
 {% assign post = site.posts.first %}
 ## Latest Blog Post: [{{ post.title }}]({{ post.url }})
 {{ post.summary }}
 
-_{{ post.date | date_to_string }}_
+> {{ post.excerpt }} [keep reading post]({{ post.url }})
 
-{{ post.excerpt }}
-[keep reading post]({{ post.url }})
+_/ {{ post.date | date_to_string }} /_
+
+## Highlighted Posts:
+
+{% for post in site.posts %}
+{% if post.highlight -%}
+
+* [{{ post.title }}]({{ post.url }}): {{ post.summary }}\
+_/ {{ post.date | date_to_string }} /_
+
+{% endif -%}
+{% endfor %}
+
+[All blog posts](/blog)
