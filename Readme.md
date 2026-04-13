@@ -34,6 +34,7 @@ Notably, add html markup following blocks with "block inline attribute list"s:
 {: .class1 .class2}
 {: #with-an-id}
 {: style="color: red"}
+{:height="36px" width="36px"}.
 ```
 
 ## To do

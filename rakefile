@@ -2,9 +2,9 @@
 
 task default: :serve
 
-desc 'Run site locally, and watch for changes'
+desc 'Run site locally, and watch for changes (including unpublished posts)'
 task serve: [:bundle, :typst, :open] do
-  sh 'bundle exec jekyll serve --host "0.0.0.0"'
+  sh 'bundle exec jekyll serve --host "0.0.0.0" --unpublished'
 end
 
 desc 'Install gems'
