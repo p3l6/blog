@@ -14,3 +14,6 @@ Gemfile.lock
 # End of https://www.gitignore.io/api/jekyll
 
 assets/pdfs/resume.pdf
+assets/zips/
+
+dev/ref/.util/tmp/

@@ -24,6 +24,7 @@ exclude:
   - LICENSE
   - "**/makefile"
   - "**/*.sh"
+  - "dev/ref/.util/*"
 
 collections:
   recipes:
@@ -48,6 +49,10 @@ defaults:
     values:
       layout: recipe
       author: Paul Landers
+  - scope:
+      path: dev/ref/
+    values:
+      layout: dev_reference
 
 navigation_items:
   - title: Home

@@ -3,7 +3,7 @@
 task default: :serve
 
 desc 'Run site locally, and watch for changes (including unpublished posts)'
-task serve: [:bundle, :typst, :open] do
+task serve: [:bundle, :typst, :docset, :open] do
   sh 'bundle exec jekyll serve --host "0.0.0.0" --unpublished'
 end
 
@@ -22,8 +22,15 @@ task :typst do
   sh 'typst compile resume/resume.typ assets/pdfs/resume.pdf'
 end
 
+desc 'Creates a Dash.app docset from reference pages'
+task :docset do
+  sh 'make -C dev/ref'
+  sh 'mkdir -p assets/zips/'
+  sh 'cp dev/ref/.util/tmp/Reference.docset.zip assets/zips/'
+end
+
 desc 'Builds, for github pages'
-task build: [:bundle, :typst] do
+task build: [:bundle, :typst, :docset] do
   sh 'bundle exec jekyll build --trace'
 end
 
