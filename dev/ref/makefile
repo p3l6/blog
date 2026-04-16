@@ -47,7 +47,7 @@ $(DOCSET_NAME).docset/Contents/Resources/Documents/%.html: %.md
 
 $(DOCSET_NAME).docset/Contents/Info.plist: .util/scripts/Info.plist
 	mkdir -p $(DOCSET_NAME).docset/Contents
-	sed s|__DOCSET_NAME__|$(DOCSET_NAME)| $^ > $@
+	sed 's|__DOCSET_NAME__|$(DOCSET_NAME)|' $^ > $@
 
 .util/tmp/github-markdown.css:
 	mkdir -p .util/tmp
