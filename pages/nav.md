@@ -16,7 +16,7 @@ Clever of you to find it!
 * [Travel](/lists/travel/)
 * [Limericks](/lists/limericks/)
 * [Broadway](/lists/broadway/)
-* Projects
+* Dev stuff
   * [Reference](/dev/ref)
-  * [Trivia Tracker](/projects/triviatracker/)
-  * [Tic Tac Cubed](/projects/tictaccubed/)
+  * [Trivia Tracker](/dev/projects/triviatracker/)
+  * [Tic Tac Cubed](/dev/projects/tictaccubed/)
