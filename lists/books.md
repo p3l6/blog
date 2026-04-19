@@ -17,8 +17,9 @@ The original goal with this was to never re-read a book already on the list! Whe
 
 ### 2026
 
-{:booklist start="298"}
+{:booklist start="299"}
 
+299. Network Effect / Martha Wells
 298. Exit Strategy / Martha Wells
 297. Rogue Protocol / Martha Wells
 296. Artificial Condition / Martha Wells
