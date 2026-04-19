@@ -10,6 +10,7 @@ date: 2019-03-12 12:00 -0500
 1 | onion, chopped
 4 | celery, chopped
 2 cans | cream of chicken soup
+1 bag | tater tots (frozen)
 
 ## Directions
 
