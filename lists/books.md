@@ -17,8 +17,9 @@ The original goal with this was to never re-read a book already on the list! Whe
 
 ### 2026
 
-{:booklist start="299"}
+{:booklist start="300"}
 
+300. Fugitive Telemetry / Martha Wells
 299. Network Effect / Martha Wells
 298. Exit Strategy / Martha Wells
 297. Rogue Protocol / Martha Wells
