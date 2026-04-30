@@ -23,8 +23,8 @@ redirect_from:
 
 | ------------------ | --- |
 | YouTube            | [P3L6](https://www.youtube.com/@P3L6) |
-| Instagram          | [_p3l6_](https://instagram.com/_p3l6_) |
-| Threads            | [_p3l6_](https://threads.com/@_p3l6_) |
+| Instagram          | [\_p3l6\_](https://instagram.com/_p3l6_) |
+| Threads            | [\_p3l6\_](https://threads.com/@_p3l6_) |
 | Online Go          | [p3l6](https://online-go.com/user/view/127084) |
 | American Go Assoc. | [Paul Landers](https://agagd.usgo.org/player/21613/) |
 | Board game geek    | [pwxn](https://boardgamegeek.com/user/pwxn) |
