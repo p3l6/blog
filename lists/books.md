@@ -17,7 +17,7 @@ The original goal with this was to never re-read a book already on the list! Whe
 
 ### 2026
 
-{:booklist start="300"}
+{:booklist start="301"}
 
 301. System Collapse / Martha Wells
 300. Fugitive Telemetry / Martha Wells
