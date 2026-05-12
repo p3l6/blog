@@ -2,6 +2,7 @@
 title: Axial Core Typeface
 summary: Axial Core is a custom typeface created for handwriting, focused on reducing the number of distinct shapes.
 date: 2026-04-12 21:00 -0400
+highlight: true
 ---
 
 I have been working on a new handwriting typeface, which is aesthetically simpler than the traditional latin glyphs.
