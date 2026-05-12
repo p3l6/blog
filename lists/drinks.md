@@ -46,7 +46,7 @@ This page is an assortment of my bar preferences, usually for my own reference w
 
 ### Current rotation
 
-* Glenlivet 12 (for Xmas 2023)
+* Dalwhinnie 15 (for Hiking 2026)
 * Glenfiddich 12 (at Xmas 2023)
 * Glenmorangie 12 (at Xgiv 2024)
 
@@ -56,6 +56,7 @@ This page is an assortment of my bar preferences, usually for my own reference w
 * Ardbeg “wee beastie”
 * Balvinie 12
 * Glenfiddich 18
+* Glenlivet 12
 * Glenmorangie 10
 * Highland park 10
 * Jura 10

@@ -8,23 +8,23 @@ title: Backpacking pack list
 * Backpack
   * Hip pockets: Phone / Pocketknife / Flashlight / Bandana
   * Sunglasses
-* Tent & stuff sack
+* Tent & stakes
   * Rain tarp
-* Tent poles & stakes
+* Hiking poles
 * Sleep bag & Pad
 * Flexlite chair _or_ Hammock & Straps
 
 ### Eating
-* Spoon
+* Spoon / Chopsticks
 * Pot / Stove / Matches / Flint / Stove fuel
 * Bear canister
   * Extra ziplock for trash
-  * Squishy bowl / Chopsticks
+  * Squishy bowl
   * Food
-    * Oatmeal / Mountain house
-    * PB / Tuna / Torilla / Cracker / Bars
-    * Summer sausage / Spicy cheese / Dried fruit / Chocolate
-    * Mountain house dinners
+    * Oatmeal / Cliff bar
+    * Tuna / Torilla / Cracker
+    * Summer sausage / Spicy cheese / Dried fruit / Chocolate / Jelly beans
+    * Freeze dried dinners
     * Red pepper flakes
   * Smell kit
     * Neosporene / Hand sanitizer
@@ -36,7 +36,7 @@ title: Backpacking pack list
 * Tea
 * Flask & Whiskey
 * Wine in a 500ml mini box
-* Kuksa *or* Squishy cup
+* Squishy cup / Scotch cup
 
 ### Toolkit
 * Fa kit / Nail clips / Tweezers
@@ -56,34 +56,38 @@ title: Backpacking pack list
   * Wool sweater *or* puff jacket / Warm hat
   * Pack towel
 * Stuff sack
-  * Shirt / Pants / Undies / Socks
+  * Shirt / Undies / Socks
   * Long underwear set
 
 ### Other
-* Map & Compass *or* Gaia GPS app
-* Book / Deck of cards
+* Map & Compass / Gaia GPS app
+* Book / Star realms game
 * Kite ? (not for AT, maybe in Colo)
-* Charging pack / Cables (flashlight with rechargeable battery)
+* Charging pack / Cables
 
 ## Notes for next trip
-* When vibram shoes wear out, try light water shoes, like zhuanglin. Or exped camp slipper. Or some “barefoot” shoes.
-  * Last time, took the chaco slippers and it was nice.
-  * Next time: replace the five fingers and get something else
-* Trek poles could be nice, from REI or black diamond.
-  * Helps with hand swelling and going uphill. And bushwacking.
-  * Go ahead and get them next time!
-* Sleeping pad is leaking. Needs to be patched or replaced.
-  * Unable to patch. Need a new one
-  * Had “big Agnes insulated air core”
-  * Size 20 x 72 x 3.25
-* The repel lemon/euc spray can leak, and fail. Maybe it comes in other packaging?
-* Consider bringing mini solo stove, for fun
+* Silipint glen cairn: duradram.com, but a half size would be better. They were going to make a half size, but it was delayed. As of 2026, the store is on haitus and may not return.
+* Consider a quilt blanket instead of sleeping bag, these are very popular now.
+* Fuel exchange filler, to top off the small cans at home.
+* Hiking shoes or trail running shoes, to replace boots.
+* A new packable chair, ie heliox zero. Rei ones are breaking.
 
 ## Other notes
 * Grayl filter should last 300 uses, or 3 years. Last replaced in may, 2024.
-* If squishy bowl wears out or is no longer made, check humangear
-* Don't get an ultralight tent. The Alps tent is already great.
-* Roll tent for storage, but stuff and compress for travel with poles separate.
-* Dont bother with trail mix, nuts, or gorp. It wont get eaten.
+* If squishy bowl wears out or is no longer made, check humangear; or go Ti.
+* Dont bother with trail mix, nuts, or gorp. It wont get eaten!
+* Only one oatmeal packet per breakfast.
 * Bear canister fits in the bottom compartment of pack.
-* Cook pot replacement brand: TOAKS. nest with a small (4oz) fuel can, and small stove inside.
+* One full fuel canister was enough for a three night trip.
+* (For a standard tent) Roll for storage, but stuff and compress for travel with poles separate.
+
+## Freeze dried meals
+### Good
+* Mountain house
+  * Beef stroganoff
+  * Pad thai
+* Backpackers pantry
+  * Hatch green chili mac and cheese (five stars - really good)
+### Meh
+* Backpackers pantry
+  * Chana masala

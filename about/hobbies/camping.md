@@ -6,6 +6,7 @@ title: Backpacking
 
 I have been hiking sections of the AT with a friend.
 The sections we have done are recorded here, by mile marker number.
+The mile marker numbers are approximate, they only exist on the digital map, and seem to change over time.
 
 ### 108 → 136
 * Winding stair → Nantahala outdoor center
@@ -18,6 +19,12 @@ The sections we have done are recorded here, by mile marker number.
 * November 2021
 * 3 nights
 * 24 mi
+
+### (-8) -> 22
+* Amicalola state park -> Woody gap
+* May 2026
+* 3 nights
+* 28 mi
 
 ### Planning Notes
 [Map of whole trail for planning](https://nps.maps.arcgis.com/apps/webappviewer/index.html?id=6298c848ba2a490588b7f6d25453e4e0)
