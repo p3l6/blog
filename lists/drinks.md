@@ -61,6 +61,7 @@ This page is an assortment of my bar preferences, usually for my own reference w
 * Highland park 10
 * Jura 10
 * Lagavulin 18
+* Laphroaig "cairdeas"
 * Loch Lomond 12
 * Oban ?
 * Old Pulteney 12
