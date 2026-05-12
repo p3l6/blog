@@ -31,7 +31,7 @@
   <nav id="nav">
     <h2>{{site.title}}</h2>
     {% for item in site.navigation_items %}
-      {% if item.url == page.url or item.url == layout.selectedNav %}
+      {% if item.url == page.url or item.url == page.selectedNav %}
         <a class="current" href="{{ item.url }}">
       {% else %}
         <a href="{{ item.url }}">

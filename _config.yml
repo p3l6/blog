@@ -29,6 +29,8 @@ exclude:
 collections:
   recipes:
     output: true
+  wwdc:
+    output: true
 
 feed:
   collections:
@@ -47,12 +49,20 @@ defaults:
   - scope:
       type: recipes
     values:
-      layout: recipe
+      layout: indexable
+      index: /cook/
       author: Paul Landers
+      selectedNav: /cook/
+  - scope:
+      type: wwdc
+    values:
+      layout: indexable
+      index: /dev/wwdc/
   - scope:
       path: dev/ref/
     values:
-      layout: dev_reference
+      layout: indexable
+      index: /dev/ref/
 
 navigation_items:
   - title: Home
