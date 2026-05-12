@@ -6,17 +6,18 @@ title: Themes
 
 | Color | Dark | Light | Use |
 | ----- | ---- | ----- | --- |
-| Shade0 | #282A36 | #F4F4F4 | Background |
-| Shade1 | #44475A | #DCDEEF | Current line's background |
-| Shade2 | #F8F8F2 | #2C2B30 | Foreground  default text |
-| Shade3 | #6272A4 | #625D93 | Comments |
-| Cyan   | #8BE9FD | #2D6993 | Class names, builtins |
-| Green  | #50FA7B | #357020 | Function names, diffs |
-| Orange | #FFB86C | #BB4634 | Function params, diffs |
-| Pink   | #FF79C6 | #A52452 | Keywords, tags, string interpolation |
-| Purple | #BD93F9 | #604BC2 | Reserved words, constants |
+| Shade0 | #282A36 | #FFFBEB | Background |
+| Shade1 | #6272A4 | #6C664B | Current line's background |
+| Shade2 | #44475A | #CFCFDE | Selection |
+| Shade3 | #F8F8F2 | #1F1F1F | Foreground  default text |
+| Shade4 | #6272A4 | #6C664B | Comments |
+| Cyan   | #8BE9FD | #036A96 | Class names, builtins |
+| Green  | #50FA7B | #14710A | Function names, diffs |
+| Orange | #FFB86C | #A34D14 | Function params, diffs |
+| Pink   | #FF79C6 | #A3144D | Keywords, tags, string interpolation |
+| Purple | #BD93F9 | #644AC9 | Reserved words, constants |
 | Red    | #FF5555 | #CB3A2A | Errors, diffs, regex |
-| Yellow | #F1FA8C | #836E15 | Strings |
+| Yellow | #F1FA8C | #846E15 | Strings |
 
 ## Xcode <!-- Style -->
 
