@@ -1,0 +1,139 @@
+---
+title: Mist Palette Preview
+layout: page
+---
+
+<!-- LIQUID VARS START -->
+
+{% assign color_names = "red,orange,yellow,green,cyan,blue,purple,magenta" | split: "," %}
+{% assign gray_levels_light = "100,200,300,400,500,700,900" | split: "," %}
+{% assign gray_levels_dark = "900,800,700,600,500,400,200" | split: "," %}
+{% assign all_levels = "100,200,300,400,500,600,700,800,900" | split: "," %}
+
+<!-- LIQUID VARS END -->
+
+<style>
+
+.color-grid {
+  display: grid;
+  gap: .5rem;
+}
+
+.color-scale {
+  display: grid;
+  grid-template-columns: repeat({{all_levels | size}}, minmax(0, 1fr));
+  gap: 0.25rem;
+}
+
+.swatch {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  aspect-ratio: 0.8;
+  border: 1px solid var(--mist-border);
+  border-radius: 4px;
+}
+
+.sample-palette {
+  display: grid;
+  gap: 0.75rem;
+  padding: 1rem;
+  border: 1px solid var(--mist-border);
+  border-radius: 6px;
+}
+
+.sample-palette.light {
+  background: var(--mist-{{ gray_levels_light | first }});
+  color: var(--mist-{{ gray_levels_light | last }});
+}
+
+.sample-palette.dark {
+  background: var(--mist-{{ gray_levels_dark | first }});
+  color: var(--mist-{{ gray_levels_dark | last }});
+}
+
+.sample-swatch-row {
+  display: grid;
+  grid-template-columns: repeat(8, minmax(0, 1fr));
+  grid-auto-rows: 3.5rem;
+  gap: 0.5rem;
+}
+
+.sample-swatch-row.compact {
+  grid-auto-rows: 1.75rem;
+}
+
+.sample-swatch {
+  min-height: 100%;
+  border-radius: 4px;
+  box-shadow: inset 0 0 0 1px rgba(0,0,0,0.12);
+}
+
+.sample-palette.dark .sample-swatch {
+  box-shadow: inset 0 0 0 1px rgba(255,255,255,0.16);
+}
+
+</style>
+
+<p>Refer back to <a href="/dev/mist/">the theme explanation page</a> for color codes and more information.</p>
+
+<h2>Light mode color pallet</h2>
+<section class="sample-palette light">
+  <div class="sample-swatch-row">
+{% for level in gray_levels_light %}
+    <div class="sample-swatch" style="background-color: var(--mist-{{level}})" title="{{level}}"></div>
+{% endfor %}
+  </div>
+  <div class="sample-swatch-row compact">
+{% for color in color_names %}
+    <div class="sample-swatch" style="background-color: var(--mist-{{color}}-300)" title="{{color}}-300"></div>
+{% endfor %}
+  </div>
+  <div class="sample-swatch-row">
+{% for color in color_names %}
+    <div class="sample-swatch" style="background-color: var(--mist-{{color}}-700)" title="{{color}}-700"></div>
+{% endfor %}
+  </div>
+</section>
+
+<h2>Dark mode color pallet</h2>
+<section class="sample-palette dark">
+  <div class="sample-swatch-row">
+{% for level in gray_levels_dark %}
+        <div class="sample-swatch" style="background-color: var(--mist-{{level}})" title="{{level}}"></div>
+{% endfor %}
+      </div>
+      <div class="sample-swatch-row compact">
+{% for color in color_names %}
+        <div class="sample-swatch" style="background-color: var(--mist-{{color}}-700)" title="{{color}}-700"></div>
+{% endfor %}
+      </div>
+      <div class="sample-swatch-row">
+{% for color in color_names %}
+        <div class="sample-swatch" style="background-color: var(--mist-{{color}}-300)" title="{{color}}-300"></div>
+{% endfor %}
+      </div>
+    </section>
+
+<h2>Full color grid</h2>
+<div class="color-grid">
+  <div class="color-scale">
+{% for level in all_levels %}
+    <div>
+      {{level}}
+    </div>
+{% endfor %}
+  </div>
+  <div class="color-scale">
+{% for level in all_levels %}
+    <div class="swatch" style="background-color: var(--mist-{{level}})"></div>
+{% endfor %}
+  </div>
+{% for color in color_names %}
+  <div class="color-scale">
+{% for level in all_levels %}
+    <div class="swatch" style="background-color: var(--mist-{{color}}-{{level}})"></div>
+{% endfor %}
+  </div>
+{% endfor %}
+</div>

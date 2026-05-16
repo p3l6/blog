@@ -6,13 +6,13 @@
 
 body {
   background-color: var(--outside-bg-color);
-  color: var(--content-color);
+  color: var(--mist-text);
   font-family: $main-font;
 }
 
 main {
-  background-color: var(--content-bg-color);
-  border: solid var(--line-color);
+  background-color: var(--mist-bg);
+  border: solid var(--mist-blue-br);
 
   padding: 0.75rem;
   margin: 1rem;
@@ -84,28 +84,12 @@ header {
 }
 
 article {
-  color: var(--content-color);
+  color: var(--mist-text);
   width: 100%;
   max-width: 80ch;
 
   @media print {
     max-width: none;
-  }
-
-  section.summary {
-    background-color: var(--outside-bg-color);
-    padding: 0.75rem;
-    margin-bottom: 1.25rem;
-    border: solid var(--line-color);
-    border-radius: 0.375rem;
-    border-width: 1px;
-
-    text-align: center;
-
-    > h2 {
-      margin-top: 0;
-      font-size: inherit;
-    }
   }
 
   footer h3 {
@@ -119,7 +103,7 @@ article {
  */
 
 nav {
-  color: var(--content-color);
+  color: var(--mist-text);
   display: flex;
   flex-direction: column;
   gap: 0.75rem;
@@ -154,12 +138,12 @@ nav {
   a {
     font-weight: 400;
     font-variant-caps: small-caps;
-    color: var(--content-color);
+    color: var(--mist-text);
     text-decoration: none;
 
-    &:visited { color: var(--content-color) }
-    &:hover { color: var(--nav-hover-color) }
-    &.current { color: var(--nav-sel-color) }
+    &:visited { color: var(--mist-text) }
+    &:hover { color: var(--mist-cyan-br) }
+    &.current { color: var(--mist-cyan) }
   }
 
   hr {
@@ -171,7 +155,7 @@ nav {
     border-width: 0;
     width: 5rem;
     height: 0.25rem;
-    background-color: var(--line-color);
+    background-color: var(--mist-blue-500);
   }
 
   img {
@@ -195,7 +179,7 @@ nav {
 }
 
 .abstract { @include admonition(var(--heading-color), "¶ Abstract"); }
-.alert { @include admonition(var(--link-color), "‼︎ Alert"); }
-.aside { @include admonition(var(--content-color), "§ Aside"); }
-.note { @include admonition(var(--code-color), "❖ Note"); }
-.source { @include admonition(var(--content-color), "✎ Source"); }
+.alert { @include admonition(var(--mist-red), "‼︎ Alert"); }
+.aside { @include admonition(var(--mist-text), "§ Aside"); }
+.note { @include admonition(var(--mist-cyan), "❖ Note"); }
+.source { @include admonition(var(--mist-text), "✎ Source"); }

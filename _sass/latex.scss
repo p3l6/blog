@@ -52,7 +52,7 @@ p.no-indent {
 /* Make links red */
 a,
 a:visited {
-  color: var(--link-color);
+  color: var(--mist-red);
 }
 
 /* Prevent textarea from overflowing */
@@ -84,8 +84,6 @@ pre code {
   position: relative;
 }
 kbd {
-  background: var(--kbd-bg-color);
-  border: 1px solid var(--kbd-border-color);
   border-radius: 2px;
   padding: 2px 4px;
   font-size: 75%;
@@ -94,7 +92,7 @@ kbd {
 blockquote {
   margin: 1rem 1.5rem;
   padding-left: 1rem;
-  border-left: var(--border-width-thick) solid var(--divider-color);
+  border-left: var(--border-width-thick) solid var(--mist-text-dim);
 }
 
 /* Better tables */
@@ -103,8 +101,8 @@ table:not(.borders-custom) {
   border-spacing: 0;
   width: auto;
   max-width: 100%;
-  border-top: var(--border-width-thick) solid var(--divider-color);
-  border-bottom: var(--border-width-thick) solid var(--divider-color);
+  border-top: var(--border-width-thick) solid var(--mist-text-dim);
+  border-bottom: var(--border-width-thick) solid var(--mist-text-dim);
   /* display: block; */
   overflow-x: auto; /* does not work because element is not block */
   /* white-space: nowrap; */
@@ -112,23 +110,27 @@ table:not(.borders-custom) {
 }
 /* add bottom border on column table headings  */
 table:not(.borders-custom) tr > th[scope='col'] {
-  border-bottom: var(--border-width-thin) solid var(--divider-color);
+  border-bottom: var(--border-width-thin) solid var(--mist-text-dim);
 }
 /* add right border on row table headings  */
 table:not(.borders-custom) tr > th[scope='row'] {
-  border-right: var(--border-width-thin) solid var(--divider-color);
+  border-right: var(--border-width-thin) solid var(--mist-text-dim);
 }
 table:not(.borders-custom) > tbody > tr:first-child > td,
 table:not(.borders-custom) > tbody > tr:first-child > th {
-  border-top: var(--border-width-thin) solid var(--divider-color);
+  border-top: var(--border-width-thin) solid var(--mist-text-dim);
 }
 table:not(.borders-custom) > tbody > tr:last-child > td,
 table:not(.borders-custom) > tbody > tr:last-child > th {
-  border-bottom: var(--border-width-thin) solid var(--divider-color);
+  border-bottom: var(--border-width-thin) solid var(--mist-text-dim);
 }
 
 table + table {
-  margin-top: 0.5rem;
+  margin-top: 1rem;
+}
+
+p + table {
+  margin-top: 1rem;
 }
 
 th,
@@ -174,29 +176,29 @@ table.borders-custom {
 }
 
 .border-top-thick {
-  border-top: var(--border-width-thick) solid var(--divider-color);
+  border-top: var(--border-width-thick) solid var(--mist-text-dim);
 }
 .border-right-thick {
-  border-right: var(--border-width-thick) solid var(--divider-color);
+  border-right: var(--border-width-thick) solid var(--mist-text-dim);
 }
 .border-bottom-thick {
-  border-bottom: var(--border-width-thick) solid var(--divider-color);
+  border-bottom: var(--border-width-thick) solid var(--mist-text-dim);
 }
 .border-left-thick {
-  border-left: var(--border-width-thick) solid var(--divider-color);
+  border-left: var(--border-width-thick) solid var(--mist-text-dim);
 }
 
 .border-top-thin {
-  border-top: var(--border-width-thin) solid var(--divider-color);
+  border-top: var(--border-width-thin) solid var(--mist-text-dim);
 }
 .border-right-thin {
-  border-right: var(--border-width-thin) solid var(--divider-color);
+  border-right: var(--border-width-thin) solid var(--mist-text-dim);
 }
 .border-bottom-thin {
-  border-bottom: var(--border-width-thin) solid var(--divider-color);
+  border-bottom: var(--border-width-thin) solid var(--mist-text-dim);
 }
 .border-left-thin {
-  border-left: var(--border-width-thin) solid var(--divider-color);
+  border-left: var(--border-width-thin) solid var(--mist-text-dim);
 }
 
 /* Table column alignment */
@@ -256,7 +258,7 @@ dl dd {
   margin-bottom: 0.4rem;
 }
 .footnotes {
-  border-top: 1px solid var(--divider-color);
+  border-top: 1px solid var(--mist-text-dim);
   margin-top: 1rem;
 }
 

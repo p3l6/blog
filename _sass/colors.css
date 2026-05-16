@@ -1,0 +1,221 @@
+:root {
+
+  /* MIST COLORS START */
+
+  --mist-100:             #F1F6FC;
+  --mist-200:             #E0E5EB;
+  --mist-300:             #CDD1D8;
+  --mist-400:             #B3B8BE;
+  --mist-500:             #9DA2A8;
+  --mist-600:             #7F8489;
+  --mist-700:             #5D6166;
+  --mist-800:             #44484D;
+  --mist-900:             #2A2E33;
+
+  --mist-red-100:         #FFF1EF;
+  --mist-red-200:         #FFDBD5;
+  --mist-red-300:         #F9C1B8;
+  --mist-red-400:         #F59C8F;
+  --mist-red-500:         #E28376;
+  --mist-red-600:         #B96A5F;
+  --mist-red-700:         #894D45;
+  --mist-red-800:         #683832;
+  --mist-red-900:         #422420;
+
+  --mist-orange-100:      #FFF3EA;
+  --mist-orange-200:      #FBDECB;
+  --mist-orange-300:      #F4C7A8;
+  --mist-orange-400:      #EDA571;
+  --mist-orange-500:      #DA8D53;
+  --mist-orange-600:      #B27242;
+  --mist-orange-700:      #84532F;
+  --mist-orange-800:      #643D20;
+  --mist-orange-900:      #402715;
+
+  --mist-yellow-100:      #FBF4E9;
+  --mist-yellow-200:      #F2E3C6;
+  --mist-yellow-300:      #E6CEA0;
+  --mist-yellow-400:      #D8B161;
+  --mist-yellow-500:      #C59A3E;
+  --mist-yellow-600:      #A07D31;
+  --mist-yellow-700:      #775C21;
+  --mist-yellow-800:      #594415;
+  --mist-yellow-900:      #392C0F;
+
+  --mist-green-100:       #F0F8EC;
+  --mist-green-200:       #DAEBD0;
+  --mist-green-300:       #C0DBAF;
+  --mist-green-400:       #9BC77F;
+  --mist-green-500:       #82B262;
+  --mist-green-600:       #69914F;
+  --mist-green-700:       #4C6B39;
+  --mist-green-800:       #385028;
+  --mist-green-900:       #24331A;
+
+  --mist-cyan-100:        #E9F9F6;
+  --mist-cyan-200:        #C7EEE7;
+  --mist-cyan-300:        #A0E0D6;
+  --mist-cyan-400:        #57CEBF;
+  --mist-cyan-500:        #21B9AA;
+  --mist-cyan-600:        #19978A;
+  --mist-cyan-700:        #0F6F66;
+  --mist-cyan-800:        #05544C;
+  --mist-cyan-900:        #0A3530;
+
+  --mist-blue-100:        #ECF7FF;
+  --mist-blue-200:        #CEE9FE;
+  --mist-blue-300:        #ABD7F9;
+  --mist-blue-400:        #75C0F7;
+  --mist-blue-500:        #56AAE6;
+  --mist-blue-600:        #448ABC;
+  --mist-blue-700:        #30668B;
+  --mist-blue-800:        #214C6A;
+  --mist-blue-900:        #163143;
+
+  --mist-purple-100:      #F4F4FF;
+  --mist-purple-200:      #E2E1FF;
+  --mist-purple-300:      #CDCBFB;
+  --mist-purple-400:      #B1ADFA;
+  --mist-purple-500:      #9B96E9;
+  --mist-purple-600:      #7E79BE;
+  --mist-purple-700:      #5C598D;
+  --mist-purple-800:      #45426B;
+  --mist-purple-900:      #2C2A44;
+
+  --mist-magenta-100:     #FCF1FA;
+  --mist-magenta-200:     #F5DBF1;
+  --mist-magenta-300:     #EBC2E5;
+  --mist-magenta-400:     #E09ED8;
+  --mist-magenta-500:     #CC85C4;
+  --mist-magenta-600:     #A76BA0;
+  --mist-magenta-700:     #7B4E76;
+  --mist-magenta-800:     #5D3959;
+  --mist-magenta-900:     #3B2539;
+
+  /* MIST COLORS END */
+
+  /* LIGHT ALIASES START */
+
+  /* Content */
+  --mist-bg:              var(--mist-100);
+  --mist-bg-sel:          var(--mist-200);
+  --mist-border:          var(--mist-300);
+  --mist-border-sel:      var(--mist-400);
+  --mist-comment:         var(--mist-500);
+  --mist-text-dim:        var(--mist-700);
+  --mist-text:            var(--mist-900);
+  --inv-mist-bg:          var(--mist-900);
+  --inv-mist-bg-sel:      var(--mist-800);
+  --inv-mist-border:      var(--mist-700);
+  --inv-mist-border-sel:  var(--mist-600);
+  --inv-mist-comment:     var(--mist-500);
+  --inv-mist-text-dim:    var(--mist-400);
+  --inv-mist-text:        var(--mist-200);
+  /* Accents */
+  --mist-red:             var(--mist-red-600);
+  --mist-red-br:          var(--mist-red-400);
+  --inv-mist-red:         var(--mist-red-400);
+  --inv-mist-red-br:      var(--mist-red-600);
+  --mist-orange:          var(--mist-orange-600);
+  --mist-orange-br:       var(--mist-orange-400);
+  --inv-mist-orange:      var(--mist-orange-400);
+  --inv-mist-orange-br:   var(--mist-orange-600);
+  --mist-yellow:          var(--mist-yellow-600);
+  --mist-yellow-br:       var(--mist-yellow-400);
+  --inv-mist-yellow:      var(--mist-yellow-400);
+  --inv-mist-yellow-br:   var(--mist-yellow-600);
+  --mist-green:           var(--mist-green-600);
+  --mist-green-br:        var(--mist-green-400);
+  --inv-mist-green:       var(--mist-green-400);
+  --inv-mist-green-br:    var(--mist-green-600);
+  --mist-cyan:            var(--mist-cyan-600);
+  --mist-cyan-br:         var(--mist-cyan-400);
+  --inv-mist-cyan:        var(--mist-cyan-400);
+  --inv-mist-cyan-br:     var(--mist-cyan-600);
+  --mist-blue:            var(--mist-blue-600);
+  --mist-blue-br:         var(--mist-blue-400);
+  --inv-mist-blue:        var(--mist-blue-400);
+  --inv-mist-blue-br:     var(--mist-blue-600);
+  --mist-purple:          var(--mist-purple-600);
+  --mist-purple-br:       var(--mist-purple-400);
+  --inv-mist-purple:      var(--mist-purple-400);
+  --inv-mist-purple-br:   var(--mist-purple-600);
+  --mist-magenta:         var(--mist-magenta-600);
+  --mist-magenta-br:      var(--mist-magenta-400);
+  --inv-mist-magenta:     var(--mist-magenta-400);
+  --inv-mist-magenta-br:  var(--mist-magenta-600);
+
+  /* LIGHT ALIASES END */
+
+  /* Other colors that change in dark mode */
+  --outside-bg-color: var(--mist-blue-200);
+  --heading-color: var(--mist-blue-700);
+}
+
+@media screen and (prefers-color-scheme: dark) {
+  :root {
+  /* DARK ALIASES START */
+
+  /* Content */
+  --mist-bg:              var(--mist-900);
+  --mist-bg-sel:          var(--mist-800);
+  --mist-border:          var(--mist-700);
+  --mist-border-sel:      var(--mist-600);
+  --mist-comment:         var(--mist-500);
+  --mist-text-dim:        var(--mist-400);
+  --mist-text:            var(--mist-200);
+  --inv-mist-bg:          var(--mist-100);
+  --inv-mist-bg-sel:      var(--mist-200);
+  --inv-mist-border:      var(--mist-300);
+  --inv-mist-border-sel:  var(--mist-400);
+  --inv-mist-comment:     var(--mist-500);
+  --inv-mist-text-dim:    var(--mist-700);
+  --inv-mist-text:        var(--mist-900);
+  /* Accents */
+  --mist-red:             var(--mist-red-400);
+  --mist-red-br:          var(--mist-red-600);
+  --inv-mist-red:         var(--mist-red-600);
+  --inv-mist-red-br:      var(--mist-red-400);
+  --mist-orange:          var(--mist-orange-400);
+  --mist-orange-br:       var(--mist-orange-600);
+  --inv-mist-orange:      var(--mist-orange-600);
+  --inv-mist-orange-br:   var(--mist-orange-400);
+  --mist-yellow:          var(--mist-yellow-400);
+  --mist-yellow-br:       var(--mist-yellow-600);
+  --inv-mist-yellow:      var(--mist-yellow-600);
+  --inv-mist-yellow-br:   var(--mist-yellow-400);
+  --mist-green:           var(--mist-green-400);
+  --mist-green-br:        var(--mist-green-600);
+  --inv-mist-green:       var(--mist-green-600);
+  --inv-mist-green-br:    var(--mist-green-400);
+  --mist-cyan:            var(--mist-cyan-400);
+  --mist-cyan-br:         var(--mist-cyan-600);
+  --inv-mist-cyan:        var(--mist-cyan-600);
+  --inv-mist-cyan-br:     var(--mist-cyan-400);
+  --mist-blue:            var(--mist-blue-400);
+  --mist-blue-br:         var(--mist-blue-600);
+  --inv-mist-blue:        var(--mist-blue-600);
+  --inv-mist-blue-br:     var(--mist-blue-400);
+  --mist-purple:          var(--mist-purple-400);
+  --mist-purple-br:       var(--mist-purple-600);
+  --inv-mist-purple:      var(--mist-purple-600);
+  --inv-mist-purple-br:   var(--mist-purple-400);
+  --mist-magenta:         var(--mist-magenta-400);
+  --mist-magenta-br:      var(--mist-magenta-600);
+  --inv-mist-magenta:     var(--mist-magenta-600);
+  --inv-mist-magenta-br:  var(--mist-magenta-400);
+
+  /* DARK ALIASES END */
+
+    /* Other colors that change in dark mode */
+    --outside-bg-color: var(--mist-blue-800);
+    --heading-color: var(--mist-blue-300);
+  }
+}
+
+@media print {
+  :root {
+    --outside-bg-color: #FFFFFF;
+    --mist-bg: #FFFFFF;
+  }
+}

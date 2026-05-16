@@ -19,5 +19,6 @@ Clever of you to find it!
 * Dev stuff
   * [Reference](/dev/ref)
   * [WWDC](/dev/wwdc)
+  * [Mist colors](/dev/mist)
   * [Trivia Tracker](/dev/projects/triviatracker/)
   * [Tic Tac Cubed](/dev/projects/tictaccubed/)
