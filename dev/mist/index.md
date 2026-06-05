@@ -43,12 +43,12 @@ Each color is assigned a group of language syntax for highlighting purposes:
 
 * **Red:** Strings, Regex literals
 * **Orange:** Preproccessor
-* **Yellow:** Attributes, Numbers, Characters
-* **Green:** Classes, Types
-* **Cyan:** Functions, Methods
-* **Blue:** Declarations, Variables, Urls
-* **Purple:** Language Classes and Types and Functions
-* **Magenta:** Keywords, HTML tags
+* **Yellow:** Attributes, Numbers, Characters, Constants
+* **Green:** Functions, Methods
+* **Cyan:** Variables, Arguments, Class Properties
+* **Blue:** Classes, Types, Urls
+* **Purple:** Language (or built-in) Classes and Types and Functions
+* **Magenta:** Keywords, Storage Types, HTML Tags
   * Ideally, these are **bold**
 
 ## Color Codes

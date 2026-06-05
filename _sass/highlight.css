@@ -13,7 +13,7 @@ pre.highlight {
   background-color: var(--inv-mist-bg);
 
   /* Plain text */
-  .o, .ow, .vi, .vm { color: var(--inv-mist-text); }
+  .o, .ow, .vm { color: var(--inv-mist-text); }
 
   /* Comments */
   .c, .ch, .cm, .c1, .cs { color: var(--inv-mist-comment); }
@@ -22,28 +22,28 @@ pre.highlight {
   .s, .sa, .sb, .dl, .sd, .s2, .se, .sh, .si, .sx, .sr, .s1, .ss { color: var(--inv-mist-red); }
 
   /* Literals */
-  .l, .ld, .m, .mb, .mf, .mh, .mi, .mo, .sc, .il { color: var(--inv-mist-blue); }
+  .l, .ld, .m, .mb, .mf, .mh, .mi, .mo, .sc, .il { color: var(--inv-mist-yellow); }
 
   /* Keywords */
-  .k, .kc, .kd, .kn, .kp, .kr, .nt { color: var(--inv-mist-magenta); font-weight: bold; }
+  .k, .kc, .kd, .kn, .kp, .kr, .nt, .nd { color: var(--inv-mist-magenta); font-weight: bold; }
 
   /* Preprocessor */
-  .cp, .cpf { color: var(--inv-mist-orange); }
+  .cp, .cpf, .ni { color: var(--inv-mist-orange); }
 
   /* Attributes */
-  .na, .nd { color: var(--inv-mist-yellow); }
+  .na { color: var(--inv-mist-yellow); }
 
   /* Classes, Types */
-  .nc, .vc { color: var(--inv-mist-green); }
+  .nc, .ne, .nn { color: var(--inv-mist-blue); }
 
-  /* Declarations, Variables */
-  .n, .ni, .no, .nv, .vi { color:  var(--inv-mist-cyan); }
+  /* Variables */
+  .n, .no, .nv, .nx, .py, .vc, .vg, .vi { color:  var(--inv-mist-cyan); }
 
   /* Methods, Functions */
-  .ne, .nf, .nl, .nn, .nx, .py { color: var(--inv-mist-cyan); }
+  .nf, .fm, .nl, .nn, { color: var(--inv-mist-green); }
 
   /* Lang Types, Functions */
-  .nb, .vg, .bp, .fm, .kt { color: var(--inv-mist-purple); }
+  .nb, .nbc, .vg, .bp, .fm, .kt { color: var(--inv-mist-purple); }
 
   /* Parse errors */
   .err{ color: var(--inv-mist-red-br); }
