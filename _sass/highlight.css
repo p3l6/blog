@@ -40,7 +40,7 @@ pre.highlight {
   .n, .no, .nv, .nx, .py, .vc, .vg, .vi { color:  var(--inv-mist-cyan); }
 
   /* Methods, Functions */
-  .nf, .fm, .nl, .nn, { color: var(--inv-mist-green); }
+  .nf, .fm, .nl, .nn { color: var(--inv-mist-green); }
 
   /* Lang Types, Functions */
   .nb, .nbc, .vg, .bp, .fm, .kt { color: var(--inv-mist-purple); }
