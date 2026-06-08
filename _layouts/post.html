@@ -22,10 +22,10 @@ layout: base
     {% unless page.tags == empty %}
       <li>Tags: {{ page.tags }}</li>
     {% endunless %}
-    {% unless page.changes == empty %}
+    {% unless page.changes == nil %}
       <li>Changes:<ul>
       {% for change in page.changes %}
-        <li>{{ change }}</li>
+        <li>{{ change | markdownify | remove: '<p>' | remove: '</p>' }}</li>
       {% endfor %}
       </ul></li>
     {% endunless %}
