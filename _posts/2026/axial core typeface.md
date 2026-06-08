@@ -3,6 +3,8 @@ title: Axial Core Typeface
 summary: Axial Core is a custom typeface created for handwriting, focused on reducing the number of distinct shapes.
 date: 2026-04-12 21:00 -0400
 highlight: true
+changes:
+  - "8 June 2026: Exchanged the glyphs used for `t` and `l`"
 ---
 
 I have been working on a new handwriting typeface, which is aesthetically simpler than the traditional latin glyphs.
@@ -68,17 +70,17 @@ Many of the choices I made should be quite obvious, and I've added some justific
 * `G` looks like the 'hook' part of the uppercase G
 * `F` is an uncrossed f
 * `K` is the angled part of the k. Also, looks like a 'pointy' c
-* `L` has a top serif, as in many monospaced fonts. This was particularly tricky, since it is so similar to the uncrossed t (see next section for thoughts on base-height)
+* `L` looks like a lowercase l
 * `M` looks like the greek letter mu
 * `S` is a reverse c. Also it looks like the bottom half of an S
-* `T` is an uncrossed lowercase t
+* `T` is part of an uppercase T, with only one side of the top bar (see next section for thoughts on base-height)
 * `W` is a flipped-over M (to be fair, this was one of the last letters to be assigned, and kinda got what was left)
 * `X` is an uncrossed x
 * `Z` is a 'pointy' s
 
 ## Variations
 
-The group of stemmed quarter circles (`FLTJ`) presents an interesting choice regarding the position of the letters relative to the baseline.
+The group of stemmed quarter circles (`FTLJ`) presents an interesting choice regarding the position of the letters relative to the baseline.
 The two main options are presented in the next image.
 
 ![Height comparison for stemmed quarter circles](/assets/images/typeface/baseline.png)

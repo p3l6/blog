@@ -20,8 +20,8 @@ The mile marker numbers are approximate, they only exist on the digital map, and
 * 3 nights
 * 24 mi
 
-### (-8) -> 22
-* Amicalola state park -> Woody gap
+### (-8) → 22
+* Amicalola state park → Woody gap
 * May 2026
 * 3 nights
 * 28 mi
