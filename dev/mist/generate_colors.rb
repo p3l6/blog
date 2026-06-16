@@ -11,7 +11,7 @@ COLOR_HUES = {
   red: 29,
   orange: 56,
   yellow: 84,
-  green: 134,
+  green: 146,
   cyan: 184,
   blue: 242,
   purple: 286,
