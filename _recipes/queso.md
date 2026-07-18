@@ -1,5 +1,5 @@
 ---
-title: Beef Queso
+title: Queso
 meal: sauce
 date: 2026-07-10 09:00 -0400
 ---
@@ -7,18 +7,18 @@ date: 2026-07-10 09:00 -0400
 || Ingredients |
 |-:|-|
 1 lb   | ground beef
-1 C    | velveeta, cubed
+8 oz   | velveeta, cubed
 ½ C    | monterey jack, shredded
 ¼ C    | salsa
-½ C    | onion, chopped
+½      | onion, chopped
 1 can  | green chilies, drained (4oz)
-½ C    | tomatoes, diced
-2 Tbsp | jalapenos, chopped
+½      | large tomato, diced
+1      | jalapeño, chopped
 ¼ C    | cilantro
 1 tsp  | chili powder
 ½ tsp  | ground cumin
 ½ tsp  | dried oregano
-¼ tsp  | red pepper flakes
+½ tsp  | red pepper flakes
 
 ## Directions
 
@@ -30,3 +30,8 @@ date: 2026-07-10 09:00 -0400
 
 Dolly Parton Cookbook
 {: .source}
+
+### Appendix
+
+* Consider swapping beef for chorizo
+* It is pretty meaty, consider using less beef
