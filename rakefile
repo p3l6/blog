@@ -2,8 +2,13 @@
 
 task default: :serve
 
+desc 'Builds, for github pages'
+task build: [:bundle, :typst, :docset, :icons] do
+  sh 'bundle exec jekyll build --trace'
+end
+
 desc 'Run site locally, and watch for changes (including unpublished posts)'
-task serve: [:bundle, :typst, :docset, :open] do
+task serve: [:bundle, :typst, :docset, :icons, :open] do
   sh 'bundle exec jekyll serve --host "0.0.0.0" --unpublished'
 end
 
@@ -29,9 +34,21 @@ task :docset do
   sh 'cp dev/ref/.util/tmp/Reference.docset.zip assets/zips/'
 end
 
-desc 'Builds, for github pages'
-task build: [:bundle, :typst, :docset] do
-  sh 'bundle exec jekyll build --trace'
+desc 'Renders svg icons as pngs'
+task :icons do
+  corners = { square: 0, round: 15, circle: 40 }
+  widths = [1024, 512, 256, 192, 180, 128]
+
+  corners.each_pair  do |name, radius|
+    sh "sed 's|rx=\"0\"/><!-- CLIP -->|rx=\"#{radius}\"/>|' assets/icon/boat.svg > assets/icon/boat-#{name}.svg"
+    widths.each do |width|
+      sh "resvg -w #{width} assets/icon/boat-#{name}.svg assets/icon/boat-#{name}-#{width}.png"
+    end
+  end
+
+  sh 'cp assets/icon/boat-round-192.png assets/icon/android-chrome-192x192.png'
+  sh 'cp assets/icon/boat-round-512.png assets/icon/android-chrome-512x512.png'
+  sh 'cp assets/icon/boat-round-180.png assets/icon/apple-touch-icon.png'
 end
 
 desc 'Opens local page in browser'

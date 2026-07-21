@@ -9,5 +9,12 @@
         "allowed": false
       }
     }
+  },
+  "lsp": {
+    "solargraph": {
+      "settings": {
+        "use_bundler": false
+      }
+    }
   }
 }

@@ -1,5 +1,6 @@
 ---
 title: Contact & Accounts
+logo: /assets/images/logos/p3l6.svg
 redirect_from:
   - /accounts/
   - /card/

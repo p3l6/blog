@@ -15,6 +15,9 @@ jobs:
           bundler-cache: true
       - uses: typst-community/setup-typst@v4
       - uses: pandoc/actions/setup@v1
+      - uses: Homebrew/actions/setup-homebrew@1f8e202ffddf94def7f42f6fa3a482e821489f9c # 2026.07.10.1
+      - name: Brew install
+        run: brew install resvg
       - name: Run Jekyll
         run: rake build
       - name: Upload Pages artifact
