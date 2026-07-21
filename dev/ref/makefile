@@ -9,20 +9,21 @@
 # - https://kapeli.com/docsets#addingicon
 
 
-DOCSET_NAME=.util/tmp/Reference
+DOCSET_NAME=Reference
 
 MD=$(wildcard *.md)
-HTML=$(MD:%.md=$(DOCSET_NAME).docset/Contents/Resources/Documents/%.html)
+HTML=$(MD:%.md=.util/tmp/$(DOCSET_NAME).docset/Contents/Resources/Documents/%.html)
 
-all: $(DOCSET_NAME).docset.zip
+all: .util/tmp/$(DOCSET_NAME).docset.zip
 .phony: all
 
-$(DOCSET_NAME).docset.zip: $(DOCSET_NAME).docset/Contents/Info.plist .util/tmp/github-markdown.css $(HTML) $(DOCSET_NAME).docset/Contents/Resources/docSet.dsidx
-	zip -r $@ $(DOCSET_NAME).docset/
+.util/tmp/$(DOCSET_NAME).docset.zip: .util/tmp/$(DOCSET_NAME).docset/Contents/Info.plist .util/tmp/github-markdown.css $(HTML) .util/tmp/$(DOCSET_NAME).docset/Contents/Resources/docSet.dsidx
+	cp ../../assets/icon/boat-round-32.png .util/tmp/$(DOCSET_NAME).docset/icon.png
+	zip -r $@ .util/tmp/$(DOCSET_NAME).docset/
 
 .util/tmp/dbload.sql: $(HTML)
 	mkdir -p .util/tmp
-	echo '.open $(DOCSET_NAME).docset/Contents/Resources/docSet.dsidx' > $@
+	echo '.open .util/tmp/$(DOCSET_NAME).docset/Contents/Resources/docSet.dsidx' > $@
 	echo 'DROP TABLE IF EXISTS searchIndex;' >> $@
 	echo 'CREATE TABLE searchIndex(id INTEGER PRIMARY KEY, name TEXT, type TEXT, path TEXT);' >> $@
 	echo 'CREATE UNIQUE INDEX anchor ON searchIndex (name, type, path);' >> $@
@@ -32,21 +33,21 @@ $(DOCSET_NAME).docset.zip: $(DOCSET_NAME).docset/Contents/Info.plist .util/tmp/g
 		sed -nE 's|<h. id="([^"]*)"[^>]*>([^<]*) +<!-- *([^ ]*) *--><.h.>|INSERT OR IGNORE INTO searchIndex(name, type, path) VALUES ('"'\2', '\3', '$$name#\1');|p" $$f >> $@ ; \
 	done
 
-$(DOCSET_NAME).docset/Contents/Resources/docSet.dsidx: .util/tmp/dbload.sql
-	mkdir -p $(DOCSET_NAME).docset/Contents/Resources
-	rm -rf $(DOCSET_NAME).docset/Contents/Resources/optimizedIndex.dsidx
+.util/tmp/$(DOCSET_NAME).docset/Contents/Resources/docSet.dsidx: .util/tmp/dbload.sql
+	mkdir -p .util/tmp/$(DOCSET_NAME).docset/Contents/Resources
+	rm -rf .util/tmp/$(DOCSET_NAME).docset/Contents/Resources/optimizedIndex.dsidx
 	sqlite3 < $^
 
-$(DOCSET_NAME).docset/Contents/Resources/Documents/%.html: %.md
-	mkdir -p $(DOCSET_NAME).docset/Contents/Resources/Documents
+.util/tmp/$(DOCSET_NAME).docset/Contents/Resources/Documents/%.html: %.md
+	mkdir -p .util/tmp/$(DOCSET_NAME).docset/Contents/Resources/Documents
 	pandoc --standalone --template=.util/scripts/template \
 		--embed-resource -c .util/tmp/github-markdown.css \
 		--lua-filter=.util/scripts/dash-anchor-filter.lua \
 		--wrap=preserve \
 		-f gfm -t html -o $@ $^
 
-$(DOCSET_NAME).docset/Contents/Info.plist: .util/scripts/Info.plist
-	mkdir -p $(DOCSET_NAME).docset/Contents
+.util/tmp/$(DOCSET_NAME).docset/Contents/Info.plist: .util/scripts/Info.plist
+	mkdir -p .util/tmp/$(DOCSET_NAME).docset/Contents
 	sed 's|__DOCSET_NAME__|$(DOCSET_NAME)|' $^ > $@
 
 .util/tmp/github-markdown.css:
@@ -54,5 +55,4 @@ $(DOCSET_NAME).docset/Contents/Info.plist: .util/scripts/Info.plist
 	curl "https://raw.githubusercontent.com/sindresorhus/github-markdown-css/gh-pages/github-markdown.css" > $@
 
 clean:
-	rm -rf $(DOCSET_NAME).docset
 	rm -rf .util/tmp

@@ -3,12 +3,12 @@
 task default: :serve
 
 desc 'Builds, for github pages'
-task build: [:bundle, :typst, :docset, :icons] do
+task build: [:bundle, :typst, :icons, :docset] do
   sh 'bundle exec jekyll build --trace'
 end
 
 desc 'Run site locally, and watch for changes (including unpublished posts)'
-task serve: [:bundle, :typst, :docset, :icons, :open] do
+task serve: [:bundle, :typst, :icons, :docset, :open] do
   sh 'bundle exec jekyll serve --host "0.0.0.0" --unpublished'
 end
 
@@ -37,7 +37,7 @@ end
 desc 'Renders svg icons as pngs'
 task :icons do
   corners = { square: 0, round: 15, circle: 40 }
-  widths = [1024, 512, 256, 192, 180, 128]
+  widths = [1024, 512, 256, 192, 180, 128, 32]
 
   corners.each_pair  do |name, radius|
     sh "sed 's|rx=\"0\"/><!-- CLIP -->|rx=\"#{radius}\"/>|' assets/icon/boat.svg > assets/icon/boat-#{name}.svg"
