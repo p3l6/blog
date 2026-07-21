@@ -20,5 +20,6 @@ Clever of you to find it!
   * [Reference](/dev/ref)
   * [WWDC](/dev/wwdc)
   * [Mist colors](/dev/mist)
+  * [Icons](/lists/icons)
   * [Trivia Tracker](/dev/projects/triviatracker/)
   * [Tic Tac Cubed](/dev/projects/tictaccubed/)
