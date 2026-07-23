@@ -46,6 +46,12 @@ I borrowed the aesthetic, and derived the appropriate css for myself, adding my 
 
 The colors are a custom palette that I call _Mist_, generated using the OKLCH color space. Details can be found on a [dedicated page](/dev/mist/).
 
+## Icon
+
+I created the ship icon in [svg format](https://github.com/p3l6/blog/blob/main/assets/icon/boat.svg?short_path=851c1aa) by hand, using [svg-tutorial](https://svg-tutorial.com) as a guide, and Inkpad Libre for sketching ideas.
+I use this icon for the site logo, as well as as an avatar for accounts around the web.
+It was inspired by the [banner](https://www.creeds.net/reformed/banners/scots_confession_banner.htm) associated with the 1560 [Scot's Confession](https://en.wikipedia.org/wiki/Scots_Confession).
+
 ## License
 
 This entire blog, which is for the most part text, but also includes some generation code, is provided under a Creative Commons license. See the [repository license file](https://github.com/p3l6/blog/blob/main/LICENSE) for more details.

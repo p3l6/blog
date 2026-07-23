@@ -53,7 +53,7 @@ I decided that a method using OKLCH like this would work well for my goals.
 Using the same color levels, names, and approximate lightness/chroma scales, I started writing [my own generation script](https://github.com/p3l6/blog/tree/main/dev/mist/generate_colors.rb), to convert the input arrays of lightness/chroma/hue into preview swatches and color codes. Since my constraints were a lot tighter, the script ended up fairly simple, at least for color calculation and conversions.
 
 Once the basic script was working, I started experimenting with different hues.
-I used the color picker on [oklch.com](oklch.com), and looked for hues that were similar to colors I've liked in the past: Xcode, Dracula, existing blog colors, etc. I picked a few colors this way, and interpolated or spaced out the remaining colors in between them.
+I used the color picker on [oklch.com](https://oklch.com), and looked for hues that were similar to colors I've liked in the past: Xcode, Dracula, existing blog colors, etc. I picked a few colors this way, and interpolated or spaced out the remaining colors in between them.
 I initially picked the background color based on Xcode's default line highlight, and ended up using its resemblance to mist to name the theme.
 
 With the script inside my blog repository, I chose to have it output css variables and color codes directly into source files, overwriting their previous contents.
@@ -64,5 +64,5 @@ I went about trying to adjust the lightness/chroma levels to have more contrast 
 
 It came down to three separate changes that wrapped up the project:
 * I dropped some color levels. I was using 13 levels per color, like flexoki, but 9 were sufficient for my needs. I also dropped the extra shades for 'paper' and 'black', opting to just let those be the 100/900 levels of the base color.
-* I realized that [Harmoizer](harmonizer.evilmartians.com) (which I had seen at the beginning but did not have the context yet to understand it) was exactly what I wanted to help choose lightness and chroma values. This tool considers the APCA contrast rating between text and background, to make sure text is legible.
+* I realized that [Harmoizer](https://harmonizer.evilmartians.com) (which I had seen at the beginning but did not have the context yet to understand it) was exactly what I wanted to help choose lightness and chroma values. This tool considers the APCA contrast rating between text and background, to make sure text is legible.
 * But the biggest factor was human error. I had assumed the light mode palette was the issue, since my dark mode terminal looked fine. But, in fact it was Xcode's color picker to blame. You cannot simply enter hex codes into an Xcode theme, you must use the macOS system color picker. It defaulted to linear-rgb input instead of sRGB, which resulted in most of the colors I entered appearing significantly lighter than intended.
