@@ -17,8 +17,9 @@ The original goal with this was to never re-read a book already on the list! Whe
 
 ### 2026
 
-{:booklist start="303"}
+{:booklist start="304"}
 
+304. Platform Decay / Martha Wells
 303. The Hero of Ages / Brandon Sanderson
 302. The Well of Ascension / Brandon Sanderson
 301. System Collapse / Martha Wells

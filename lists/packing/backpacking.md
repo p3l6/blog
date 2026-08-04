@@ -23,7 +23,7 @@ title: Backpacking pack list
   * Food
     * Oatmeal / Cliff bar
     * Tuna / Torilla / Cracker
-    * Summer sausage / Spicy cheese / Dried fruit / Chocolate / Jelly beans
+    * Summer sausage / Spicy cheese / Dried fruit / Chocolate / Jelly beans / Cookies
     * Freeze dried dinners
     * Red pepper flakes
   * Smell kit
