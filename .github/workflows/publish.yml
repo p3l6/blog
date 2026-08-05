@@ -11,6 +11,9 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: go-task/setup-task@v2
+      - uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.164.0'
       - uses: typst-community/setup-typst@v4
       - uses: pandoc/actions/setup@v1
       - uses: Homebrew/actions/setup-homebrew@1f8e202ffddf94def7f42f6fa3a482e821489f9c # 2026.07.10.1
