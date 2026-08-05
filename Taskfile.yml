@@ -37,12 +37,13 @@ tasks:
   icons:
     desc: Renders svg icons as pngs
     cmds:
-      - ./task-icons.zsh
+      - ./task-icons.sh
       - cp content/site/icon/boat-round-192.png static/android-chrome-192x192.png
       - cp content/site/icon/boat-round-512.png static/android-chrome-512x512.png
       - cp content/site/icon/boat-round-180.png static/apple-touch-icon.png
   docset:
     desc: Creates a Dash.app docset from reference pages
+    deps: [icons]
     cmds:
       - make -C content/dev/ref
       - mkdir -p static/zips/
