@@ -1,19 +1,9 @@
+.hugo_build.lock
+public/
 
-# Created by https://www.gitignore.io/api/jekyll
-# Edit at https://www.gitignore.io/?templates=jekyll
+static/pdfs/resume.pdf
+static/android-chrome*
+static/apple-touch-icon.png
+static/zips/
 
-### Jekyll ###
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
-.bundle
-vendor/**
-Gemfile.lock
-
-# End of https://www.gitignore.io/api/jekyll
-
-assets/pdfs/resume.pdf
-assets/zips/
-
-dev/ref/.util/tmp/
+content/dev/ref/.util/tmp/

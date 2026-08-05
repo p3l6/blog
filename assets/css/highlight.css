@@ -1,0 +1,49 @@
+/* A hugo highlighting theme, using the site's Mist colors */
+
+code {
+  color: var(--mist-cyan);
+}
+
+pre code {
+  color: var(--inv-mist-text);
+}
+
+pre {
+  color: var(--inv-mist-text);
+  background-color: var(--inv-mist-bg);
+}
+
+pre.chroma {
+  /* Plain text */
+  .o, .w { color: var(--inv-mist-text); }
+
+  /* Comments */
+  .c, .ch, .cm, .c1, .cs{ color: var(--inv-mist-comment); }
+
+  /* Strings */
+  .s, .sa, .sb, .dl, .sd, .s2, .se, .sh, .si, .sx, .sr, .s1, .ss { color: var(--inv-mist-red); }
+
+  /* Literals */
+  .sc, .m, .mb, .mf, .mh, .mi, .il, .mo { color: var(--inv-mist-yellow); }
+
+  /* Keywords */
+  .k, .kc, .kd, .kn, .kp, .kr, .kt, .nt, .ow, .or { color: var(--inv-mist-magenta); font-weight: bold; }
+
+  /* Preprocessor */
+  .nd, .cp, .cpf { color: var(--inv-mist-orange); }
+
+  /* Attributes */
+  .na { color: var(--inv-mist-yellow); }
+
+  /* Classes, Types */
+  .nc, .nn { color: var(--inv-mist-blue); }
+
+  /* Variables */
+  .no, .ni, .ne, .nl, .nv, .vc, .vg, .vi, .vm { color:  var(--inv-mist-cyan); }
+
+  /* Methods, Functions */
+  .nf, .fm { color: var(--inv-mist-green); }
+
+  /* Lang Types, Functions */
+  .nb, .bp { color: var(--inv-mist-purple); }
+}

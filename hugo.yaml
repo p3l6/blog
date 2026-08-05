@@ -1,0 +1,25 @@
+baseURL: https://ers.land/
+locale: en-us
+title: Paul Landers
+
+disableKinds: ['taxonomy', 'term']
+
+markup:
+  highlight:
+    noClasses: false # use css theme instead of built-ins
+  goldmark:
+    parser:
+      attribute:
+        block: true
+    extensions:
+      extras:
+        mark:
+          enable: true
+module:
+  mounts:
+    - source: 'content'
+      target: 'content'
+      # Exclude non-content files inside the content directory
+      files:
+        - '! **/[Rr]eadme.md'
+        - '! **/[Mm]akefile'

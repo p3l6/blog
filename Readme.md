@@ -1,5 +1,5 @@
 ## Repo storage for my personal developer website
-[p3l6.dev](https://p3l6.dev)
+[ers.land](https://ers.land)
 
 I don't expect readers or viewers of this blog (other than the resume portions when I am actively looking for work).
 As such, I maintain and post to it as a *personal digital garden*, for my own enjoyment.
@@ -11,6 +11,38 @@ As such, I maintain and post to it as a *personal digital garden*, for my own en
   2. `typst`
   3. `resvg`
 2. `rake serve`
+
+
+
+
+
+
+## Hugo notes
+
+new local cmd:  `hugo serve -DNO`
+
+
+
+## to grok:
+
+weird stuff gongin on with sections and _index files. how are list pages made?
+
+layout system still  is odd.
+
+scss?
+
+
+
+## parity notes
+
+- expect issues with rss feed permalink. need to override
+- use aliases for moved documents
+
+
+
+
+
+
 
 ## Including images
 Both alt text and title are optional. Reminder:

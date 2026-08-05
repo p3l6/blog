@@ -1,0 +1,49 @@
+# yaml-language-server: $schema=https://taskfile.dev/schema.json
+
+version: '3'
+
+tasks:
+  default:
+    cmds:
+      - task: serve
+
+
+  serve:
+    desc: Run site locally, watch for changes, and refresh browser (including unpublished posts)
+    deps: [all_deps]
+    cmd: hugo serve -DNO
+  wifi:
+    desc: Serve on wifi for other devices
+    deps: [all_deps]
+    vars:
+      IP_ADDR:
+        sh: ifconfig en0 | grep 'inet ' | grep -v '127.0.0.1' | awk '{print $2}'
+    cmd: hugo serve -DNO --bind 0.0.0.0 --baseURL http://{{.IP_ADDR}}:1313
+  build:
+    desc: Builds, for github pages
+    deps: [all_deps]
+    cmd: hugo build
+
+
+  all_deps:
+    deps:
+      - typst
+      - icons
+      - docset
+  typst:
+    # // :TODO: Move this to a custom hugo conversion thing
+    desc: Compiles typst documents to pdf
+    cmd: typst compile content/about/cv/resume.typ static/pdfs/resume.pdf
+  icons:
+    desc: Renders svg icons as pngs
+    cmds:
+      - ./task-icons.zsh
+      - cp content/site/icon/boat-round-192.png static/android-chrome-192x192.png
+      - cp content/site/icon/boat-round-512.png static/android-chrome-512x512.png
+      - cp content/site/icon/boat-round-180.png static/apple-touch-icon.png
+  docset:
+    desc: Creates a Dash.app docset from reference pages
+    cmds:
+      - make -C content/dev/ref
+      - mkdir -p static/zips/
+      - cp content/dev/ref/.util/tmp/Reference.docset.zip static/zips/

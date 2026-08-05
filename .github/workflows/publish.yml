@@ -10,18 +10,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: ruby/setup-ruby@v1
-        with:
-          bundler-cache: true
+      - uses: go-task/setup-task@v2
       - uses: typst-community/setup-typst@v4
       - uses: pandoc/actions/setup@v1
       - uses: Homebrew/actions/setup-homebrew@1f8e202ffddf94def7f42f6fa3a482e821489f9c # 2026.07.10.1
-      - name: Brew install
-        run: brew install resvg
-      - name: Run Jekyll
-        run: rake build
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
+      - run: brew install resvg
+      - run: task build
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public/
 
   deploy:
     needs: build

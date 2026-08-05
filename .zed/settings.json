@@ -3,18 +3,5 @@
     "Markdown": {
       "remove_trailing_whitespace_on_save": true
     },
-    "SCSS": {
-      "prettier": {
-        // Disabled because it makes them too verbose
-        "allowed": false
-      }
-    }
   },
-  "lsp": {
-    "solargraph": {
-      "settings": {
-        "use_bundler": false
-      }
-    }
-  }
 }

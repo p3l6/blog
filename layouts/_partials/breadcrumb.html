@@ -1,0 +1,12 @@
+<div class="breadcrumb">
+  <ol>
+    {{ range .Ancestors.Reverse }}
+      <li>
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      </li>
+    {{ end }}
+    <li class="active">
+      <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+    </li>
+  </ol>
+</div>

@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en-US">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" media="(prefers-color-scheme: light)" content="#CEE9FE" />
+  <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#214C6A" />
+  <!--{% feed_meta %}-->
+  {{ partialCached "css.html" . }}
+  <link rel="icon" href="/site/icon/boat-round.svg" type="image/svg+xml">
+  <link rel="icon" href="/site/icon/favicon.ico" sizes="32x32">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <!--// :TODO: copy this thing to static? or via asset pipeline? -->
+  <link rel="manifest" href="/site/icon/site.webmanifest">
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+
+<body>
+  <header class="mobile-title-url">
+    <h2>ers.land|<a href="#nav">☰</a></h2>
+  </header>
+  <!--// :TODO: this should go in the header, on the same line as the mobile title -->
+  {{ partial "breadcrumb.html" . }}
+  <main>
+    <header>
+      <h1>{{ .Title }}</h1>
+    </header>
+    <article>
+     	{{ block "main" . }}
+     	{{ end }}
+    </article>
+  </main>
+  <nav id="nav">
+    <h2>ers.land</h2>
+    <hr />
+    {{ partial "nav.html" . }}
+    <!--// :TODO: page override-->
+  <img src="/site/icon/boat-round.svg" alt="Logo" />
+  </nav>
+</body>
+
+</html>
