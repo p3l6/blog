@@ -7,37 +7,36 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" media="(prefers-color-scheme: light)" content="#CEE9FE" />
   <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#214C6A" />
-  <!--{% feed_meta %}-->
-  {{ partialCached "css.html" . }}
+  {{- partialCached "feed.html" . }}
+  {{- partialCached "css.html" . }}
   <link rel="icon" href="/site/icon/boat-round.svg" type="image/svg+xml">
   <link rel="icon" href="/site/icon/favicon.ico" sizes="32x32">
   <link rel="apple-touch-icon" href="/apple-touch-icon.png">
-    <!--// :TODO: copy this thing to static? or via asset pipeline? -->
-  <link rel="manifest" href="/site/icon/site.webmanifest">
+  <link rel="manifest" href="/site.webmanifest">
+  {{- if .Param "math" }}
   <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  {{- end }}
 </head>
 
 <body>
-  <header class="mobile-title-url">
-    <h2>ers.land|<a href="#nav">☰</a></h2>
+  <header class="site-top-bar">
+    {{ partial "breadcrumb.html" . }}
+    <h2 class="mobile-title-url">ers.land|<a href="#main-nav">☰</a></h2>
   </header>
-  <!--// :TODO: this should go in the header, on the same line as the mobile title -->
-  {{ partial "breadcrumb.html" . }}
   <main>
     <header>
       <h1>{{ .Title }}</h1>
     </header>
     <article>
-     	{{ block "main" . }}
-     	{{ end }}
+     	{{- block "main" . }}
+     	{{- end -}}
     </article>
   </main>
-  <nav id="nav">
-    <h2>ers.land</h2>
+  <nav id="nav" class="main-nav">
+    <h2><a href="/">ers.land</a></h2>
     <hr />
-    {{ partial "nav.html" . }}
-    <!--// :TODO: page override-->
-  <img src="/site/icon/boat-round.svg" alt="Logo" />
+    {{- partial "nav.html" . }}
+    <img src={{ .Params.logo | default .Site.Params.logo }} alt="Logo" />
   </nav>
 </body>
 

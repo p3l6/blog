@@ -2,9 +2,9 @@
 <section>
 	{{ .Content }}
 	<ul>
-	{{ range .Pages }}
+	{{- range .Pages }}
     <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
-  {{ end }}
+  {{- end }}
 	</ul>
 </section>
 

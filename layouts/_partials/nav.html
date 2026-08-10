@@ -1,28 +1,27 @@
-{{ $page := . }}
+{{- $page := . }}
 {{- range  site.Menus.main }}
-  {{ $selected := or ($page.IsMenuCurrent .Menu .) ($page.HasMenuCurrent .Menu .) }}
-    <!-- // :TODO: this replaces selectedNav property?-->
+  {{- $selected := or ($page.IsMenuCurrent .Menu .) ($page.HasMenuCurrent .Menu .) }}
   {{- if $selected }}
-    <a class="current" href="{{ .URL }}">
+    <a class="menuitem current" href="{{ .URL }}">
   {{- else}}
-    <a href="{{ .URL }}">
+    <a class="menuitem" href="{{ .URL }}">
   {{- end }}
-  {{ .Name }}
+  {{- .Name -}}
   </a>
   {{- if $selected }}
     {{- with .Children }}
       <hr />
       {{- range . }}
-        {{ $childSelected := or ($page.IsMenuCurrent .Menu .) ($page.HasMenuCurrent .Menu .) }}
+        {{- $childSelected := or ($page.IsMenuCurrent .Menu .) ($page.HasMenuCurrent .Menu .) }}
         {{- if $childSelected }}
-          <a class="current" href="{{ .URL }}">
-        {{- else}}
-          <a href="{{ .URL }}">
+          <a class="menuitem child current" href="{{ .URL }}">
+        {{- else }}
+          <a class="menuitem child" href="{{ .URL }}">
         {{- end }}
-        {{ .Name }}
+        {{- .Name -}}
         </a>
       {{- end }}
       <hr />
     {{- end }}
   {{- end }}
-{{- end }}
+{{- end -}}

@@ -1,3 +1,25 @@
 {{ define "main" }}
 	{{ .Content }}
+
+	{{ $latest := index (where .Site.RegularPages.ByDate "Section" "blog") 1 }}
+ 	<h2>Latest Blog Post: <a href="{{ $latest.RelPermalink }}">{{$latest.Title}}</a></h2>
+ 	{{ $latest.Summary }}
+
+ 	<blockquote>{{ $latest.Content | strings.Truncate 300 }} <a href="{{ $latest.RelPermalink }}">Keep reading post</a></blockquote>
+
+ 	<em>/ {{ $latest.Date | time.Format "2 Jan 2006"}} /</em>
+
+	<h2> Highlighted Posts: </h2>
+
+	<ul>
+	{{ $posts := where (where .Site.RegularPages "Section" "blog") ".Params.highlight" true  }}
+	{{ range $posts }}
+	  <li>
+	  <a href="{{ .RelPermalink }}">{{.Title}}</a>: {{.Summary}} <br/>
+	  <em>/ {{ .Date | time.Format "2 Jan 2006"}} /</em>
+    </li>
+	{{ end }}
+  </ul>
+
+  <a href="/blog">All blog posts</a>
 {{ end }}

@@ -1,4 +1,5 @@
-## Repo storage for my personal developer website
+## Repo storage for my personal website
+
 [ers.land](https://ers.land)
 
 I don't expect readers or viewers of this blog (other than the resume portions when I am actively looking for work).
@@ -7,44 +8,29 @@ As such, I maintain and post to it as a *personal digital garden*, for my own en
 ## Running locally
 
 1. Install stuff
-  1. `rbenv` & install the ruby version from `.ruby-version`
+  1. `hugo`
   2. `typst`
   3. `resvg`
-2. `rake serve`
+  4. `go-task`
+2. `task serve`
 
+## Generic hugo notes
 
+* You cant use any {{ go template }} stuff in content files. It has to all go in layouts
+  * I've allowed inline shortcodes, but try not to use them. The default is good separation
+* Front matter dates require seconds
+* Preferred time format: `{{ .Date | time.Format "2 Jan 2006"}}`
+* Tables usually require headers, but I am using a custom render hook to:
+  * Omit a blank header `| | |`
+  * Replace separator rows `| - | - | - |` with a line, as kramdown would have done
 
+## Callouts
 
-
-
-## Hugo notes
-
-new local cmd:  `hugo serve -DNO`
-
-
-
-## to grok:
-
-weird stuff gongin on with sections and _index files. how are list pages made?
-
-layout system still  is odd.
-
-scss?
-
-
-
-## parity notes
-
-- expect issues with rss feed permalink. need to override
-- use aliases for moved documents
-
-
-
-
-
-
+Used like `> [!NOTE] Optional title override`
+Callout types are NOTE, TIP, IMPORTANT, WARNING, ABSTRACT, SOURCE (defined in css)
 
 ## Including images
+
 Both alt text and title are optional. Reminder:
 * alt text: shows when image fails to load, should describe the image
 * title: aka hover-text. use to describe something unclear about an image
@@ -55,19 +41,16 @@ OR
 then later,
 [footnote]: /path/to/image "Title - extra information"
 
+## Block attributes
 
-## Kramdown extras reference
-
-https://kramdown.gettalong.org/quickref.html
-
-Notably, add html markup following blocks with "block inline attribute list"s:
+Add html markup following blocks:
 
 ```
-{: title="Blockquote title"}
-{: .class1 .class2}
-{: #with-an-id}
-{: style="color: red"}
-{:height="36px" width="36px"}.
+{.class1 .class2}
+{#with-an-id}
+{title="Blockquote title"}
+{style="color: red"}
+{height="36px" width="36px"}.
 ```
 
 ## To do

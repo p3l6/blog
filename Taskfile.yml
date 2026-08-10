@@ -32,7 +32,6 @@ tasks:
       - icons
       - docset
   typst:
-    # // :TODO: Move this to a custom hugo conversion thing
     desc: Compiles typst documents to pdf
     cmd: typst compile content/about/cv/resume.typ static/pdfs/resume.pdf
   icons:

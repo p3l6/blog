@@ -1,8 +1,22 @@
 baseURL: https://ers.land/
 locale: en-us
 title: Paul Landers
+timeZone: America/New_York
 
 disableKinds: ['taxonomy', 'term']
+noBuildLock: true
+pluralizeListTitles: false
+
+params:
+  logo: /site/icon/boat-round.svg
+  math: false
+  description: Paul Landers' hobbies and software
+  author:
+    email: paul@ers.land
+    name: Paul Landers
+
+security:
+  enableInlineShortcodes: true
 
 markup:
   highlight:
@@ -15,6 +29,13 @@ markup:
       extras:
         mark:
           enable: true
+      passthrough:
+        delimiters:
+          block:
+          - - $$
+            - $$
+        enable: true
+
 module:
   mounts:
     - source: 'content'
@@ -23,3 +44,28 @@ module:
       files:
         - '! **/[Rr]eadme.md'
         - '! **/[Mm]akefile'
+
+# ATOM FEED
+
+mainSections:
+  - blog
+  - cook
+
+mediaTypes:
+  application/atom+xml:
+    suffixes:
+      - xml
+
+outputFormats:
+  ATOM:
+    mediaType: application/atom+xml
+    baseName: feed
+
+outputs:
+  home: ['html', 'atom']
+  page: ['html']
+  section: ['html']
+
+services:
+  rss:
+    limit: 16

@@ -1,0 +1,65 @@
+<table
+  {{- range $k, $v := .Attributes }}
+    {{- if $v }}
+      {{- printf " %s=%q" $k $v | safeHTMLAttr }}
+    {{- end }}
+  {{- end }}>
+
+  {{/* This skips header if it is empty */}}
+
+  {{- $isEmpty := true }}
+  {{- range .THead }}
+    {{- range . }}
+      {{- if not (findRE `^ *$` .Text) }}
+        {{- $isEmpty = false }}
+      {{- end }}
+    {{- end }}
+  {{- end }}
+
+  {{- if not $isEmpty }}
+    <thead>
+      {{- range .THead }}
+        <tr>
+          {{- range . }}
+            <th
+              {{- with .Alignment }}
+                {{- printf " style=%q" (printf "text-align: %s" .) | safeHTMLAttr }}
+              {{- end -}}
+            >
+              {{- .Text -}}
+            </th>
+          {{- end }}
+        </tr>
+      {{- end }}
+    </thead>
+  {{- end }}
+  <tbody>
+    {{- range .TBody }}
+
+    {{/* This adds kramdown-style separators to rows with only dashes */}}
+
+    {{- $isSeparator := true }}
+    {{- range . }}
+      {{- if not (findRE `^ ?(&mdash;|-)+ ?$` .Text) }}
+        {{- $isSeparator = false }}
+      {{- end }}
+    {{- end }}
+
+    {{- if $isSeparator }}
+      {{- safeHTML "</tbody><tbody>" }}
+    {{- else }}
+      <tr>
+        {{- range . }}
+          <td
+            {{- with .Alignment }}
+              {{- printf " style=%q" (printf "text-align: %s" .) | safeHTMLAttr }}
+            {{- end -}}
+          >
+            {{- .Text -}}
+          </td>
+        {{- end }}
+      </tr>
+      {{- end }}
+    {{- end }}
+  </tbody>
+</table>

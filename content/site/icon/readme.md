@@ -1,4 +1,4 @@
-Most icons are dynamically created by the rakefile.
+Most icons are dynamically created by the taskfile.
 
 You don't need that many favicon types: https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs
 
