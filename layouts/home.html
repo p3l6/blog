@@ -1,7 +1,7 @@
 {{ define "main" }}
 	{{ .Content }}
 
-	{{ $latest := index (where .Site.RegularPages.ByDate "Section" "blog") 1 }}
+	{{ $latest := index (where .Site.RegularPages.ByDate.Reverse "Section" "blog") 0 }}
  	<h2>Latest Blog Post: <a href="{{ $latest.RelPermalink }}">{{$latest.Title}}</a></h2>
  	{{ $latest.Summary }}
 

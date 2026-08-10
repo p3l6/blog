@@ -6,3 +6,10 @@
   --main-font: 'Latin Modern Roman', Georgia, Cambria, 'Times New Roman', Times, serif;
   --mono-font: 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
 }
+
+mark {
+  color: var(--mist-text);
+  background-color: var(--mist-cyan-br);
+  padding-inline: .25rem;
+  border-radius: .25rem;
+}

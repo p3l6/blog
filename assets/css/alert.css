@@ -1,0 +1,23 @@
+blockquote.alert {
+  --alert-accent-color: var(--mist-cyan);
+  --alert-symbol: "❖";
+
+  margin: 1rem 1.5rem;
+  padding-left: 1rem;
+  border-left: var(--border-width-thick) solid var(--alert-accent-color);
+
+  .alert-title {
+    font-variant-caps: small-caps;
+    color: var(--alert-accent-color);
+    &::before {
+      content: var(--alert-symbol);
+    }
+  }
+
+  &.alert-note { --alert-symbol: "❖"; --alert-accent-color: var(--mist-cyan); }
+  &.alert-tip { --alert-symbol: "✓"; --alert-accent-color: var(--mist-cyan); }
+  &.alert-important { --alert-symbol: "‼︎"; --alert-accent-color: var(--mist-blue); }
+  &.alert-warning { --alert-symbol: "✗"; --alert-accent-color: var(--mist-red); }
+  &.alert-abstract { --alert-symbol: "¶"; --alert-accent-color: var(--heading-color); }
+  &.alert-source { --alert-symbol: "✎"; --alert-accent-color: var(--mist-text); }
+}

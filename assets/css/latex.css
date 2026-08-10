@@ -4,8 +4,6 @@
  * Licensed under MIT (https://github.com/vincentdoerig/latex-css/blob/master/LICENSE)
 */
 
-@import './fonts.css';
-
 :root {
   --border-width-thin: 1.36px;
   --border-width-thick: 2.27px;

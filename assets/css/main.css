@@ -4,4 +4,6 @@
 @import './fonts.css';
 @import './latex.css';
 @import './layout.css';
+@import './nav.css';
+@import './alert.css';
 @import './highlight.css';
