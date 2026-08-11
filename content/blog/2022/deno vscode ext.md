@@ -1,6 +1,6 @@
 ---
 title: Using Deno in a Vscode Extension
-summary: Compiling deno source files into node package dependencies.
+description: Compiling deno source files into node package dependencies.
 date: 2022-07-26
 ---
 

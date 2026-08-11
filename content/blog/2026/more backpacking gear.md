@@ -1,6 +1,6 @@
 ---
 title: More Good Backpacking Gear
-summary: On my recent backpacking trip, I took quite a few pieces of new gear. I wanted to share some of the reasons why it was great.
+description: On my recent backpacking trip, I took quite a few pieces of new gear. I wanted to share some of the reasons why it was great.
 date: 2026-05-12 11:00:00 -0400
 ---
 

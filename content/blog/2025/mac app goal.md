@@ -1,6 +1,6 @@
 ---
 title: A New Goal to Publish a Mac App
-summary: I recently had the realization that I have never shipped a side project mac app.
+description: I recently had the realization that I have never shipped a side project mac app.
 date: 2025-11-09 15:00:00 -0500
 ---
 

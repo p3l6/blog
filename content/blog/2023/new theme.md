@@ -1,6 +1,6 @@
 ---
 title: New Blog Theme
-summary: I wholistically updated the blog's style and layout.
+description: I wholistically updated the blog's style and layout.
 date: 2023-11-21 21:00:00 -0500
 ---
 

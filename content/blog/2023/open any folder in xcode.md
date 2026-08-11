@@ -1,6 +1,6 @@
 ---
 title: Open Any Folder in Xcode
-summary: A short shell utility to open folders as an Xcode workspace.
+description: A short shell utility to open folders as an Xcode workspace.
 date: 2023-09-06 13:40:00 -0400
 ---
 

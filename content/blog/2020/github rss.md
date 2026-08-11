@@ -1,6 +1,6 @@
 ---
 title: Github as an RSS Manager
-summary: Syncing feed lists stored in a github repository.
+description: Syncing feed lists stored in a github repository.
 date: 2020-05-12
 ---
 

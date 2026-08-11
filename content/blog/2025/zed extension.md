@@ -1,6 +1,6 @@
 ---
 title: Zed Extension for Bag Notation
-summary: The zed extension for bag notation is available, in developer mode.
+description: The zed extension for bag notation is available, in developer mode.
 date: 2025-03-22 22:00:00 -0400
 ---
 

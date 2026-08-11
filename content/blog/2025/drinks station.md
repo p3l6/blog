@@ -1,6 +1,6 @@
 ---
 title: Drinks Station
-summary: As a step in improving our new house, we have finished constructing a drinks station in the empty nook next to our kitchen.
+description: As a step in improving our new house, we have finished constructing a drinks station in the empty nook next to our kitchen.
 date: 2025-09-26 17:00:00 -0400
 ---
 

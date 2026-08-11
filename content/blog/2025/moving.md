@@ -1,6 +1,6 @@
 ---
 title: Moving House
-summary: Thoughts on moving with little children
+description: Thoughts on moving with little children
 date: 2025-06-24 20:00:00 -0400
 ---
 

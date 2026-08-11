@@ -1,6 +1,6 @@
 ---
 title: Bag Notation
-summary: A status update on my bagpipe music notation language.
+description: A status update on my bagpipe music notation language.
 date: 2025-02-28 20:00:00 -0500
 highlight: true
 ---

@@ -1,6 +1,6 @@
 ---
 title: Warp Terminal
-summary: I tried out and switched to a new terminal program.
+description: I tried out and switched to a new terminal program.
 date: 2023-01-18
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Creating a Custom Color Theme
-summary: I have formalized my custom color palette to use for this site and syntax highlighting.
+description: I have formalized my custom color palette to use for this site and syntax highlighting.
 date: 2026-05-27 20:00:00 -0400
 ---
 

@@ -7,7 +7,7 @@
     <a href="{{ .RelPermalink }}" style="color: var(--heading-color)">{{ .LinkTitle }}</a>
     <em style="float: right">/ {{ .Date | time.Format "2 Jan 2006"}} /</em>
 
-    <p>{{.Summary}}</p>
+    <p>{{.Description}}</p>
     <hr />
   {{ end }}
 </section>

@@ -1,6 +1,6 @@
 ---
 title: ABC Music Library
-summary: Storing my music in a git repository.
+description: Storing my music in a git repository.
 date: 2019-11-01
 ---
 

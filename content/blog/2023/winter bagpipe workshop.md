@@ -1,6 +1,6 @@
 ---
 title: Winter Bagpipe Workshop
-summary: A couple takeaways from a bagpipe workshop.
+description: A couple takeaways from a bagpipe workshop.
 date: 2023-12-21 16:00:00 -0500
 ---
 

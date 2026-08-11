@@ -1,6 +1,6 @@
 ---
 title: Advent of Code 2025
-summary: Thoughts from completing this year's adventofcode.com puzzles.
+description: Thoughts from completing this year's adventofcode.com puzzles.
 date: 2025-12-12 09:45:00 -0500
 ---
 

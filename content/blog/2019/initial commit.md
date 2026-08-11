@@ -1,6 +1,6 @@
 ---
 title: Initial Commit
-summary: My first post to this blog.
+description: My first post to this blog.
 date: 2019-02-13
 ---
 

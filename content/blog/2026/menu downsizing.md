@@ -1,6 +1,6 @@
 ---
 title: Menu Downsizing
-summary: Recently it seems that restaurants everywhere are downsizing their menus.
+description: Recently it seems that restaurants everywhere are downsizing their menus.
 date: 2026-02-24 20:00:00 -0500
 ---
 

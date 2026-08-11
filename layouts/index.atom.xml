@@ -47,7 +47,7 @@
   <title>{{ .Title }}</title>
   <published>{{ .Date.Format $dateFormat | safeHTML }}</published>
   <updated>{{ .Lastmod.Format $dateFormat | safeHTML }}</updated>
-  {{- with .Summary }}
+  {{- with .Description }}
   <summary type="html">{{ . | transform.XMLEscape | safeHTML }}</summary>
   {{- end }}
   <content type="html" xml:base="{{ .Site.BaseURL }}" xml:lang="en">

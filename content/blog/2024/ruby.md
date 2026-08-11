@@ -1,6 +1,6 @@
 ---
 title: Learning Ruby Scripting
-summary: I spent some time learning a bit about ruby. I enjoyed it, and used ruby for a couple small tasks.
+description: I spent some time learning a bit about ruby. I enjoyed it, and used ruby for a couple small tasks.
 date: 2024-11-15 12:00:00 -0500
 ---
 

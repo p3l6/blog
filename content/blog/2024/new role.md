@@ -1,6 +1,6 @@
 ---
 title: New Role
-summary: Reflections on differences brought about by company size.
+description: Reflections on differences brought about by company size.
 date: 2024-09-20 20:30:00 -0400
 ---
 

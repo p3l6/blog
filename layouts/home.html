@@ -3,7 +3,7 @@
 
 	{{ $latest := index (where .Site.RegularPages.ByDate.Reverse "Section" "blog") 0 }}
  	<h2>Latest Blog Post: <a href="{{ $latest.RelPermalink }}">{{$latest.Title}}</a></h2>
- 	{{ $latest.Summary }}
+ 	{{ $latest.Description }}
 
  	<blockquote>{{ $latest.Content | strings.Truncate 300 }} <a href="{{ $latest.RelPermalink }}">Keep reading post</a></blockquote>
 
@@ -15,7 +15,7 @@
 	{{ $posts := where (where .Site.RegularPages "Section" "blog") ".Params.highlight" true  }}
 	{{ range $posts }}
 	  <li>
-	  <a href="{{ .RelPermalink }}">{{.Title}}</a>: {{.Summary}} <br/>
+	  <a href="{{ .RelPermalink }}">{{.Title}}</a>: {{.Description}} <br/>
 	  <em>/ {{ .Date | time.Format "2 Jan 2006"}} /</em>
     </li>
 	{{ end }}

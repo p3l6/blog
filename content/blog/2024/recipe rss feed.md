@@ -1,6 +1,6 @@
 ---
 title: New RSS Feed for Recipes
-summary: I added a second feed, just for new recipes.
+description: I added a second feed, just for new recipes.
 date: 2024-01-09 03:00:00 -0500
 ---
 

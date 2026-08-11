@@ -1,6 +1,6 @@
 ---
 title: Pipe Rack
-summary: I finished a woodworking project to hold many sets of bagpipes.
+description: I finished a woodworking project to hold many sets of bagpipes.
 redirect_from: /piperack/
 date: 2020-11-24
 ---
