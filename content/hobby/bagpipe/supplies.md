@@ -1,8 +1,7 @@
 ---
 title: Bagpipe Supplies
+description: A small list of bagpipe products that I like to use, and thoughts about them.
 ---
-
-This is a small list of bagpipe products that I like to use, and thoughts about them.
 
 * Bags
   * Bannatyne extended small bag (9.5 x 26.5") bottom zip. The bottom zip makes this the best synthetic bag.

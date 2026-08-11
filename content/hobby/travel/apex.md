@@ -1,12 +1,9 @@
 ---
 title: Apex Guidebook
+description: A short list of activities and restaurants we might suggest for our visitors. Some options extend to Cary and the surrounding area.
 aliases:
   - /lists/apex/
 ---
-
-> [!ABSTRACT]
-> A short list of activities and restaurants we might suggest for our visitors.
-Some options extend to Cary and the surrounding area.
 
 ## Activities
 

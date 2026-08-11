@@ -2,6 +2,15 @@
 title: Backpacking
 ---
 
+Some areas I've backpacked in are:
+* Colorado
+  * Indian Peaks Wilderness
+  * Arapaho National Forest
+  * Maroon Bells
+  * Rocky Mountain National Park
+* North Carolina
+  * Appalachian Trail (sections)
+
 ## Appalachian Trail
 
 I have been hiking sections of the AT with a friend.

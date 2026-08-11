@@ -7,6 +7,15 @@ menus:
     parent: Hobbies
 ---
 
+Currently my primary keyboard is a Prime_E.
+
+I got into this hobby because I wanted to program my own layout, and add little tricks and shortcuts for the keys.
+That is really fun!
+I am able to have access to have all the keys on a full keyboard, but in a more compact space.
+
+My first keyboard was a fully custom layout, hand wired. Most of the keyboards since then have been kits, and those are much easier.
+But by jumping in the deep end at the beginning, I learned a lot!
+
 ## Keymaps
 
 I prefer to use the QMK open source firmware for programming layouts. There are many easy ways to get into this, including `VIA` and `json`, but I have always used the bare C language to define layouts. This allows for the most flexibility and largest feature set when it comes to macros, etc.

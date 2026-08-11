@@ -1,9 +1,7 @@
 ---
 title: Solo bagpipe contest results
+description: This is a list of all the times I have competed in solo events with the bagpipes, the tunes I was performing, and the results.
 ---
-
-> [!ABSTRACT]
-> This is a list of all the times I have competed in solo events with the bagpipes, the tunes I was performing, and the results.
 
 | Event | Place | Field | Tune |
 | :---: | :---: | :---: | ---- |

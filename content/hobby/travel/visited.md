@@ -1,10 +1,9 @@
 ---
 title: States (and Places) Visited
+description: A record here of various places I have been.
 aliases:
   - /lists/travel/
 ---
-
-Just keeping a record here of various places I have been.
 
 * Lived: This was my primary residence for at least a few months
 * Visited: I've taken a trip here, with the intention of seeing things

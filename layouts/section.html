@@ -13,6 +13,8 @@
   		<h2>{{.Title}}</h2>
   		{{- partial "inline/section/pagelist.html" .RegularPages }}
     {{- end }}
+  {{- else if .Params.skipListing }}
+  <!-- Nothing to do -->
   {{- else }}
     {{- partial "inline/section/pagelist.html" .Pages }}
   {{- end }}
