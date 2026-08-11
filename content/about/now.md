@@ -1,8 +1,10 @@
 ---
 title: Now
+description: What I'm up to lately
 menus:
   main:
     parent: About
+weight: 1
 redirect_from: /now/
 ---
 

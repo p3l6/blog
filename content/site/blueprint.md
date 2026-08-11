@@ -1,13 +1,10 @@
 ---
 title: Blueprint
+description: This is a description of how my blog is designed, written, and published. Sometimes this could be called a colophon.
 menus:
   main:
     parent: Site
 ---
-
-> [!ABSTRACT]
-> This is a description of how my blog is designed, written, and published.
-Sometimes this could be called a colophon.
 
 ## Privacy
 
@@ -43,7 +40,7 @@ I quickly abandoned Word and other WYSIWYG editors as much as possible. A prefer
 
 ## Layout and colors
 
-The current layout for this blog was _heavily_ inspired by another blog, [Sympolymathesy](https://v5.chriskrycho.com). Thank you, Chris, for the inspiration.
+The current layout for this blog was inspired by another blog, [Sympolymathesy](https://v5.chriskrycho.com). Thank you, Chris, for the inspiration.
 I borrowed the aesthetic, and derived the appropriate css for myself, adding my own personal fonts and colors.
 
 The colors are a custom palette that I call _Mist_, generated using the OKLCH color space. Details can be found on a [dedicated page](/site/mist/).

@@ -1,13 +1,7 @@
 {{ define "main" }}
 
 <section >
-  <blockquote class="alert alert-abstract">
-    <p class="alert-title"> Abstract </p>
-    <p>{{ .Summary }}</p>
-  </blockquote>
-</section>
-
-<section>
+  {{- partial "abstract.html" .Summary }}
   {{ .Content }}
 </section>
 
@@ -16,8 +10,8 @@
 <footer>
   <h3>Post details:</h3>
   <ul>
-    <li>Published: {{ .Date | time.Format "2 Jan 2006"}}</li>
     <li>Author: Paul Landers</li>
+    <li>Published: {{ .Date | time.Format "2 Jan 2006"}}</li>
     {{- with .Params.changes }}
       <li>Changes:<ul>
       {{ range . }}

@@ -1,5 +1,6 @@
 ---
 title: Tic Tac Cubed
+description: iPhone game based on tic-tac-toe
 logo: /images/tictaccubed/app-icon.png
 aliases:
   - /dev/projects/tictaccubed

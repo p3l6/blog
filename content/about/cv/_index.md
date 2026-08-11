@@ -1,5 +1,6 @@
 ---
 title: Resume
+description: My career portfolio
 menus:
   main:
     parent: About

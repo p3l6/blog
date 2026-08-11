@@ -1,7 +1,8 @@
 ---
 title: Recipes
 linkTitle: Cook
-layout: bySubSection
+params:
+  groupBySubsection: true
 menus: main
 aliases:
   - /pages/cook

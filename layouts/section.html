@@ -1,11 +1,35 @@
 {{ define "main" }}
 <section>
-	{{ .Content }}
-	<ul>
-	{{- range .Pages }}
-    <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+  {{- with .Description }}
+  {{- partial "abstract.html" . }}
   {{- end }}
-	</ul>
+	{{ .Content }}
+	{{- if .Params.groupBySubsection }}
+	  {{- $sections := .Sections }}
+	  {{- if .Params.reverseSubsections }}
+			{{- $sections = $sections.Reverse }}
+		{{- end }}
+  	{{- range $sections }}
+  		<h2>{{.Title}}</h2>
+  		{{- partial "inline/section/pagelist.html" .RegularPages }}
+    {{- end }}
+  {{- else }}
+    {{- partial "inline/section/pagelist.html" .Pages }}
+  {{- end }}
 </section>
 
 {{ end }}
+
+{{- define "_partials/inline/section/pagelist.html" }}
+<ul>
+  {{- range . }}
+  <li>
+     <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+
+     {{- with .Description }}
+     <blockquote>{{ . }}</blockquote>
+     {{- end }}
+  </li>
+  {{- end }}
+</ul>
+{{- end }}

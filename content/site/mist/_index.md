@@ -1,6 +1,7 @@
 ---
 title: Mist Color Theme
 linkTitle: Mist
+description: A general purpose color scheme
 menus:
   main:
     parent: Site

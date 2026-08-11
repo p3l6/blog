@@ -1,11 +1,11 @@
 {{ if eq .Type "alert" }}
   <blockquote class="alert alert-{{ .AlertType }}">
     <p class="alert-title">
-      {{ with .AlertTitle }}
+      {{- with .AlertTitle }}
         {{ . }}
-      {{ else }}
+      {{- else }}
         {{ title .AlertType }}
-      {{ end }}
+      {{- end }}
     </p>
     {{ .Text }}
   </blockquote>

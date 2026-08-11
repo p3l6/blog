@@ -1,7 +1,10 @@
 ---
-title: WWDC and Other Apple Event Notes
+title: WWDC
 linkTitle: Wwdc
-layout: bySubSectionReverse
+description: Notes from WWDC and other Apple events
+params:
+  groupBySubsection: true
+  reverseSubsections: true
 menus:
   main:
     parent: Dev

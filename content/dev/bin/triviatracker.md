@@ -1,5 +1,6 @@
 ---
 title: Trivia Tracker
+description: iPhone app for tracking game show scores
 logo: /images/triviatracker/app-icon.svg
 aliases:
   - /dev/projects/triviatracker

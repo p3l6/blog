@@ -2,6 +2,7 @@
 title: Contact & Accounts
 linkTitle: Contact
 logo: /images/logos/p3l6.svg
+description: Emails and links to various online account
 menus:
   main:
     parent: About
