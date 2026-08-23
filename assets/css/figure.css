@@ -1,0 +1,28 @@
+figure {
+  &.inline {
+    display: inline-block;
+    vertical-align: top;
+    box-sizing: border-box;
+    img {
+      width: 100%;
+      height: auto;
+    }
+
+    &.double {
+      margin-left: 2%;
+      width: 45%
+    }
+
+    &.triple {
+      margin-left: 1%;
+      width: 30%
+    }
+  }
+
+  figcaption {
+    font-size: 0.9em;
+    padding: 0 0.25em 0.25em;
+    width: 100%;
+    margin-left: 0;
+  }
+}
