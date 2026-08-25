@@ -7,6 +7,3 @@ menus: main
 aliases:
   - /pages/cook
 ---
-
-[Subscribe!](/feed.xml)
-{style="text-align:right" }

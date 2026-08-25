@@ -2,7 +2,7 @@
 title: Contact & Accounts
 linkTitle: Contact
 logo: /images/logos/p3l6.svg
-description: Emails and links to various online account
+description: Emails and links to various online accounts
 menus:
   main:
     parent: About
@@ -26,7 +26,7 @@ redirect_from:
 | ------- | --- |
 | Blog and Recipes | [Subscribe (atom)](/feed.xml) |
 
-## Social Accounts
+## Socials
 
 | | |
 | ------------------ | --- |

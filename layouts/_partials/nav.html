@@ -1,6 +1,8 @@
-{{- $page := . }}
+<nav id="nav" class="main-nav">
+  <h2><a href="/">ers.land</a></h2>
+  <hr />
 {{- range  site.Menus.main }}
-  {{- $selected := or ($page.IsMenuCurrent .Menu .) ($page.HasMenuCurrent .Menu .) }}
+  {{- $selected := or ($.IsMenuCurrent .Menu .) ($.HasMenuCurrent .Menu .) }}
   {{- if $selected }}
     <a class="menuitem current" href="{{ .URL }}">
   {{- else}}
@@ -12,7 +14,7 @@
     {{- with .Children }}
       <hr />
       {{- range . }}
-        {{- $childSelected := or ($page.IsMenuCurrent .Menu .) ($page.HasMenuCurrent .Menu .) }}
+        {{- $childSelected := or ($.IsMenuCurrent .Menu .) ($.HasMenuCurrent .Menu .) }}
         {{- if $childSelected }}
           <a class="menuitem child current" href="{{ .URL }}">
         {{- else }}
@@ -25,3 +27,10 @@
     {{- end }}
   {{- end }}
 {{- end -}}
+  <img class="logo" src={{ .Params.logo | default .Site.Params.logo }} alt="Logo" />
+  <div class="buttons">
+  <a class="button" href="/feed.xml"><svg><use href="/images/buttons.svg#rss" /></svg></a>
+  <a class="button" href="/about/card"><svg><use href="/images/buttons.svg#letter" /></svg></a>
+  <a class="button" href="https://github.com/p3l6"><svg><use href="/images/buttons.svg#github" /></svg></a>
+  </div>
+</nav>

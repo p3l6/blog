@@ -32,12 +32,7 @@
      	{{- end -}}
     </article>
   </main>
-  <nav id="nav" class="main-nav">
-    <h2><a href="/">ers.land</a></h2>
-    <hr />
-    {{- partial "nav.html" . }}
-    <img src={{ .Params.logo | default .Site.Params.logo }} alt="Logo" />
-  </nav>
+  {{- partial "nav.html" . }}
 </body>
 
 </html>
