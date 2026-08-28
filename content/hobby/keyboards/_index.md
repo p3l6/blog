@@ -31,6 +31,11 @@ All my keymaps can be found in my dotfiles repository, here are a few examples:
 * [Bmek](https://github.com/p3l6/env/blob/main/keymaps/keyboards/bemeier/bmek/keymaps/me/keymap.c)
 * [Shared custom keycode macros](https://github.com/p3l6/env/blob/main/keymaps/users/me/custom-keycodes.h)
 
+For my daily driver, the Prime_E, this is the key layout I am currently using:
+(Top legends are NAV layer, left legends are SYMB layer, right legends are NUM layer, bottom legends are CODE layer)
+
+![Keyboard layout](/images/keyboards/prime_layout_current.png)
+
 ## Collection
 
 This is an inventory of my keyboards and keycap sets.
