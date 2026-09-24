@@ -8,9 +8,9 @@ As such, I maintain and post to it as a *personal digital garden*, for my own en
 ## Running locally
 
 1. Install stuff
-  1. `hugo`
-  2. `typst`
-  3. `resvg`
+   1. `hugo`
+   2. `typst`
+   3. `resvg`
   4. `go-task`
 2. `task serve`
 

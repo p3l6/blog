@@ -15,7 +15,7 @@ frac chars | ⅛  2¼  ⅓  1½  ⅔  ¾
 
 1. Capitalized.
 2. Trailing periods.
-  1. Sub-steps. (indent three)
+   1. Sub-steps. (indent three)
 
 > [!SOURCE]
 > Optional recipe source
