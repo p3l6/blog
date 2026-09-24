@@ -34,6 +34,9 @@ Depending on a light or dark mode, either 400 or 600 is used as the standard acc
 | Selection  | blue-300   | blue-700   |
 | Cursor     | blue-500   | blue-500   |
 | ---------- | ---------- | ---------- |
+| Diff add   | green-200  | green-800  |
+| Diff del   | red-200    | red-800    |
+| ---------- | ---------- | ---------- |
 | bg         | mist-100   | mist-900   |
 | bg-sel     | mist-200   | mist-800   |
 | border     | mist-300   | mist-700   |
