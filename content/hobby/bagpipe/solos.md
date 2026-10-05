@@ -5,6 +5,12 @@ description: This is a list of all the times I have competed in solo events with
 
 | Event | Place | Field | Tune |
 | :---: | :---: | :---: | ---- |
+|||| 2026 - G3 @ Scotland County |
+| - | - | - | - |
+| 2/4   |       |   9   | South Hall                          |
+| SR    |       |   9   | Catlodge & Fiona MacLeod            |
+| Piob  |       |   9   | The King's Taxes                    |
+| - | - | - | - |
 |||| 2026 - G3 @ Cary Indoor |
 | - | - | - | - |
 | 2/4   |   4   |   7   | South Hall                          |
@@ -35,19 +41,19 @@ description: This is a list of all the times I have competed in solo events with
 | SR    |   5   |   6   | Monymusk & Colonel MacLeod          |
 | Piob  |   3   |   5   | MacLeods Controversy                |
 | - | - | - | - |
-|||| 2021 - G3 @ Macmillan Virtual |
+|||| 2021 - G3 @ Macmillan (Virtual) |
 | - | - | - | - |
 | 2/4   |       |  18   | Arthur Bignold of Lochrosque        |
 | SR    |   5   |  17   | Monymusk & Thomsons Dirk            |
 | 6/8   |   5   |  17   | Donald Maclean of Lewis             |
 | Jig   |   3   |  17   | Hen's March                         |
 | - | - | - | - |
-|||| 2021 - G3 @ Ohio Valley
+|||| 2021 - G3 @ Ohio Valley (Virtual) |
 | - | - | - | - |
 | 2/4   |       |  14   | Arthur Bignold of Lochrosque        |
 | SR    |       |  13   | Monymusk & Thomsons Dirk            |
 | - | - | - | - |
-|||| 2020 - G3 @ Cary |
+|||| 2020 - G3 @ Cary Indoor |
 | - | - | - | - |
 | 2/4   |       |  18   | John MacDonald of Glencoe           |
 | SR    |       |  18   | Caledonian Society of London & Bob Hills Ceilidh |
