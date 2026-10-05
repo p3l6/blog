@@ -13,7 +13,7 @@ COLOR_HUES = {
   red: 29,
   orange: 56,
   yellow: 84,
-  green: 146,
+  green: 156,
   cyan: 184,
   blue: 242,
   purple: 286,
@@ -206,6 +206,9 @@ def markdown_usage_table
     | ---------- | ---------- | ---------- |
     | Selection  | blue-300   | blue-700   |
     | Cursor     | blue-500   | blue-500   |
+    | ---------- | ---------- | ---------- |
+    | Diff add   | green-200  | green-800  |
+    | Diff del   | red-200    | red-800    |
     | ---------- | ---------- | ---------- |
   MD
   LIGHT_GRAY_LEVELS.each_key do |name|

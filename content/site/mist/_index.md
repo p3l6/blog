@@ -9,7 +9,7 @@ menus:
 
 The colors used on this site are part of a color theme I call **Mist**.
 I also use it for terminals and syntax highlighting in text editors.
-To learn more about the process for selecting these colors, see the [blog post](/2026/color-theme/) I wrote at that time.
+To learn more about the process for selecting these colors, see the [blog post](/blog/2026/color-theme/) I wrote at that time.
 
 There is a base color (`mist`), used for foreground/background, and eight accents colors (`red`, `cyan`, etc).
 Each color has nine levels, where 100 is the lightest, and 900 is the darkest.
@@ -17,7 +17,7 @@ Each color has nine levels, where 100 is the lightest, and 900 is the darkest.
 > [!NOTE]
 > Preview swatches of all theme colors are on a [separate preview page](/site/mist/preview).
 > Syntax highlighting examples can be seen on any blog post with significant code chunks,
-> such as [this one](/2023/open-any-folder-in-xcode/) or [this one](/2022/deno-vscode-ext/).
+> such as [this one](/blog/2023/open-any-folder-in-xcode/) or [this one](/blog/2022/deno-vscode-ext/).
 
 ## Color usage
 
@@ -67,15 +67,15 @@ This table lists hex codes[^1] for the full palette: every color at every level.
 
 |     | Mist    | Red     | Orange  | Yellow  | Green   | Cyan    | Blue    | Purple  | Magenta |
 | --- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
-| 100 | #F1F6FC | #FFF1EF | #FFF3EA | #FBF4E9 | #EEF8EE | #E9F9F6 | #ECF7FF | #F4F4FF | #FCF1FA |
-| 200 | #E0E5EB | #FFDBD5 | #FBDECB | #F2E3C6 | #D4ECD5 | #C7EEE7 | #CEE9FE | #E2E1FF | #F5DBF1 |
-| 300 | #CDD1D8 | #F9C1B8 | #F4C7A8 | #E6CEA0 | #B6DDB8 | #A0E0D6 | #ABD7F9 | #CDCBFB | #EBC2E5 |
-| 400 | #B3B8BE | #F59C8F | #EDA571 | #D8B161 | #89CA8D | #57CEBF | #75C0F7 | #B1ADFA | #E09ED8 |
-| 500 | #9DA2A8 | #E28376 | #DA8D53 | #C59A3E | #6DB573 | #21B9AA | #56AAE6 | #9B96E9 | #CC85C4 |
-| 600 | #7F8489 | #B96A5F | #B27242 | #A07D31 | #58945D | #19978A | #448ABC | #7E79BE | #A76BA0 |
-| 700 | #5D6166 | #894D45 | #84532F | #775C21 | #3F6D43 | #0F6F66 | #30668B | #5C598D | #7B4E76 |
-| 800 | #44484D | #683832 | #643D20 | #594415 | #2D5230 | #05544C | #214C6A | #45426B | #5D3959 |
-| 900 | #2A2E33 | #422420 | #402715 | #392C0F | #1E341F | #0A3530 | #163143 | #2C2A44 | #3B2539 |
+| 100 | #F1F6FC | #FFF1EF | #FFF3EA | #FBF4E9 | #EDF9F0 | #E9F9F6 | #ECF7FF | #F4F4FF | #FCF1FA |
+| 200 | #E0E5EB | #FFDBD5 | #FBDECB | #F2E3C6 | #D0EDD9 | #C7EEE7 | #CEE9FE | #E2E1FF | #F5DBF1 |
+| 300 | #CDD1D8 | #F9C1B8 | #F4C7A8 | #E6CEA0 | #AFDFBF | #A0E0D6 | #ABD7F9 | #CDCBFB | #EBC2E5 |
+| 400 | #B3B8BE | #F59C8F | #EDA571 | #D8B161 | #7ACC9A | #57CEBF | #75C0F7 | #B1ADFA | #E09ED8 |
+| 500 | #9DA2A8 | #E28376 | #DA8D53 | #C59A3E | #5BB882 | #21B9AA | #56AAE6 | #9B96E9 | #CC85C4 |
+| 600 | #7F8489 | #B96A5F | #B27242 | #A07D31 | #499569 | #19978A | #448ABC | #7E79BE | #A76BA0 |
+| 700 | #5D6166 | #894D45 | #84532F | #775C21 | #346E4C | #0F6F66 | #30668B | #5C598D | #7B4E76 |
+| 800 | #44484D | #683832 | #643D20 | #594415 | #245338 | #05544C | #214C6A | #45426B | #5D3959 |
+| 900 | #2A2E33 | #422420 | #402715 | #392C0F | #183524 | #0A3530 | #163143 | #2C2A44 | #3B2539 |
 
 <!-- EXPANDED TABLE END -->
 
