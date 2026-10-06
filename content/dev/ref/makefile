@@ -19,7 +19,7 @@ all: .util/tmp/$(DOCSET_NAME).docset.zip
 
 .util/tmp/$(DOCSET_NAME).docset.zip: .util/tmp/$(DOCSET_NAME).docset/Contents/Info.plist .util/tmp/github-markdown.css $(HTML) .util/tmp/$(DOCSET_NAME).docset/Contents/Resources/docSet.dsidx
 	cp ../../site/icon/boat-round-32.png .util/tmp/$(DOCSET_NAME).docset/icon.png
-	zip -r $@ .util/tmp/$(DOCSET_NAME).docset/
+	cd .util/tmp/ && zip -r $(DOCSET_NAME).docset.zip $(DOCSET_NAME).docset/
 
 .util/tmp/dbload.sql: $(HTML)
 	mkdir -p .util/tmp
