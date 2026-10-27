@@ -76,7 +76,7 @@ aliases:
 
 ## Other notes
 * Grayl filter should last 300 uses, or 3 years. Last replaced in may, 2024.
-* If squishy bowl wears out or is no longer made, check humangear; or go Ti.
+* If squishy bowl wears out or is no longer made, check humangear; or go Ti; or sea-to-summit xlite mug.
 * Dont bother with trail mix, nuts, or gorp. It wont get eaten!
 * Only one oatmeal packet per breakfast.
 * Bear canister fits in the bottom compartment of pack.
