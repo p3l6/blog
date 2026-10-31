@@ -8,11 +8,12 @@ aliases:
   - /resume/
 ---
 
-> Experienced Software Engineer developing for MacOS & iOS applications.
+> Experienced Software Engineer with a focus on MacOS applications and system programming.
 > Expertise with debugging, problem solving, and solution design architecture.
 > Punctual communicator, patient, and thrives on a fully remote team.
 > Mentors and assists teammates in their professional growth.
 > Always open to new technologies: mindful of which tool is best suited for a task.
+> Uses LLMs responsibly to increase development velocity while maintaining code quality.
 
 [Full PDF Resume](/pdfs/resume.pdf) -- [LinkedIn Profile](http://www.linkedin.com/in/p3l6)
 
@@ -21,6 +22,7 @@ aliases:
 * *Languages:* `Swift, Objective-C, Python, Typescript, C++, C, Ruby, SQL`
 * *Frameworks:* `SwiftUI, AppKit, CoreData, Cocoa, iOS, Vapor, OpenGL, GNUstep, React`
 * *Tools:* `XCode, Jira, Github, Bitbucket, VSCode, Docker, Postgres, SQLite`
+* *AI:* `Claude code, Codex, Subagents & orchestration, Prompt engineering`
 * *Markup:* `Typst, Markdown, LaTeX`
 * *Shell:* `Bash, Zsh, Fish, Git, Make`
 
@@ -28,7 +30,7 @@ aliases:
 
 * Software Engineer III
   * @ [CrowdStrike](https://crowdstrike.com)
-  * _Developed features and tests for the macOS endpoint sensor_
+  * _Developed core system features for the macOS endpoint sensor_
   * Sept 2024 - Present
 * Senior macOS Software Engineer
   * @ [Boombox](https://boombox.io)

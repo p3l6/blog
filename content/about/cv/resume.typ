@@ -29,11 +29,12 @@
 paul\@ers.land #h(1fr) `https://github.com/p3l6` \
 
 #block(stroke: gray, inset: 1em, radius: 4pt)[#emph[
-Experienced Software Engineer developing for MacOS & iOS applications.
+Experienced Software Engineer with a focus on MacOS applications and system programming.
 Expertise with debugging, problem solving, and solution design architecture.
 Punctual communicator, patient, and thrives on a fully remote team.
 Mentors and assists teammates in their professional growth.
 Always open to new technologies: mindful of which tool is best suited for a task.
+Uses LLMs responsibly to increase development velocity while maintaining code quality.
 ]]
 
 = Software Skills
@@ -41,6 +42,7 @@ Always open to new technologies: mindful of which tool is best suited for a task
 - *Languages:* `Swift, Objective-C, Python, Typescript, C++, C, Ruby, SQL`
 - *Frameworks:* `SwiftUI, AppKit, CoreData, Cocoa, iOS, Vapor, OpenGL, GNUstep, React`
 - *Tools:* `XCode, Jira, Github, Bitbucket, VSCode, Docker, Postgres, SQLite`
+- *AI:* `Claude code, Codex, Subagents & orchestration, Prompt engineering`
 - *Markup:* `Typst, Markdown, LaTeX`
 - *Shell:* `Bash, Zsh, Fish, Git, Make`
 
@@ -50,14 +52,16 @@ Always open to new technologies: mindful of which tool is best suited for a task
   "Software Engineer III",
   "Crowdstrike",
   "Sept 2024 - Present",
-  "Developed features and tests for the macOS endpoint sensor",
+  "Developed core system features for the macOS endpoint sensor",
   "Swift, EndpointSecurity, Python, Objective-C, C++, BitBucket, Jira, Zsh"
 )
 
-- Lead implementation of projects
-  - Improved installation experience for customers
-  - Intelligent cloud endpoint routing for server outages
-- As a project lead, gathered requirements to determine best solution that meets customers needs
+- Led projects through planning and implementation
+  - Improved installation and distribution packaging
+  - Intelligent cloud endpoint routing, for server outage mitigation
+- Gathered requirements to determine best solution that meets customers needs
+- Utilized AI tooling to enhance productivity
+- Efficiently connecting legacy components via swift-cpp interop
 - Improved reliability by fixing security issues and potential vulnerabilities
 - Triaged test failures, investigating and fixing failing tests in CI nightly test jobs
 
