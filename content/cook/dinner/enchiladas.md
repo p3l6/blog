@@ -5,7 +5,7 @@ date: 2019-03-12 12:00:00 -0500
 
 || Ingredients |
 |-:|-|
-1 C   | salsa and green chilis combo
+1½ C  | salsa and green chilis combo
 ½ C   | sour cream
 2 tsp | chili powder
 2 C   | cooked chicken, cut in small cubes
